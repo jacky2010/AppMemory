@@ -1,0 +1,14 @@
+{
+    "error": 200,
+    "data": [
+        {
+            "app_name": 1,
+            "version_name":"1.0",
+            "version_code":1,
+            "link_apk_server": "",
+            "link_apk_store":"",
+            "update": 0,
+            "icon_app":""
+        }
+     ]
+}

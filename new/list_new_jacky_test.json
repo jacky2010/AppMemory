@@ -1,0 +1,66 @@
+{
+  "error": 200,
+  "data": [
+    {
+      "id": "11",
+      "type_page": 1,
+      "type_name_page": "Báo Tổng hợp",
+      "link_page": [
+        "http://tuoitre.vn/rss/tt-tin-moi-nhat.rss",
+        "http://tuoitre.vn/rss/tt-the-gioi.rss",
+        "http://tuoitre.vn/rss/tt-kinh-te.rss",
+        "http://tuoitre.vn/rss/tt-giao-duc.rss",
+        "http://tuoitre.vn/rss/tt-van-hoa-giai-tri.rss",
+        "http://tuoitre.vn/rss/tt-nhip-song-so.rss",
+        "http://tuoitre.vn/rss/tt-du-lich.rss",
+        "http://tuoitre.vn/rss/tt-chinh-tri-xa-hoi.rss",
+        "http://tuoitre.vn/rss/tt-phap-luat.rss",
+        "http://tuoitre.vn/rss/tt-song-khoe.rss",
+        "http://tuoitre.vn/rss/tt-the-thao.rss",
+        "http://tuoitre.vn/rss/tt-nhip-song-tre.rss",
+        "http://tuoitre.vn/rss/tt-ban-doc.rss"
+      ],
+      "name_page": "Tuổi Trẻ Online",
+      "content_delete": [
+        "div[class=block-feature block-feature-1]",
+        "div[class=tool-bar]",
+        "ul[class=list-tool]",
+        "a[href]",
+        "script",
+        "div[id=listComment]",
+        "div[class=fmsidWidgetNewsBoxAnchor]",
+        "div[class=nnAdsPos clearfix]"
+      ],
+      "content_new_detail": [
+        "p[class=txt-head]",
+        "div[class=fck ]"
+      ],
+      "category_page": [
+        "Trang chủ",
+        "Thế giới",
+        "Kinh tế",
+        "Giáo dục",
+        "Văn hóa - Giải trí",
+        "Nhịp sống số",
+        "Du lịch",
+        "Chính trị - Xã hội",
+        "Pháp luật",
+        "Sống khỏe",
+        "Thể thao",
+        "Nhịp sống trẻ",
+        "Bạn đọc"
+
+      ],
+      "link_icon_page": "ic_new_tuoitre.png",
+      "format_date": "EEEE, dd MMM yyyy HH:mm:ss",
+      "choose": 0,
+      "active": 1,
+      "style": 0,
+      "continue": 1
+    }
+  ]
+}
+
+
+
+
