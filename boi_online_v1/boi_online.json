@@ -1,0 +1,299 @@
+{
+  "error": 200,
+  "data": [
+    {
+      "id": "1",
+      "menu_name": "Home",
+      "link_page": "http://boi.vn/",
+      "no_image": 1,
+      "list_category_menu": [
+      ],
+      "list_link_category_menu": [
+      ],
+      "section": [
+        "div[id=primary]"
+      ],
+      "article": [
+        "div[class=vce-module-columns]",
+        "div[class=main-box vce-border-top ]"
+      ],
+      "content_detail_change": [
+        "div[class=main-box vce-border-top main-box-half]",
+        "div[class=main-box-inside ]"
+      ],
+      "icon": "ic_home.png",
+      "position_load_more": 3,
+      "show_icon": 1
+    },
+    {
+      "id": "2",
+      "menu_name": "12 Con Giáp",
+      "link_page": "http://boi.vn/12-con-giap/",
+      "list_category_menu": [
+        "Tử vi tuổi tý",
+        "Tử vi tuổi Sửu",
+        "Tử vi tuổi Dần",
+        "Tử vi tuổi Mão",
+        "Tử vi tuổi Thìn",
+        "Tử vi tuổi Tỵ",
+        "Tử vi tuổi Ngọ",
+        "Tử vi tuổi Mùi",
+        "Tử vi tuổi Thân",
+        "Tử vi tuổi Dậu",
+        "Tử vi tuổi Tuất",
+        "Tử vi tuổi Hợi"
+      ],
+      "list_link_category_menu": [
+        "http://boi.vn/12-con-giap/tu-vi-tuoi-ty/",
+        "http://boi.vn/12-con-giap/tu-vi-tuoi-suu/",
+        "http://boi.vn/12-con-giap/tu-vi-tuoi-dan/",
+        "http://boi.vn/12-con-giap/tu-vi-tuoi-mao/",
+        "http://boi.vn/12-con-giap/tu-vi-tuoi-thin/",
+        "http://boi.vn/12-con-giap/tu-vi-tuoi-ty/",
+        "http://boi.vn/12-con-giap/tu-vi-tuoi-ngo/",
+        "http://boi.vn/12-con-giap/tu-vi-tuoi-mui/",
+        "http://boi.vn/12-con-giap/tu-vi-tuoi-than/",
+        "http://boi.vn/12-con-giap/tu-vi-tuoi-dau/",
+        "http://boi.vn/12-con-giap/tu-vi-tuoi-tuat/",
+        "http://boi.vn/12-con-giap/tu-vi-tuoi-hoi/"
+      ],
+      "section": [
+        "div[id=primary]"
+      ],
+      "article": [
+        "div[class=main-box-inside]"
+      ],
+      "content_detail_change": [
+        "div[class=main-box vce-border-top main-box-half]",
+        "div[class=main-box-inside]"
+      ],
+      "icon": "ic_12_con_giap.png"
+    },
+    {
+      "id": "3",
+      "menu_name": "12 Cung hoàng đạo",
+      "link_page": "http://boi.vn/12-cung-hoang-dao/",
+      "list_category_menu": [
+        "Cung Bạch Dương",
+        "Cung Bảo Bình",
+        "Cung Cự Giải",
+        "Cung Kim Ngưu",
+        "Cung Ma Kết",
+        "Cung Nhân Mã",
+        "Cung Song Ngư",
+        "Cung Song Tử",
+        "Cung Sư Tử",
+        "Cung Thần Nông",
+        "Cung Thiên Bình",
+        "Cung Xử Nữ"
+      ],
+      "list_link_category_menu": [
+        "http://boi.vn/12-cung-hoang-dao/cung-bach-duong/",
+        "http://boi.vn/12-cung-hoang-dao/cung-bao-binh/",
+        "http://boi.vn/12-cung-hoang-dao/cung-cu-giai",
+        "http://boi.vn/12-cung-hoang-dao/cung-kim-nguu",
+        "http://boi.vn/12-cung-hoang-dao/cung-ma-ket",
+        "http://boi.vn/12-cung-hoang-dao/cung-nhan-ma",
+        "http://boi.vn/12-cung-hoang-dao/cung-song-ngu",
+        "http://boi.vn/12-cung-hoang-dao/cung-song-tu",
+        "http://boi.vn/12-cung-hoang-dao/cung-su-tu",
+        "http://boi.vn/12-cung-hoang-dao/cung-than-nong",
+        "http://boi.vn/12-cung-hoang-dao/cung-thien-binh",
+        "http://boi.vn/12-cung-hoang-dao/cung-xu-nu"
+      ],
+      "section": [
+        "div[id=primary]"
+      ],
+      "article": [
+        "div[class=main-box-inside]"
+      ],
+      "content_detail_change": [
+        "div[class=main-box vce-border-top main-box-half]",
+        "div[class=main-box-inside]"
+      ],
+      "icon": "icon_cung_hoang_dao.png"
+    },
+    {
+      "id": "4",
+      "menu_name": "Tử vi",
+      "link_page": "http://boi.vn/xem-tu-vi/",
+      "list_category_menu": [
+        "Tử vi 2016",
+        "Tử vi trọn đời",
+        "Tử vi hàng ngày",
+        "Tử vi hàng tuần",
+        "Tử vi hàng tháng"
+      ],
+      "list_link_category_menu": [
+        "http://boi.vn/tu-vi-2016/",
+        "http://boi.vn/tu-vi-tron-doi/",
+        "http://boi.vn/tu-vi-hang-ngay/",
+        "http://boi.vn/xem-tu-vi/tu-vi-tuan/",
+        "http://boi.vn/xem-tu-vi/tu-vi-thang/"
+      ],
+      "section": [
+        "div[id=primary]"
+      ],
+      "article": [
+        "div[class=main-box-inside]"
+      ],
+      "content_detail_change": [
+        "div[class=main-box vce-border-top main-box-half]",
+        "div[class=main-box-inside]"
+      ],
+      "icon": "ic_tu_vi.png"
+    },
+    {
+      "id": "5",
+      "menu_name": "Vận hạn",
+      "link_page": "http://boi.vn/xem-van-han/",
+      "list_category_menu": [
+        "Xem tuổi xong đất 2016"
+      ],
+      "list_link_category_menu": [
+        "http://boi.vn/xem-tuoi-xong-dat/"
+      ],
+      "section": [
+        "div[id=primary]"
+      ],
+      "article": [
+        "div[class=main-box-inside]"
+      ],
+      "content_detail_change": [
+        "div[class=main-box vce-border-top main-box-half]",
+        "div[class=main-box-inside]"
+      ],
+      "icon": "ic_van_han.png"
+    },
+    {
+      "id": "6",
+      "menu_name": "Phong thủy",
+      "link_page": "http://boi.vn/phong-thuy/",
+      "list_category_menu": [
+        "Phong thủy phòng bếp",
+        "Phong thủy bàn thờ",
+        "Phong thủy phòng ngủ",
+        "Đăt tên cho con",
+        "Xem tuổi vơ chông"
+      ],
+      "list_link_category_menu": [
+        "http://boi.vn/phong-thuy/phong-thuy-phong-bep/",
+        "http://boi.vn/phong-thuy/phong-thuy-ban-tho/",
+        "http://boi.vn/phong-thuy/phong-thuy-phong-ngu/",
+        "http://boi.vn/dat-ten-cho-con/",
+        "http://boi.vn/xem-tuoi-vo-chong/"
+      ],
+      "section": [
+        "div[id=primary]"
+      ],
+      "article": [
+        "div[class=main-box-inside]"
+      ],
+      "content_detail_change": [
+        "div[class=main-box vce-border-top main-box-half]",
+        "div[class=main-box-inside]"
+      ],
+      "icon": "phongthuy.png"
+    },
+    {
+      "id": "7",
+      "menu_name": "Bói tình yêu",
+      "link_page": "http://boi.vn/xem-boi-tinh-yeu/",
+      "list_category_menu": [
+      ],
+      "list_link_category_menu": [
+      ],
+      "section": [
+        "div[id=primary]"
+      ],
+      "article": [
+        "div[class=main-box-inside]"
+      ],
+      "content_detail_change": [
+        "div[class=main-box vce-border-top main-box-half]",
+        "div[class=main-box-inside]"
+      ],
+      "icon": "ic_boi_tinh_yeu.jpeg"
+    },
+    {
+      "id": "8",
+      "menu_name": "Lịch vạn sự",
+      "link_page": "http://boi.vn/lich-van-su/",
+      "list_category_menu": [
+        "Xem ngày tốt xấu",
+        "Văn khấn",
+        "Phong tục tập quán"
+      ],
+      "list_link_category_menu": [
+        "http://boi.vn/xem-ngay-tot-xau/",
+        "http://boi.vn/van-khan/",
+        "http://boi.vn/phong-tuc/"
+      ],
+      "section": [
+        "div[id=primary]"
+      ],
+      "article": [
+        "div[class=main-box-inside]"
+      ],
+      "content_detail_change": [
+        "div[class=main-box vce-border-top main-box-half]",
+        "div[class=main-box-inside]"
+      ],
+      "icon": "icon_lichvansu.png"
+    },
+    {
+      "id": "9",
+      "menu_name": "Xem tướng",
+      "link_page": "http://boi.vn/xem-tuong/",
+      "list_category_menu": [
+        "Bói nốt ruồi",
+        "Xem boi ngày sinh",
+        "Bói số điện thoại",
+        "Bói bài",
+        "Xem boi vui",
+        "Bói tên"
+      ],
+      "list_link_category_menu": [
+        "http://boi.vn/xem-boi-not-ruoi/",
+        "http://boi.vn/xem-boi-ngay-sinh/",
+        "http://boi.vn/xem-boi-so-dien-thoai/",
+        "http://boi.vn/boi-bai-tay/",
+        "http://boi.vn/boi-vui/",
+        "http://boi.vn/boi-ten/"
+      ],
+      "section": [
+        "div[id=primary]"
+      ],
+      "article": [
+        "div[class=main-box-inside]"
+      ],
+      "content_detail_change": [
+        "div[class=main-box vce-border-top main-box-half]",
+        "div[class=main-box-inside]"
+      ],
+      "icon": "ic_xem_tuong.png"
+    },
+    {
+      "id": "10",
+      "menu_name": "Giấc mơ",
+      "link_page": "http://boi.vn/giai-ma-giac-mo/",
+      "list_category_menu": [
+        "Tâm linh huyền bí"
+      ],
+      "list_link_category_menu": [
+        "http://boi.vn/tam-linh-huyen-bi/"
+      ],
+      "section": [
+        "div[id=primary]"
+      ],
+      "article": [
+        "div[class=main-box-inside]"
+      ],
+      "content_detail_change": [
+        "div[class=main-box vce-border-top main-box-half]",
+        "div[class=main-box-inside]"
+      ],
+      "icon": "ic_giac_mo.jpg"
+    }
+  ]
+}
