@@ -1,0 +1,143 @@
+{
+  "error": 200,
+  "data": [
+    {
+      "id": "1",
+      "menu_name": "Home",
+      "link_page": "http://boi.vn/",
+      "list_category_menu": [
+      ],
+      "list_link_category_menu": [
+      ],
+      "section": [
+        "div[id=primary]"
+      ],
+      "article": [
+        "div[class=vce-module-columns]",
+        "div[class=main-box vce-border-top ]"
+      ],
+      "content_detail_change": [
+        "div[class=main-box vce-border-top main-box-half]",
+        "div[class=main-box-inside ]"
+      ],
+      "icon": "ic_home.png",
+      "position_load_more": 3,
+      "show_icon": 1
+    },
+    {
+      "id": "2",
+      "menu_name": "Kiếm hiệp",
+      "link_page": "http://truyenclub.com/the-loai/kiem-hiep",
+      "list_category_menu": [
+      ],
+      "list_link_category_menu": [
+      ],
+      "section": [
+        "div[id=primary]"
+      ],
+      "article": [
+        "div[class=vce-module-columns]",
+        "div[class=main-box vce-border-top ]"
+      ],
+      "content_detail_change": [
+        "div[class=main-box vce-border-top main-box-half]",
+        "div[class=main-box-inside ]"
+      ],
+      "icon": "ic_home.png",
+      "position_load_more": 3,
+      "show_icon": 1
+    },
+    {
+      "id": "3",
+      "menu_name": "Tiên hiệp",
+      "link_page": "http://truyenclub.com/the-loai/tien-hiep",
+      "list_category_menu": [
+      ],
+      "list_link_category_menu": [
+      ],
+      "section": [
+        "div[id=primary]"
+      ],
+      "article": [
+        "div[class=vce-module-columns]",
+        "div[class=main-box vce-border-top ]"
+      ],
+      "content_detail_change": [
+        "div[class=main-box vce-border-top main-box-half]",
+        "div[class=main-box-inside ]"
+      ],
+      "icon": "ic_home.png",
+      "position_load_more": 3,
+      "show_icon": 1
+    },
+    {
+      "id": "4",
+      "menu_name": "Khoa huyễn",
+      "link_page": "http://truyenclub.com/the-loai/khoa-huyen",
+      "list_category_menu": [
+      ],
+      "list_link_category_menu": [
+      ],
+      "section": [
+        "div[id=primary]"
+      ],
+      "article": [
+        "div[class=vce-module-columns]",
+        "div[class=main-box vce-border-top ]"
+      ],
+      "content_detail_change": [
+        "div[class=main-box vce-border-top main-box-half]",
+        "div[class=main-box-inside ]"
+      ],
+      "icon": "ic_home.png",
+      "position_load_more": 3,
+      "show_icon": 1
+    },
+    {
+      "id": "5",
+      "menu_name": "Sắc hiệp",
+      "link_page": "http://truyenclub.com/the-loai/sac-hiep",
+      "list_category_menu": [
+      ],
+      "list_link_category_menu": [
+      ],
+      "section": [
+        "div[id=primary]"
+      ],
+      "article": [
+        "div[class=vce-module-columns]",
+        "div[class=main-box vce-border-top ]"
+      ],
+      "content_detail_change": [
+        "div[class=main-box vce-border-top main-box-half]",
+        "div[class=main-box-inside ]"
+      ],
+      "icon": "ic_home.png",
+      "position_load_more": 3,
+      "show_icon": 1
+    },
+    {
+      "id": "6",
+      "menu_name": "Trinh thám",
+      "link_page": "http://truyenclub.com/the-loai/trinh-tham",
+      "list_category_menu": [
+      ],
+      "list_link_category_menu": [
+      ],
+      "section": [
+        "div[id=primary]"
+      ],
+      "article": [
+        "div[class=vce-module-columns]",
+        "div[class=main-box vce-border-top ]"
+      ],
+      "content_detail_change": [
+        "div[class=main-box vce-border-top main-box-half]",
+        "div[class=main-box-inside ]"
+      ],
+      "icon": "ic_home.png",
+      "position_load_more": 3,
+      "show_icon": 1
+    }
+  ]
+}
