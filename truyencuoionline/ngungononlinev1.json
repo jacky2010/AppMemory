@@ -7,7 +7,7 @@
           "id": 1,
           "name": "Tổng cười online",
           "link": "http://webtruyen.com/truyen-cuoi/",
-          "icon": "http://jacky2010.site44.com/app/truyencuoionline/icon_home.png",
+          "icon": "https://raw.githubusercontent.com/jacky2010/AppMemory/master/truyencuoionline/icon_home.png",
           "parse": [
             {
               "id": "1",
@@ -33,7 +33,7 @@
           "id": 2,
           "name": "Truyện cười vova",
           "link": "http://www.truyencuoihay.vn/truyen-cuoi-vova?pagenumber=",
-          "icon": "http://jacky2010.site44.com/app/truyencuoionline/icon_home.png",
+          "icon": "https://raw.githubusercontent.com/jacky2010/AppMemory/master/truyencuoionline/icon_home.png",
           "parse": [
             {
               "id": "1",
@@ -50,7 +50,7 @@
           "id": 3,
           "name": "Truyện cười 18+",
           "link": "http://www.truyencuoihay.vn/truyen-cuoi-18?pagenumber=",
-          "icon": "http://jacky2010.site44.com/app/truyencuoionline/icon_home.png",
+          "icon": "https://raw.githubusercontent.com/jacky2010/AppMemory/master/truyencuoionline/icon_home.png",
           "parse": [
             {
               "id": "1",
@@ -67,7 +67,7 @@
           "id": 4,
           "name": "Truyện cười tình yêu",
           "link": "http://www.truyencuoihay.vn/truyen-cuoi-tinh-yeu?pagenumber=",
-          "icon": "http://jacky2010.site44.com/app/truyencuoionline/icon_home.png",
+          "icon": "https://raw.githubusercontent.com/jacky2010/AppMemory/master/truyencuoionline/icon_home.png",
           "parse": [
             {
               "id": "1",
@@ -84,7 +84,7 @@
           "id": 5,
           "name": "Truyện cười dân gian",
           "link": "http://www.truyencuoihay.vn/truyen-cuoi-dan-gian?pagenumber=",
-          "icon": "http://jacky2010.site44.com/app/truyencuoionline/icon_home.png",
+          "icon": "https://raw.githubusercontent.com/jacky2010/AppMemory/master/truyencuoionline/icon_home.png",
           "parse": [
             {
               "id": "1",
@@ -101,7 +101,7 @@
           "id": 6,
           "name": "Truyện cười khác",
           "link": "http://www.truyencuoihay.vn/truyen-cuoi-khac?pagenumber=",
-          "icon": "http://jacky2010.site44.com/app/truyencuoionline/icon_home.png",
+          "icon": "https://raw.githubusercontent.com/jacky2010/AppMemory/master/truyencuoionline/icon_home.png",
           "parse": [
             {
               "id": "1",
