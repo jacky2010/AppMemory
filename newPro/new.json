@@ -1,51 +1,9 @@
 {
-  "error": 200,
-  "data": [
-    {
-      "category": [
-        {
-          "name": "Tổng hợp truyện",
-          "link": "http://cep.com.vn/category/Truyen-ngu-ngon-song-ngu-Anh-Viet.69",
-          "icon": "all.png",
-          "parse": [
-            {
-              "id": "1",
-              "section": [
-                "section[class=cat-first-class col-xs-12 col-sm-12 col-md-12 col-lg-12]"
-              ],
-              "attr_li": [
-                "li[class=col-xs-12 col-sm-4 col-md-4 col-lg-4]"
-              ]
-            },
-            {
-              "id": "2",
-              "section": [
-                "section[class=cat-second-class col-xs-12 col-sm-12 col-md-12 col-lg-12]"
-              ],
-              "attr_li": [
-                "li[class=col-xs-12 col-sm-12 col-md-12 col-lg-12]"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Truyện liên quan",
-          "link": "http://cep.com.vn/category/Truyen-ngu-ngon-song-ngu-Anh-Viet.69",
-          "icon": "other.png",
-          "parse": [
-            {
-              "id": "1",
-              "section": [
-                "section[class=cat-third-class col-xs-12 col-sm-12 col-md-12 col-lg-12]"
-              ],
-              "attr_li": [
-                "li[class=col-xs-12 col-sm-6 col-md-6 col-lg-6]"
-              ]
-            }
-          ]
-        }
-      ],
-      "item": 1
-    }
-  ]
+  "l_grid_main": "l-grid__main",
+  "story_thumb": "story__thumb",
+  "story_meta": "story__meta",
+  "story_tag": "story__tag",
+  "article__body": "article__body",
+  "l_grid": "l-grid",
+  "nav_parent": "nav__parent",
 }
