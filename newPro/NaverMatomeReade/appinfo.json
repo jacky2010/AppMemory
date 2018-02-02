@@ -10,7 +10,7 @@
   "mdMTMTtlList03User": "span[class=mdMTMTtlList03User]",
   "mdMTMTtlList03Date": "span[class=mdMTMTtlList03Date]",
   "MdSocialCountList01": "ul[class=MdSocialCountList01]",
-  "mdSocialCountList01Li mdSocialCountList01FV": "li[class=mdSocialCountList01Li mdSocialCountList01FV]",
+  "mdSocialCountList01Li_mdSocialCountList01FV": "li[class=mdSocialCountList01Li mdSocialCountList01FV]",
   "mdSocialCountList01Num": "span[class=mdSocialCountList01Num]",
   "mdSocialCountList01Li_mdSocialCountList01View": "li[class=mdSocialCountList01Li mdSocialCountList01View]",
   "ArCol02": "div[class=ArCol02]",
