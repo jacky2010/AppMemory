@@ -25,5 +25,5 @@
   "MdMTMWidgetList01": "div[class=MdMTMWidgetList01]",
   "contentHead": "div[id=contentHead]",
   "keyWord": "dl[id=keyWord]",
-  "isAction": "false"
+  "isAction": false
 }
