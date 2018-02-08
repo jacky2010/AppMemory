@@ -1,0 +1,44 @@
+{
+  "user_name": "Adr",
+  "user_tel": "03920330293",
+  "user_email": "adr@gmail.com",
+  "user_address": "Ha Noi",
+  "answer": [
+    {
+      "question_id": 92,
+      "type": 0,
+      "option_ids": "230,231,232"
+    },
+    {
+      "question_id": 93,
+      "type": 0,
+      "option_ids": "233,234"
+    },
+    {
+      "question_id": 94,
+      "type": 0,
+      "option_ids": "237,238"
+    },
+    {
+      "question_id": 95,
+      "type": 1,
+      "answer_other": "",
+      "type_of_answer":0,									
+      "option_ids": "239"
+    },
+    {
+      "question_id": 96,
+      "type": 1,
+      "answer_other": "",
+      "type_of_answer":0,
+      "option_ids": "242"
+    },
+    {
+      "question_id": 97,
+      "type": 1,
+      "answer_other": "",
+      "type_of_answer":0,									
+      "option_ids": "247"
+    }
+  ]
+}
