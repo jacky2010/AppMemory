@@ -1,0 +1,245 @@
+{
+  "total": 3,
+  "quizzes": [
+    {
+      "id": 677,
+      "name": "読解31",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 678,
+      "name": "読解32",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 679,
+      "name": "読解33",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 680,
+      "name": "読解34",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 681,
+      "name": "読解35",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 682,
+      "name": "読解36",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 683,
+      "name": "読解37",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 684,
+      "name": "読解38",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 685,
+      "name": "読解39",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 686,
+      "name": "読解40",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 687,
+      "name": "読解41",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 688,
+      "name": "読解42",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 689,
+      "name": "読解43",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 690,
+      "name": "読解44",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 691,
+      "name": "読解45",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 692,
+      "name": "読解46",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 693,
+      "name": "読解47",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 694,
+      "name": "読解48",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 695,
+      "name": "読解49",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 696,
+      "name": "読解50",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 1011,
+      "name": "読解51",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 1012,
+      "name": "読解52",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 1013,
+      "name": "読解53",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 1014,
+      "name": "読解54",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 1015,
+      "name": "読解55",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 1016,
+      "name": "読解56",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 1017,
+      "name": "読解57",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 1018,
+      "name": "読解58",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 1019,
+      "name": "読解59",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    },
+    {
+      "id": 1020,
+      "name": "読解60",
+      "type": "MULTIPLE_READING",
+      "categoryId": 1,
+      "mp3Url": "",
+      "time": 0
+    }
+  ]
+}
