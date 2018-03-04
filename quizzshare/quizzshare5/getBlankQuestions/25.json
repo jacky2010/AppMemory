@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1211,
+    "question": "間",
+    "result": "あいだ",
+    "description": "Gian - ở giữa",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1215,
+    "question": "一番",
+    "result": "いちばん",
+    "description": "Nhất Phiên - ~ thứ nhất (いちばんえ: trên cùng)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1218,
+    "question": "ー段目",
+    "result": "ーだんめ",
+    "description": "Đoạn Mục - ngăn thứ - (だんlà cách chỉ thứ tự ngăn, giá)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1223,
+    "question": "奥",
+    "result": "おく",
+    "description": "Áo - phòng sau ở sâu phía trong",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1227,
+    "question": "分かります",
+    "result": "わかります",
+    "description": "Phân - hiểu, biết",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1231,
+    "question": "好き",
+    "result": "すき",
+    "description": "Hảo - thích",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1234,
+    "question": "嫌い",
+    "result": "きらい",
+    "description": "Hiềm - ghét",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1237,
+    "question": "上手",
+    "result": "じょうず",
+    "description": "Thượng Thủ - giỏi",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1240,
+    "question": "下手",
+    "result": "へた",
+    "description": "Hạ Thủ - kém, yếu",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1243,
+    "question": "料理",
+    "result": "りょうり",
+    "description": "Liệu Lý - món ăn, việc nấu ăn",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1246,
+    "question": "飲み物",
+    "result": "のみもの",
+    "description": "Ẩm Vật - đồ uống",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1250,
+    "question": "野球",
+    "result": "やきゅう",
+    "description": "Dã Cầu - bóng chày (～をしまう: chơi bóng chày)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1254,
+    "question": "音楽",
+    "result": "おんがく",
+    "description": "Âm Lạc - âm nhạc",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1257,
+    "question": "歌",
+    "result": "うた",
+    "description": "Ca - bài hát",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1264,
+    "question": "歌舞伎",
+    "result": "かぶき",
+    "description": "Ca Vũ Kĩ - kịch Kabuki (một thể loại kịch truyền thống của Nhật)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1267,
+    "question": "絵",
+    "result": "え",
+    "description": "Hội - bức tranh",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1270,
+    "question": "字",
+    "result": "じ",
+    "description": "Tự - chữ,ký tự",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1273,
+    "question": "漢字",
+    "result": "かんじ",
+    "description": "Hán Tự - chữ Hán",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1278,
+    "question": "ローマ字",
+    "result": "ローマじ",
+    "description": "Tự - chữ Latinh",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1281,
+    "question": "細かいお金",
+    "result": "こまかいおかね",
+    "description": "Tế Kim - tiền lẻ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1285,
+    "question": "時間",
+    "result": "じかん",
+    "description": "Thời Gian - thời gian",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1288,
+    "question": "用事",
+    "result": "ようじ",
+    "description": "Dụng Sự - việc bận",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1291,
+    "question": "約束",
+    "result": "やくそく",
+    "description": "Ước Thúc - cuôc hẹn, lời hứa",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1294,
+    "question": "ご主人",
+    "result": "ごしゅじん",
+    "description": "Chủ Nhân - chồng (một người khác)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1297,
+    "question": "奥さん",
+    "result": "おくさん",
+    "description": "Áo - vợ (của một người khác)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1300,
+    "question": "妻",
+    "result": "つま",
+    "description": "Thê - vợ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1303,
+    "question": "家内",
+    "result": "かない",
+    "description": "Gia Nội - của mình",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1306,
+    "question": "子ども",
+    "result": "こども",
+    "description": "Tử - con cái, trẻ con",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1310,
+    "question": "大体",
+    "result": "だいたい",
+    "description": "Đại Thể - đại khái, đại thể",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1314,
+    "question": "少し",
+    "result": "すこし",
+    "description": "Thiểu - chút ít, một ít",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1317,
+    "question": "全然",
+    "result": "ぜんぜん",
+    "description": "Toàn Nhiên - hoàn toàn (dùng với thể phủ định)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1320,
+    "question": "早く",
+    "result": "はやく",
+    "description": "Tảo - sớm",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1325,
+    "question": "残念ですね",
+    "result": "ざんねんですね",
+    "description": "Tàn Niệm - Thật đáng tiếc.",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1331,
+    "question": "一緒に いかがですか",
+    "result": "いっしょにいかがですか",
+    "description": "Nhất Tự - Cùng (đi,làm...)với tôi/chúng tôi có được không?",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1336,
+    "question": "また今度お願いします",
+    "result": "またこんどおねがいします",
+    "description": "Kim Độ Nguyện - Lần sau anh lại mời tôi nữa nhé. (dùng khi từ chối khéo lời mời và có quan tâm tới tình cảm của người ấy)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1340,
+    "question": "空港",
+    "result": "くうこう",
+    "description": "Không Cảng - sân bay",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1343,
+    "question": "海",
+    "result": "うみ",
+    "description": "Hải - biển, đại dương",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1346,
+    "question": "世界",
+    "result": "せかい",
+    "description": "Thế Giới - thế giới",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1350,
+    "question": "祭り",
+    "result": "まつり",
+    "description": "Tế - lễ hội",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1353,
+    "question": "試験",
+    "result": "しけん",
+    "description": "Thí Nghiệm - kiểm tra",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1356,
+    "question": "すき焼き",
+    "result": "すきやき",
+    "description": "Thiêu - món sukiyaki (có thịt bò và rau xào chung)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1359,
+    "question": "刺身",
+    "result": "さしみ",
+    "description": "Thích Thân - món sashimi (cá sống cắt lát mỏng)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1363,
+    "question": "天ぷら",
+    "result": "てんぷら",
+    "description": "Thiên - món Tempura (đồ biển và rau cải tẩm bột rán)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1366,
+    "question": "生け花",
+    "result": "いけばな",
+    "description": "Sinh Hà - nghệ thuật cắm hoa (～をします: cắm hoa)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1369,
+    "question": "紅葉",
+    "result": "もみじ",
+    "description": "Hồng Diệp - cây mô-mi-ji. cây lá đỏ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1375,
+    "question": "初めて",
+    "result": "はじめて",
+    "description": "Sơ - đầu tiên",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1379,
+    "question": "お帰りなさい",
+    "result": "おかえりなさい",
+    "description": "Quy - (Anh) đã về đấy à. (Người ở nhà đáp lại)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1385,
+    "question": "祇園祭",
+    "result": "ぎおんまつり",
+    "description": "Kì Viên Tế - lễ hội cầu được mùa Gi ôn, lễ hội nổi tiếng nhất ở Kyoto.",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1390,
+    "question": "遊びます",
+    "result": "あそびます",
+    "description": "Du - chơi",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1393,
+    "question": "泳ぎます",
+    "result": "およぎます",
+    "description": "Vịnh - bơi",
+    "type": "KanjiToHira"
+  }
+]

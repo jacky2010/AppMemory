@@ -1,0 +1,352 @@
+[
+  {
+    "id": 545,
+    "question": "晩ごはん",
+    "result": "ばんごはん",
+    "description": "Vãn - bữa tối",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 549,
+    "question": "卵",
+    "result": "たまご",
+    "description": "Noãn - trứng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 552,
+    "question": "肉",
+    "result": "にく",
+    "description": "Nhục - thịt",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 555,
+    "question": "魚",
+    "result": "さかな",
+    "description": "Ngư - cá",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 558,
+    "question": "野菜",
+    "result": "やさい",
+    "description": "Dã Thái - rau",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 561,
+    "question": "果物",
+    "result": "くだもの",
+    "description": "Quả Vật - trái cây",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 564,
+    "question": "水",
+    "result": "みず",
+    "description": "Thủy - nước",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 567,
+    "question": "お茶",
+    "result": "おちゃ",
+    "description": "Trà - trà,chè",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 570,
+    "question": "紅茶",
+    "result": "こうちゃ",
+    "description": "Hồng Trà - trà đen",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 573,
+    "question": "牛乳",
+    "result": "ぎゅうにゅう",
+    "description": "Ngưu Nhũ - sữa bò",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 578,
+    "question": "酒",
+    "result": "さけ",
+    "description": "Tửu - rượu, rượu sake của Nhật",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 589,
+    "question": "教室",
+    "result": "きょうしつ",
+    "description": "Giáo Thất - phòng học",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 592,
+    "question": "食堂",
+    "result": "しょくどう",
+    "description": "Thực Đường - nhà ăn",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 595,
+    "question": "事務所",
+    "result": "じむしょ",
+    "description": "Sự Vụ Sở - văn phòng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 598,
+    "question": "会議室",
+    "result": "かいぎしつ",
+    "description": "Hội Nghị Thất - phòng họp",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 601,
+    "question": "受付",
+    "result": "うけつけ",
+    "description": "Thụ Phó - phòng tiếp tân, phòng thường trực.",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 605,
+    "question": "部屋",
+    "result": "へや",
+    "description": "Bộ Ốc - căn phòng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 608,
+    "question": "お手洗い",
+    "result": "おてあらい",
+    "description": "Thủ Tẩy - nhà vệ sinh",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 611,
+    "question": "階段",
+    "result": "かいだん",
+    "description": "Giai Đoạn - cầu thang",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 616,
+    "question": "国",
+    "result": "くに",
+    "description": "Quốc - đất nước của bạn/anh/chị...",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 619,
+    "question": "会社",
+    "result": "かいしゃ",
+    "description": "Hội Xã - công ty",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 622,
+    "question": "家",
+    "result": "うち",
+    "description": "Gia - nhà",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 625,
+    "question": "電話",
+    "result": "でんわ",
+    "description": "Điện Thoại - điện thoại",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 628,
+    "question": "靴",
+    "result": "くつ",
+    "description": "Ngoa - giầy",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 633,
+    "question": "煙草",
+    "result": "たばこ",
+    "description": "Yên Thảo - thuốc lá",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 636,
+    "question": "売り場",
+    "result": "うりば",
+    "description": "Mại Trường - quầy bán (trong cửa hàng bách hóa)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 639,
+    "question": "地下",
+    "result": "ちか",
+    "description": "Địa Hạ - tầng dưới",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 642,
+    "question": "－階",
+    "result": "ーかい(ーがい)",
+    "description": "Giai - tầng -",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 645,
+    "question": "何階",
+    "result": "なんがい",
+    "description": "Hà Giai - tầng mấy",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 648,
+    "question": "ー円",
+    "result": "ーえん",
+    "description": "Viên - ーyên",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 652,
+    "question": "百",
+    "result": "ひゃく",
+    "description": "Bách - trăm",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 655,
+    "question": "千",
+    "result": "せん",
+    "description": "Thiên - nghìn",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 658,
+    "question": "万",
+    "result": "まん",
+    "description": "Vạn - vạn",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 663,
+    "question": "を見せてください",
+    "result": "をみせてください",
+    "description": "Kiến - Hãy cho tôi xem [～]",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 670,
+    "question": "起きます",
+    "result": "おきます",
+    "description": "Khởi - thức dậy",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 673,
+    "question": "寝ます",
+    "result": "ねます",
+    "description": "Tẩm - ngủ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 676,
+    "question": "働きます",
+    "result": "はたらきます",
+    "description": "Động - làm việc",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 679,
+    "question": "休みます",
+    "result": "やすみます",
+    "description": "Hưu - nghỉ ngơi",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 682,
+    "question": "勉強します",
+    "result": "べんきょうします",
+    "description": "Miễn Cưỡng - học tập",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 685,
+    "question": "終わります",
+    "result": "おわります",
+    "description": "Chung - kết thúc",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 689,
+    "question": "銀行",
+    "result": "ぎんこう",
+    "description": "Ngân Hành - ngân hàng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 692,
+    "question": "郵便局",
+    "result": "ゆうびんきょく",
+    "description": "Bưu Tiện Cục - bưu điện",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 695,
+    "question": "図書館",
+    "result": "としょかん",
+    "description": "Đồ Thư Quán - thư viện",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 698,
+    "question": "美術館",
+    "result": "びじゅつかん",
+    "description": "Mỹ Thuật Quán - bảo tàng mỹ thuật",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 701,
+    "question": "今",
+    "result": "いま",
+    "description": "Kim - bây giờ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 704,
+    "question": "ー時",
+    "result": "－じ",
+    "description": "Thời - giờ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 707,
+    "question": "ー分",
+    "result": "ーふん(ーぷん)",
+    "description": "Phân - phút",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 710,
+    "question": "半",
+    "result": "はん",
+    "description": "Bán - ~ rưỡi",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 713,
+    "question": "何時",
+    "result": "なんじ",
+    "description": "Hà Thời - mấy giờ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 716,
+    "question": "何分",
+    "result": "なんぷん",
+    "description": "Hà Phân - mấy phút",
+    "type": "KanjiToHira"
+  }
+]

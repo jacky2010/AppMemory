@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1881,
+    "question": "役に立ちます",
+    "result": "やくにたちます",
+    "description": "Dịch lập - Có ích",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1884,
+    "question": "無駄",
+    "result": "むだ",
+    "description": "Vô đà - Lãng phí",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1887,
+    "question": "不便",
+    "result": "ふべん",
+    "description": "Bất tiện - Bất tiện",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1890,
+    "question": "同じ",
+    "result": "おなじ",
+    "description": "Đồng - Giống",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1894,
+    "question": "首相",
+    "result": "しゅしょう",
+    "description": "Thủ tướng - Thủ tướng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1897,
+    "question": "大統領",
+    "result": "だいとうりょう",
+    "description": "Đại thống lãnh - Tổng thống",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1900,
+    "question": "政治",
+    "result": "せいじ",
+    "description": "Chính trị - Chính trị",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1905,
+    "question": "試合",
+    "result": "しあい",
+    "description": "Thí hợp - Trận đấu",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1909,
+    "question": "意見",
+    "result": "いけん",
+    "description": "Ý kiến - Ý kiến",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1912,
+    "question": "お話",
+    "result": "おはなし",
+    "description": "Thoại - Câu chuyện, bài nói chuyện",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1916,
+    "question": "無駄",
+    "result": "むだ",
+    "description": "Vô đà - Sự lãng phí",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1920,
+    "question": "交通",
+    "result": "こうつう",
+    "description": "Giao thông - Giao thông",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1924,
+    "question": "最近",
+    "result": "さいきん",
+    "description": "Tối cận - Gần đây",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1927,
+    "question": "多分",
+    "result": "たぶん",
+    "description": "Đa phần - Chắc là, có thể",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1931,
+    "question": "本当に",
+    "result": "ほんとうに",
+    "description": "Bản đương - Thật sự",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1938,
+    "question": "でも 飲みませんか",
+    "result": "でも のみませんか",
+    "description": "Ẩm - ~anh/ chị uống ~ (cà phê, rượu hay gì đó)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1941,
+    "question": "見ないと",
+    "result": "みないと",
+    "description": "Kiến - Tôi phải xem.",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1947,
+    "question": "要ります",
+    "result": "いります",
+    "description": "Yếu - Cần",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1951,
+    "question": "調べます",
+    "result": "しらべます",
+    "description": "Điều - Tìm hiểu, điều tra, xem",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1954,
+    "question": "直します",
+    "result": "なおします",
+    "description": "Trực - Sửa chữa",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1957,
+    "question": "修理します",
+    "result": "しゅうりします",
+    "description": "Tu lí - Sử chữa, tu sửa",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1960,
+    "question": "電話します",
+    "result": "でんわします",
+    "description": "Điện thoại - Gọi điện thoại",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1963,
+    "question": "僕",
+    "result": "ぼく",
+    "description": "Bộc - Tớ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1966,
+    "question": "君",
+    "result": "きみ",
+    "description": "Quân - Cậu",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1969,
+    "question": "君",
+    "result": "くん",
+    "description": "Quân - Cậu,bạn (cách gọi thân mật)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1975,
+    "question": "言葉",
+    "result": "ことば",
+    "description": "Ngôn diệp - Từ, tiếng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1978,
+    "question": "物価",
+    "result": "ぶっか",
+    "description": "Vật giá - Giá cả, mức giá, vật giá",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1981,
+    "question": "着物",
+    "result": "きもの",
+    "description": "Trước vật - Kimono",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1985,
+    "question": "初め",
+    "result": "はじめ",
+    "description": "Sơ - Ban đầu, đầu tiên",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1988,
+    "question": "終わり",
+    "result": "おわり",
+    "description": "Chung - Kết thúc",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1994,
+    "question": "この間",
+    "result": "このあいだ",
+    "description": "Gian - Vừa rồi, hôm nọ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1997,
+    "question": "皆で",
+    "result": "みんなで",
+    "description": "Giai - Mọi người cùng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2001,
+    "question": "国へ帰るの？",
+    "result": "くにへかえるの？",
+    "description": "Quốc quy - Anh/chị có về nước không?",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2008,
+    "question": "一度",
+    "result": "いちど",
+    "description": "Nhất Độ - Một lần",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2011,
+    "question": "一度も",
+    "result": "いちども",
+    "description": "Nhất Độ - Chưa lần nào",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2014,
+    "question": "段々",
+    "result": "だんだん",
+    "description": "Đoạn - Dần dần",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2018,
+    "question": "お陰様で",
+    "result": "おかげさまで",
+    "description": "Âm dạng - Cảm ơn anh/chị (bày tỏ tình cảm khi được ai đó giúp đỡ.",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2021,
+    "question": "乾杯",
+    "result": "かんぱい",
+    "description": "Cạn bôi - Nâng cốc!/cạn chén",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2024,
+    "question": "実は",
+    "result": "じつは",
+    "description": "Thực - Thật ra thì/sự tình là",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2028,
+    "question": "何回も",
+    "result": "なんかいも",
+    "description": "Hà hồi - Nhiều lần",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2032,
+    "question": "無理",
+    "result": "むり",
+    "description": "Vô lí - Không thể, quá sức",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2035,
+    "question": "体にいい",
+    "result": "からだにいい",
+    "description": "Thể - Tốt cho sức khỏe",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2039,
+    "question": "登ります",
+    "result": "のぼります",
+    "description": "Đăng - Leo ( núi)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2042,
+    "question": "泊まります",
+    "result": "とまります",
+    "description": "Bạc - Trọ (khách sạn)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2045,
+    "question": "掃除します",
+    "result": "そうじします",
+    "description": "Tảo trừ - Dọn vệ sinh",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2048,
+    "question": "洗濯します",
+    "result": "せんたくします",
+    "description": "Tiển trạc - Giặt",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2051,
+    "question": "連絡します",
+    "result": "れんらくします",
+    "description": "Liên lạc - liên lạc",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2055,
+    "question": "眠い",
+    "result": "ねむい",
+    "description": "Miên - Buồn ngủ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2058,
+    "question": "弱い",
+    "result": "よわい",
+    "description": "Nhược - Yếu",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2061,
+    "question": "強い",
+    "result": "つよい",
+    "description": "Cường - Mạnh",
+    "type": "KanjiToHira"
+  }
+]

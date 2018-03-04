@@ -1,0 +1,352 @@
+[
+  {
+    "id": 2221,
+    "question": "答え",
+    "result": "こたえ",
+    "description": "đáp - câu trả lời",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2224,
+    "question": "禁煙",
+    "result": "きんえん",
+    "description": "cấm yên - cấm hút thuốc",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2227,
+    "question": "保険証",
+    "result": "ほけんしょう",
+    "description": "bảo hiểm chứng - thẻ bảo hiểm",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2230,
+    "question": "風邪",
+    "result": "かぜ",
+    "description": "phong tà - cảm, cúm",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2233,
+    "question": "熱",
+    "result": "ねつ",
+    "description": "nhiệt - sốt",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2236,
+    "question": "病気",
+    "result": "びょうき",
+    "description": "bệnh khí - ốm, bệnh",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2239,
+    "question": "薬",
+    "result": "くすり",
+    "description": "dược - thuốc",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2242,
+    "question": "お風呂",
+    "result": "おふろ",
+    "description": "phong lữ - bồn tắm",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2245,
+    "question": "上着",
+    "result": "うわぎ",
+    "description": "thượng trước - áo khoác",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2248,
+    "question": "下着",
+    "result": "したぎ",
+    "description": "hạ trước - áo lót",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2251,
+    "question": "先生",
+    "result": "せんせい",
+    "description": "tiên sinh - bác sĩ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2254,
+    "question": "二，三日",
+    "result": "にさんにち",
+    "description": "nhị tam nhật - vài ngày",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2260,
+    "question": "痛いです",
+    "result": "いたいです",
+    "description": "thống - tôi bị đau..",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2263,
+    "question": "喉",
+    "result": "のど",
+    "description": "hầu - họng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2266,
+    "question": "お大事に",
+    "result": "おだいじに",
+    "description": "đại sự - anh chị nhớ giữ gìn sức khỏe",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2269,
+    "question": "乗ります",
+    "result": "のります",
+    "description": "thừa - đi, lên [ tàu]",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2272,
+    "question": "降ります",
+    "result": "おります",
+    "description": "giáng - xuống [ tàu]",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2275,
+    "question": "乗り換えます",
+    "result": "のりかえます",
+    "description": "thừa hoán - chuyển đổi tàu",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2278,
+    "question": "浴びます",
+    "result": "あびます",
+    "description": "dục - tắm [vòi hoa sen]",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2281,
+    "question": "入れます",
+    "result": "いれます",
+    "description": "nhập - cho vào, bỏ vào",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2284,
+    "question": "出します",
+    "result": "だします",
+    "description": "xuất - lấy ra, rút (tiền)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2287,
+    "question": "入ります",
+    "result": "はいります",
+    "description": "nhập - vào, nhập học [đại học]",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2290,
+    "question": "出ます",
+    "result": "でます",
+    "description": "xuất (đại học) - ra, tốt nghiệp [đại học]",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2294,
+    "question": "押します",
+    "result": "おします",
+    "description": "áp - bấm, ấn (nút)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2297,
+    "question": "若い",
+    "result": "わかい",
+    "description": "nhược - trẻ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2300,
+    "question": "長い",
+    "result": "ながい",
+    "description": "trường - dài",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2303,
+    "question": "短い",
+    "result": "みじかい",
+    "description": "đoản - ngắn",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2306,
+    "question": "明るい",
+    "result": "あかるい",
+    "description": "minh - sáng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2309,
+    "question": "暗い",
+    "result": "くらい",
+    "description": "ám - tối",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2312,
+    "question": "背が高い",
+    "result": "せがたかい",
+    "description": "bối cao - cao (dùng cho người)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2315,
+    "question": "頭がいい",
+    "result": "あたまがいい",
+    "description": "đầu - thông minh",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2318,
+    "question": "体",
+    "result": "からだ",
+    "description": "thể - người, cơ thể",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2321,
+    "question": "頭",
+    "result": "あたま",
+    "description": "đầu - đầu",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2324,
+    "question": "髪",
+    "result": "かみ",
+    "description": "phát - tóc",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2327,
+    "question": "顔",
+    "result": "かお",
+    "description": "nhan - mặt",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2330,
+    "question": "目",
+    "result": "め",
+    "description": "mục - mắt",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2333,
+    "question": "耳",
+    "result": "みみ",
+    "description": "nhĩ - tai",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2336,
+    "question": "口",
+    "result": "くち",
+    "description": "khẩu - miệng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2339,
+    "question": "歯",
+    "result": "は",
+    "description": "xỉ - răng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2342,
+    "question": "お腹",
+    "result": "おなか",
+    "description": "phúc - bụng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2345,
+    "question": "足",
+    "result": "あし",
+    "description": "túc - chân",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2351,
+    "question": "緑",
+    "result": "みどり",
+    "description": "lục - màu xanh la cây",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2354,
+    "question": "お寺",
+    "result": "おてら",
+    "description": "tự - chùa",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2357,
+    "question": "神社",
+    "result": "じんじゃ",
+    "description": "thần xã - đền thờ đạo thần",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2360,
+    "question": "留学生",
+    "result": "りゅうがくせい",
+    "description": "lưu học sinh - du học sinh",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2363,
+    "question": "お引き出しですか",
+    "result": "おひきだしですか",
+    "description": "dẫn xuất - anh/ chi rút tiền ạ?",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2368,
+    "question": "暗証番号",
+    "result": "あんしょうばんごう",
+    "description": "ám chứng phiên hiệu - mã số bí mật",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2371,
+    "question": "次に",
+    "result": "つぎに",
+    "description": "thứ - tiếp theo",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2374,
+    "question": "金額",
+    "result": "きんがく",
+    "description": "kim ngạch - số tiền, khoản tiền",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 2377,
+    "question": "確認",
+    "result": "かくにん",
+    "description": "xác nhận - sự xác nhận, sự kiểm tra",
+    "type": "KanjiToHira"
+  }
+]

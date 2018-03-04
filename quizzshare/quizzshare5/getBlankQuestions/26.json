@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1396,
+    "question": "迎えます",
+    "result": "むかえます",
+    "description": "Nghênh - đón",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1399,
+    "question": "疲れます",
+    "result": "つかれます",
+    "description": "Bì - mệt",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1402,
+    "question": "出します",
+    "result": "だします",
+    "description": "Xuất - gửi",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1405,
+    "question": "手紙",
+    "result": "てがみ",
+    "description": "Thủ Chỉ - thư",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1408,
+    "question": "入ります",
+    "result": "はいります",
+    "description": "Nhập Khiết - đi vào, vào [quán giải khát]",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1411,
+    "question": "出ます",
+    "result": "でます",
+    "description": "Xuất Khiết - đi ra,ra khỏi [quán giải khát]",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1414,
+    "question": "結婚します",
+    "result": "けっこんします",
+    "description": "Kết Hôn - kết hôn",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1417,
+    "question": "買い物します",
+    "result": "かいものします",
+    "description": "Mãi Vật - mua sắm",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1420,
+    "question": "食事します",
+    "result": "しょくじします",
+    "description": "Thực Sự - dùng bữa, ăn cơm",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1423,
+    "question": "散歩します",
+    "result": "さんぽします",
+    "description": "Tản Bộ - đi dạo",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1426,
+    "question": "公園",
+    "result": "こうえん",
+    "description": "Công Viên - công viên",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1429,
+    "question": "大変",
+    "result": "たいへん",
+    "description": "Đại Biến - vất vả, khủng khiếp, dễ sợ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1432,
+    "question": "欲しい",
+    "result": "ほしい",
+    "description": "Dục - muốn có[cái gì đó]",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1435,
+    "question": "寂しい",
+    "result": "さびしい",
+    "description": "Tịch - buồn",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1438,
+    "question": "広い",
+    "result": "ひろい",
+    "description": "Quảng - rộng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1441,
+    "question": "狭い",
+    "result": "せまい",
+    "description": "Hiệp - hẹp",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1444,
+    "question": "市役所",
+    "result": "しやくしょ",
+    "description": "Thị Dịch Sở - tòa hành chính thành phố",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1448,
+    "question": "川",
+    "result": "かわ",
+    "description": "Xuyên - con sông",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1451,
+    "question": "経済",
+    "result": "けいざい",
+    "description": "Kinh Tế - kinh tế",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1454,
+    "question": "美術",
+    "result": "びじゅつ",
+    "description": "Mỹ Thuật - mỹ thuật",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1457,
+    "question": "釣り",
+    "result": "つり",
+    "description": "Câu - câu cá (～をします: câu cá)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1461,
+    "question": "会議",
+    "result": "かいぎ",
+    "description": "Hội Nghị - cuộc họp, hội nghị (～をします: tổ chức hội nghị )",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1464,
+    "question": "登録",
+    "result": "とうろく",
+    "description": "Đăng Lục - việc đăng ký (～をします)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1467,
+    "question": "週末",
+    "result": "しゅうまつ",
+    "description": "Chu Mạt - cuối tuần",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1471,
+    "question": "何か",
+    "result": "なにか",
+    "description": "Hà - cái gì đó",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1475,
+    "question": "お腹が空きました",
+    "result": "おなかがあきました",
+    "description": "Phúc - Không (Tôi) đói rồi.",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1478,
+    "question": "お腹がいっぱいです",
+    "result": "おなかがいっぱいです",
+    "description": "Phúc - (Tôi) no rồi.",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1481,
+    "question": "喉が乾きました",
+    "result": "のどがかわきました",
+    "description": "Hầu Can - (Tôi ) khát",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1486,
+    "question": "ご注文は？",
+    "result": "ごちゅうもんは？",
+    "description": "Chú Văn - Anh/chị gọị món gì ạ?",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1489,
+    "question": "定食",
+    "result": "ていしょく",
+    "description": "Định Thực - cơm suất",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1492,
+    "question": "牛どん",
+    "result": "ぎゅうどん",
+    "description": "Ngưu - món gyudon (món cơm phủ lên trên một lớp thịt bò)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1495,
+    "question": "少々お待ちください",
+    "result": "しょうしょうおまちください",
+    "description": "Thiểu Thiểu Đãi - Xin chờ (cho một chút)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1498,
+    "question": "別々に",
+    "result": "べつべつに",
+    "description": "Biệt Biệt - riêng lẻ, tính riêng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1502,
+    "question": "つる屋",
+    "result": "つるや",
+    "description": "Ốc - nhà hàng Nhật Bản giả tưởng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1505,
+    "question": "遊びます",
+    "result": "あそびます",
+    "description": "du - chơi",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1508,
+    "question": "泳ぎます",
+    "result": "およぎます",
+    "description": "vịnh - bơi",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1511,
+    "question": "迎えます",
+    "result": "むかえます",
+    "description": "nghênh - đón",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1514,
+    "question": "疲れます",
+    "result": "つかれます",
+    "description": "bì - mệt",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1517,
+    "question": "出します",
+    "result": "だします",
+    "description": "xuất - gửi",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1520,
+    "question": "手紙を",
+    "result": "てがみを",
+    "description": "thủ chỉ - thư",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1523,
+    "question": "入ります",
+    "result": "はいります",
+    "description": "nhập - vào",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1526,
+    "question": "出ます",
+    "result": "でます",
+    "description": "xuất - ra, ra khỏi",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1529,
+    "question": "結婚します",
+    "result": "けっこんします",
+    "description": "kết hôn - kết hôn, lập gia đình, cưới",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1532,
+    "question": "買い物します",
+    "result": "かいものします",
+    "description": "mãi vật - mua hàng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1535,
+    "question": "食事します",
+    "result": "しょくじします",
+    "description": "thực sự - ăn cơm",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1538,
+    "question": "散歩します",
+    "result": "さんぽします",
+    "description": "tản bộ - đi dạo",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1541,
+    "question": "大変",
+    "result": "たいへん",
+    "description": "đại biến - vất vả, khó khăn, khổ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1544,
+    "question": "欲しい",
+    "result": "ほしい",
+    "description": "dục - muốn có",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1547,
+    "question": "寂しい",
+    "result": "さびしい",
+    "description": "tịch - buồn, cô đơn",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1550,
+    "question": "広い",
+    "result": "ひろい",
+    "description": "quảng - rộng",
+    "type": "KanjiToHira"
+  }
+]

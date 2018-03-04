@@ -1,0 +1,352 @@
+[
+  {
+    "id": 719,
+    "question": "午前",
+    "result": "ごぜん",
+    "description": "Ngọ Tiền - trước 12 giờ trưa, sáng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 722,
+    "question": "午後",
+    "result": "ごご",
+    "description": "Ngọ Hậu - sau 12 giờ trưa,chiều",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 725,
+    "question": "朝",
+    "result": "あさ",
+    "description": "Triều - buổi sáng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 728,
+    "question": "昼",
+    "result": "ひる",
+    "description": "Trú - buổi trưa",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 731,
+    "question": "晩",
+    "result": "ばん",
+    "description": "Dạ - buổi tối",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 734,
+    "question": "夜",
+    "result": "よる",
+    "description": "Dạ - buổi tối",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 737,
+    "question": "一昨日",
+    "result": "おととい",
+    "description": "Nhất Tạc Nhật - hôm kia",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 740,
+    "question": "昨日",
+    "result": "きのう",
+    "description": "Tạc Nhật - hôm qua",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 743,
+    "question": "今日",
+    "result": "きょう",
+    "description": "Kim Nhật - hôm nay",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 746,
+    "question": "明日",
+    "result": "あした",
+    "description": "Minh Nhật - ngày mai",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 749,
+    "question": "明後日",
+    "result": "あさって",
+    "description": "Minh Hậu Nhật - ngày kia",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 752,
+    "question": "今朝",
+    "result": "けさ",
+    "description": "Kim Triều - sáng nay",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 755,
+    "question": "今晩",
+    "result": "こんばん",
+    "description": "Kim Vãn - tối nay",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 758,
+    "question": "休み",
+    "result": "やすみ",
+    "description": "Hưu - nghỉ ngơi,nghỉ phép",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 761,
+    "question": "昼休み",
+    "result": "ひるやすみ",
+    "description": "Trú Hưu - nghỉ trưa",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 764,
+    "question": "毎朝",
+    "result": "まいあさ",
+    "description": "Mỗi Triều - mỗi buổi sáng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 767,
+    "question": "毎晩",
+    "result": "まいばん",
+    "description": "Mỗi Vãn - mỗi buổi tối",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 770,
+    "question": "毎日",
+    "result": "まいにち",
+    "description": "Mỗi Nhật - hàng ngày",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 773,
+    "question": "月曜日",
+    "result": "げつようび",
+    "description": "Nguyệt Diệu Nhật - thứ hai",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 776,
+    "question": "火曜日",
+    "result": "かようび",
+    "description": "Hỏa Diệu Nhật - thứ ba",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 779,
+    "question": "水曜日",
+    "result": "すいようび",
+    "description": "Thủy Diệu Nhật - thứ tư",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 782,
+    "question": "木曜日",
+    "result": "もくようび",
+    "description": "Mộc Diệu Nhật - thứ năm",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 785,
+    "question": "金曜日",
+    "result": "きんようび",
+    "description": "Kim Diệu Nhật - thứ sáu",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 788,
+    "question": "土曜日",
+    "result": "どようび",
+    "description": "Thổ Diệu Nhật - thứ bảy",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 791,
+    "question": "日曜日",
+    "result": "にちようび",
+    "description": "Nhật Diệu Nhật - chủ nhật",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 794,
+    "question": "何曜日",
+    "result": "なんようび",
+    "description": "Hà Diệu Nhật - ngày thứ mấy",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 797,
+    "question": "番号",
+    "result": "ばんごう",
+    "description": "Phiên Hiệu - số thứ tự",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 800,
+    "question": "何番",
+    "result": "なんばん",
+    "description": "Hà Phiên - số thứ mấy",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 807,
+    "question": "大変ですね",
+    "result": "たいへんですね",
+    "description": "Đại Biến - Vất vả quá nhỉ.(dùng khi biểu lộ sự thông cảm)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 811,
+    "question": "お願いします",
+    "result": "おねがいします",
+    "description": "Nguyện - Xin vui lòng (dùng khi nhờ ai, muốn được ai giúp đỡ)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 815,
+    "question": "お問い合わせの番号",
+    "result": "おといあわせのばんごう",
+    "description": "Vấn Hợp Phiên Hiệu - số điện thoại quý vị muốn hỏi",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 824,
+    "question": "綺麗",
+    "result": "きれい",
+    "description": "Kỳ Lệ - đẹp,sạch",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 827,
+    "question": "静か",
+    "result": "しずか",
+    "description": "Tĩnh - yên tĩnh",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 830,
+    "question": "賑やか",
+    "result": "にぎやか",
+    "description": "Chẩn - ồn ào, náo nhiệt",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 833,
+    "question": "有名",
+    "result": "ゆうめい",
+    "description": "Hữu Danh - nổi tiếng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 836,
+    "question": "親切",
+    "result": "しんせつ",
+    "description": "Thân Thiết - thân thiện, tốt bụng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 839,
+    "question": "元気",
+    "result": "げんき",
+    "description": "Nguyên Khí - khỏe mạnh",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 842,
+    "question": "暇",
+    "result": "ひま",
+    "description": "Hạ - rỗi rãi",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 845,
+    "question": "便利",
+    "result": "べんり",
+    "description": "Tiện Lợi - tiện lợi",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 848,
+    "question": "素敵",
+    "result": "すてき",
+    "description": "Tố Địch - đẹp, tuyệt vời",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 851,
+    "question": "大きい",
+    "result": "おおきい",
+    "description": "Đại - to,lớn",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 854,
+    "question": "小さい",
+    "result": "ちいさい",
+    "description": "Tiểu - nhỏ,bé",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 857,
+    "question": "新しい",
+    "result": "あたらしい",
+    "description": "Tân - mới",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 860,
+    "question": "古い",
+    "result": "ふるい",
+    "description": "Cổ - cũ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 863,
+    "question": "良い",
+    "result": "いい",
+    "description": "Lương - tốt",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 866,
+    "question": "悪い",
+    "result": "わるい",
+    "description": "Ác - xấu",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 869,
+    "question": "暑い",
+    "result": "あつい",
+    "description": "Thử - Nhiệt nóng (thời tiết/nhiệt độ)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 872,
+    "question": "寒い",
+    "result": "さむい",
+    "description": "Hàn - lạnh,rét (nói về thời tiết)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 875,
+    "question": "冷たい",
+    "result": "つめたい",
+    "description": "Lãnh - lạnh,buốt (nói về cảm giác)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 878,
+    "question": "難しい",
+    "result": "むずかしい",
+    "description": "Nan - khó",
+    "type": "KanjiToHira"
+  }
+]
