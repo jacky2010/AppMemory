@@ -1,0 +1,352 @@
+[
+  {
+    "id": 203,
+    "question": "Tống - gửi đi",
+    "result": "送ります",
+    "description": "おくります",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 208,
+    "question": "Thải - cho mượn, cho vay",
+    "result": "貸します",
+    "description": "かします",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 211,
+    "question": "Tá - vay, mượn",
+    "result": "借ります",
+    "description": "かります",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 214,
+    "question": "Giáo - dạy cho, chỉ bảo cho",
+    "result": "教えます",
+    "description": "おしえます",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 217,
+    "question": "Tập - học",
+    "result": "習います",
+    "description": "ならいます",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 220,
+    "question": "Điện Thoại - điện thoại",
+    "result": "電話",
+    "description": "でんわ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 224,
+    "question": "Thủ - tay",
+    "result": "手",
+    "description": "て",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 227,
+    "question": "Trứ - đũa",
+    "result": "箸",
+    "description": "はし",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 240,
+    "question": "Tiêu - cục tẩy",
+    "result": "消しゴム",
+    "description": "けしゴム",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 243,
+    "question": "Chỉ - giấy",
+    "result": "紙",
+    "description": "かみ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 246,
+    "question": "Hoa - hoa",
+    "result": "花",
+    "description": "はな",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 251,
+    "question": "Hành Vật - hành lý, bưu kiện",
+    "result": "荷物",
+    "description": "にもつ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 254,
+    "question": "Kim - tiền",
+    "result": "金",
+    "description": "かね",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 257,
+    "question": "Thiết Phù - vé",
+    "result": "切符",
+    "description": "きっぷ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 261,
+    "question": "Phụ - cha, bố (của mình)",
+    "result": "父",
+    "description": "ちち",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 264,
+    "question": "Mẫu - mẹ (của mình)",
+    "result": "母",
+    "description": "はは",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 267,
+    "question": "Phụ - bố (của người khác)",
+    "result": "お父さん",
+    "description": "おとうさん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 270,
+    "question": "Mẫu - mẹ (của người khác)",
+    "result": "お母さん",
+    "description": "おかあさん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 276,
+    "question": "Tố Địch - [～]đẹp nhỉ",
+    "result": "素敵ですね",
+    "description": "すてきですね",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 281,
+    "question": "Thượng - Xin mời anh /chị vào trong nhà.",
+    "result": "どうぞお上りください",
+    "description": "どうぞおあがりください",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 284,
+    "question": "Thất Lễ - Cảm ơn. (Xin lỗi đã làm phiền anh /chị)",
+    "result": "失礼します",
+    "description": "しつれいします",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 289,
+    "question": "Lữ Hành - du lịch (～をします: đi du lịch)",
+    "result": "旅行",
+    "description": "りょこう",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 292,
+    "question": "Thổ Sản - quà (khi đi chơi xa mang về)",
+    "result": "お土産",
+    "description": "おみやげ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 298,
+    "question": "Ánh Họa - phim",
+    "result": "映画",
+    "description": "えいが",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 302,
+    "question": "Thủ Chỉ - thư",
+    "result": "手紙",
+    "description": "てがみ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 306,
+    "question": "Tả Chân - ảnh",
+    "result": "写真",
+    "description": "しゃしん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 309,
+    "question": "Điếm - cửa hàng",
+    "result": "店",
+    "description": "みせ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 313,
+    "question": "Đình - vườn,sân",
+    "result": "庭",
+    "description": "にわ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 316,
+    "question": "Túc Đề - bài tập",
+    "result": "宿題",
+    "description": "しゅくだい (～をします: làm bài tập)",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 321,
+    "question": "Hoa Kiến - ngắm hoa (～をします: đi ngắm hoa)",
+    "result": "花見",
+    "description": "はなみ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 324,
+    "question": "Hà - cái gì",
+    "result": "何",
+    "description": "なに",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 327,
+    "question": "Nhất Tự - cùng nhau",
+    "result": "一緒に",
+    "description": "いっしょに",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 332,
+    "question": "Thời - thỉnh thoảng",
+    "result": "時々",
+    "description": "ときどき",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 338,
+    "question": "Phân - (Tôi) đã hiểu rồi",
+    "result": "分かりました",
+    "description": "わかりました",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 341,
+    "question": "Hà Cái - gì vậy?",
+    "result": "何ですか",
+    "description": "なんですか",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 346,
+    "question": "Đại Phản Thành Công Viên - công viên thành Osaka",
+    "result": "大阪城公園",
+    "description": "おおさかじょうこうえん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 349,
+    "question": "Hành - đi",
+    "result": "行きます",
+    "description": "いきます",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 352,
+    "question": "Lai - đến",
+    "result": "来ます",
+    "description": "きます",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 355,
+    "question": "Quy - trở về",
+    "result": "帰ります",
+    "description": "かえります",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 358,
+    "question": "Học Hiệu - trường học",
+    "result": "学校",
+    "description": "がっこう",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 362,
+    "question": "Dịch - nhà ga",
+    "result": "駅",
+    "description": "えき",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 365,
+    "question": "Phi Hành Cơ - máy bay",
+    "result": "飛行機",
+    "description": "ひこうき",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 368,
+    "question": "Thuyền - thuyền tàu",
+    "result": "船",
+    "description": "ふね",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 371,
+    "question": "Điện Xa - xe điện",
+    "result": "電車",
+    "description": "でんしゃ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 374,
+    "question": "Địa Hạ Thiết - tàu điện ngầm",
+    "result": "地下鉄",
+    "description": "ちかてつ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 377,
+    "question": "Tân Cán Tuyến - tàu siêu tốc",
+    "result": "新幹線",
+    "description": "しんかんせん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 382,
+    "question": "Tự Chuyển Xa - xe đạp",
+    "result": "自転車",
+    "description": "じてんしゃ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 385,
+    "question": "Bộ - đi bộ",
+    "result": "歩いて",
+    "description": "あるいて",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 388,
+    "question": "Nhân - người",
+    "result": "人",
+    "description": "ひと",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 391,
+    "question": "Hữu Đạt - bạn, bạn bè",
+    "result": "友達",
+    "description": "ともだち",
+    "type": "VnToKanji"
+  }
+]

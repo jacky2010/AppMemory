@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1398,
+    "question": "Nghênh - đón",
+    "result": "迎えます",
+    "description": "むかえます",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1401,
+    "question": "Bì - mệt",
+    "result": "疲れます",
+    "description": "つかれます",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1404,
+    "question": "Xuất - gửi",
+    "result": "出します",
+    "description": "だします",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1407,
+    "question": "Thủ Chỉ - thư",
+    "result": "手紙",
+    "description": "てがみ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1410,
+    "question": "Nhập Khiết - đi vào, vào [quán giải khát]",
+    "result": "入ります",
+    "description": "はいります",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1413,
+    "question": "Xuất Khiết - đi ra,ra khỏi [quán giải khát]",
+    "result": "出ます",
+    "description": "でます",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1416,
+    "question": "Kết Hôn - kết hôn",
+    "result": "結婚します",
+    "description": "けっこんします",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1419,
+    "question": "Mãi Vật - mua sắm",
+    "result": "買い物します",
+    "description": "かいものします",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1422,
+    "question": "Thực Sự - dùng bữa, ăn cơm",
+    "result": "食事します",
+    "description": "しょくじします",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1425,
+    "question": "Tản Bộ - đi dạo",
+    "result": "散歩します",
+    "description": "さんぽします",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1428,
+    "question": "Công Viên - công viên",
+    "result": "公園",
+    "description": "こうえん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1431,
+    "question": "Đại Biến - vất vả, khủng khiếp, dễ sợ",
+    "result": "大変",
+    "description": "たいへん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1434,
+    "question": "Dục - muốn có[cái gì đó]",
+    "result": "欲しい",
+    "description": "ほしい",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1437,
+    "question": "Tịch - buồn",
+    "result": "寂しい",
+    "description": "さびしい",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1440,
+    "question": "Quảng - rộng",
+    "result": "広い",
+    "description": "ひろい",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1443,
+    "question": "Hiệp - hẹp",
+    "result": "狭い",
+    "description": "せまい",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1446,
+    "question": "Thị Dịch Sở - tòa hành chính thành phố",
+    "result": "市役所",
+    "description": "しやくしょ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1450,
+    "question": "Xuyên - con sông",
+    "result": "川",
+    "description": "かわ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1453,
+    "question": "Kinh Tế - kinh tế",
+    "result": "経済",
+    "description": "けいざい",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1456,
+    "question": "Mỹ Thuật - mỹ thuật",
+    "result": "美術",
+    "description": "びじゅつ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1459,
+    "question": "Câu - câu cá (～をします: câu cá)",
+    "result": "釣り",
+    "description": "つり",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1463,
+    "question": "Hội Nghị - cuộc họp, hội nghị (～をします: tổ chức hội nghị )",
+    "result": "会議",
+    "description": "かいぎ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1466,
+    "question": "Đăng Lục - việc đăng ký (～をします)",
+    "result": "登録",
+    "description": "とうろく",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1469,
+    "question": "Chu Mạt - cuối tuần",
+    "result": "週末",
+    "description": "しゅうまつ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1473,
+    "question": "Hà - cái gì đó",
+    "result": "何か",
+    "description": "なにか",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1477,
+    "question": "Phúc - Không (Tôi) đói rồi.",
+    "result": "お腹が空きました",
+    "description": "おなかがあきました",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1480,
+    "question": "Phúc - (Tôi) no rồi.",
+    "result": "お腹がいっぱいです",
+    "description": "おなかがいっぱいです",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1483,
+    "question": "Hầu Can - (Tôi ) khát",
+    "result": "喉が乾きました",
+    "description": "のどがかわきました",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1488,
+    "question": "Chú Văn - Anh/chị gọị món gì ạ?",
+    "result": "ご注文は？",
+    "description": "ごちゅうもんは？",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1491,
+    "question": "Định Thực - cơm suất",
+    "result": "定食",
+    "description": "ていしょく",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1494,
+    "question": "Ngưu - món gyudon (món cơm phủ lên trên một lớp thịt bò)",
+    "result": "牛どん",
+    "description": "ぎゅうどん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1497,
+    "question": "Thiểu Thiểu Đãi - Xin chờ (cho một chút)",
+    "result": "少々お待ちください",
+    "description": "しょうしょうおまちください",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1500,
+    "question": "Biệt Biệt - riêng lẻ, tính riêng",
+    "result": "別々に",
+    "description": "べつべつに",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1504,
+    "question": "Ốc - nhà hàng Nhật Bản giả tưởng",
+    "result": "つる屋",
+    "description": "つるや",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1507,
+    "question": "du - chơi",
+    "result": "遊びます",
+    "description": "あそびます",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1510,
+    "question": "vịnh - bơi",
+    "result": "泳ぎます",
+    "description": "およぎます",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1513,
+    "question": "nghênh - đón",
+    "result": "迎えます",
+    "description": "むかえます",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1516,
+    "question": "bì - mệt",
+    "result": "疲れます",
+    "description": "つかれます",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1519,
+    "question": "xuất - gửi",
+    "result": "出します",
+    "description": "だします",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1522,
+    "question": "thủ chỉ - thư",
+    "result": "手紙を",
+    "description": "てがみを",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1525,
+    "question": "nhập - vào",
+    "result": "入ります",
+    "description": "はいります",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1528,
+    "question": "xuất - ra, ra khỏi",
+    "result": "出ます",
+    "description": "でます",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1531,
+    "question": "kết hôn - kết hôn, lập gia đình, cưới",
+    "result": "結婚します",
+    "description": "けっこんします",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1534,
+    "question": "mãi vật - mua hàng",
+    "result": "買い物します",
+    "description": "かいものします",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1537,
+    "question": "thực sự - ăn cơm",
+    "result": "食事します",
+    "description": "しょくじします",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1540,
+    "question": "tản bộ - đi dạo",
+    "result": "散歩します",
+    "description": "さんぽします",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1543,
+    "question": "đại biến - vất vả, khó khăn, khổ",
+    "result": "大変",
+    "description": "たいへん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1546,
+    "question": "dục - muốn có",
+    "result": "欲しい",
+    "description": "ほしい",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1549,
+    "question": "tịch - buồn, cô đơn",
+    "result": "寂しい",
+    "description": "さびしい",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 1552,
+    "question": "quảng - rộng",
+    "result": "広い",
+    "description": "ひろい",
+    "type": "VnToKanji"
+  }
+]

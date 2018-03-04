@@ -1,0 +1,352 @@
+[
+  {
+    "id": 5,
+    "question": "Tư - chúng ta,chúng tôi",
+    "result": "私たち",
+    "description": "わたしたち",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 9,
+    "question": "Nhân - người kia",
+    "result": "あの人",
+    "description": "あのひと",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 12,
+    "question": "Phương - vị kia",
+    "result": "あの方",
+    "description": "あのかた",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 15,
+    "question": "Giai - các bạn,mọi người",
+    "result": "皆さん",
+    "description": "みなさん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 21,
+    "question": "Nhân - người nước～(ví dụ ベトナムじん)",
+    "result": "人",
+    "description": "じん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 24,
+    "question": "Tiên Sinh - giáo viên",
+    "result": "先生",
+    "description": "せんせい",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 27,
+    "question": "Giáo Sư - giáo viên,giáo sư (dùng để nói tới nghề nghiệp)",
+    "result": "教師",
+    "description": "きょうし",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 30,
+    "question": "Học Sinh - học sinh,sinh viên",
+    "result": "学生",
+    "description": "がくせい",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 33,
+    "question": "Hội Xã Viên - nhân viên công ty",
+    "result": "会社員",
+    "description": "かいしゃいん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 36,
+    "question": "Xã Viên - nhân viên công ty～",
+    "result": "社員",
+    "description": "しゃいん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 39,
+    "question": "Ngân Hành Viên - nhân viên ngân hàng",
+    "result": "銀行員",
+    "description": "ぎんこういん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 42,
+    "question": "Y Giả - bác sĩ",
+    "result": "医者",
+    "description": "いしゃ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 45,
+    "question": "Nghiên Cứu Giả - nghiên cứu sinh",
+    "result": "研究者",
+    "description": "けんきゅうしゃ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 49,
+    "question": "Đại Học - trường đại học",
+    "result": "大学",
+    "description": "だいがく",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 52,
+    "question": "Bệnh Viện - bệnh viện",
+    "result": "病院",
+    "description": "びょういん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 55,
+    "question": "Điện Khí - điện",
+    "result": "電気",
+    "description": "でんき",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 60,
+    "question": "Tuế - tuổi",
+    "result": "歳",
+    "description": "さい",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 63,
+    "question": "Hà Tuế - mấy tuổi",
+    "result": "何歳",
+    "description": "なんさい",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 69,
+    "question": "Thất Lễ - xin lỗi (khi muốn nhờ ai việc gì đó)",
+    "result": "失礼ですが",
+    "description": "しつれいですが",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 72,
+    "question": "Danh Tiền - bạn tên gì?",
+    "result": "お名前は？",
+    "description": "おなまえは？",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 75,
+    "question": "Sơ - chào lần đầu gặp mặt",
+    "result": "初めまして",
+    "description": "はじめまして",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 78,
+    "question": "Nguyện - rất hân hạnh được làm quen",
+    "result": "どうぞよろしくお願いします",
+    "description": "どうぞよろしくおねがいします",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 82,
+    "question": "Lai - (Tôi) đã đến từ ～",
+    "result": "から来ました",
+    "description": "からきました",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 89,
+    "question": "Hàn Quốc - Hàn Quốc",
+    "result": "韓国",
+    "description": "かんこく",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 93,
+    "question": "Trung Quốc - Trung Quốc",
+    "result": "中国",
+    "description": "ちゅうごく",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 97,
+    "question": "Nhật Bản - Nhật",
+    "result": "日本",
+    "description": "にほん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 102,
+    "question": "Anh Đại Học - Trường ĐH Sakura",
+    "result": "桜大学",
+    "description": "さくらだいがく",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 105,
+    "question": "Phú Sĩ Đại Học - Trường ĐH Phú Sĩ",
+    "result": "富士大学",
+    "description": "ふじだいがく",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 108,
+    "question": "Điền Xá - quê",
+    "result": "田舎",
+    "description": "いなか",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 111,
+    "question": "Xuất Thân - xuất thân",
+    "result": "出身",
+    "description": "しゅっしん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 121,
+    "question": "Bản - sách",
+    "result": "本",
+    "description": "ほん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 124,
+    "question": "Từ Thư - từ điển",
+    "result": "辞書",
+    "description": "じしょ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 127,
+    "question": "Tạp Chí - tạp chí",
+    "result": "雑誌",
+    "description": "ざっし",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 130,
+    "question": "Tân Văn - báo",
+    "result": "新聞",
+    "description": "しんぶん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 134,
+    "question": "Thủ Trướng - sổ tay",
+    "result": "手帳",
+    "description": "てちょう",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 137,
+    "question": "Danh Thích - danh thiếp",
+    "result": "名刺",
+    "description": "めいし",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 142,
+    "question": "Duyên Bút - bút chì",
+    "result": "鉛筆",
+    "description": "えんぴつ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 147,
+    "question": "Kiện chìa - khóa",
+    "result": "鍵",
+    "description": "かぎ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 150,
+    "question": "Thời Kế - đồng hồ",
+    "result": "時計",
+    "description": "とけい",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 153,
+    "question": "Tán cái - ô",
+    "result": "傘",
+    "description": "かさ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 163,
+    "question": "Tự Động Xa - xe hơi, ô tô",
+    "result": "自動車",
+    "description": "じどうしゃ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 166,
+    "question": "Cơ - bàn",
+    "result": "机",
+    "description": "つくえ",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 172,
+    "question": "Anh Ngữ - tiếng Anh",
+    "result": "英語",
+    "description": "えいご",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 175,
+    "question": "Nhật Bản Ngữ - tiếng Nhật",
+    "result": "日本語",
+    "description": "にほんご",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 178,
+    "question": "Ngữ - tiếng",
+    "result": "語",
+    "description": "ご",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 181,
+    "question": "Hà - cái gì",
+    "result": "何",
+    "description": "なん",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 185,
+    "question": "Vi - Không, không phải. Không đúng, sai rồi.",
+    "result": "違います",
+    "description": "ちがいます",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 190,
+    "question": "Bản Khí Trì - Đây chỉ là một chút lòng thành.",
+    "result": "本の気持ちです",
+    "description": "ほんのきもちです",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 196,
+    "question": "Thế Thoại - Từ nay chúng tôi rất mong được sự giúp đỡ.",
+    "result": "これからお世話になります",
+    "description": "これからおせわになります",
+    "type": "VnToKanji"
+  },
+  {
+    "id": 200,
+    "question": "Thiết - cắt, thái",
+    "result": "切ります",
+    "description": "きります",
+    "type": "VnToKanji"
+  }
+]

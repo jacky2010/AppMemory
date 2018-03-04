@@ -1,352 +1,352 @@
 [
   {
-    "id": 392,
-    "question": "彼",
-    "result": "かれ",
-    "description": "Bỉ - hắn,anh ấy (chỉ ngôi thứ 3) bạn trai, người yêu",
-    "type": "KanjiToHira"
+    "id": 1883,
+    "question": "Dịch lập - Có ích",
+    "result": "役に立ちます",
+    "description": "やくにたちます",
+    "type": "VnToKanji"
   },
   {
-    "id": 395,
-    "question": "彼女",
-    "result": "かのじょ",
-    "description": "Bỉ Nữ - cô ấy (chỉ ngôi thứ 3) bạn gái, người yêu",
-    "type": "KanjiToHira"
+    "id": 1886,
+    "question": "Vô đà - Lãng phí",
+    "result": "無駄",
+    "description": "むだ",
+    "type": "VnToKanji"
   },
   {
-    "id": 398,
-    "question": "家族",
-    "result": "かぞく",
-    "description": "Gia Tộc - gia đình",
-    "type": "KanjiToHira"
+    "id": 1889,
+    "question": "Bất tiện - Bất tiện",
+    "result": "不便",
+    "description": "ふべん",
+    "type": "VnToKanji"
   },
   {
-    "id": 401,
-    "question": "一人で",
-    "result": "ひとりで",
-    "description": "Nhất Nhân - một mình, tự mình",
-    "type": "KanjiToHira"
+    "id": 1892,
+    "question": "Đồng - Giống",
+    "result": "同じ",
+    "description": "おなじ",
+    "type": "VnToKanji"
   },
   {
-    "id": 404,
-    "question": "先週",
-    "result": "せんしゅう",
-    "description": "Tiên Chu - tuần trước",
-    "type": "KanjiToHira"
+    "id": 1896,
+    "question": "Thủ tướng - Thủ tướng",
+    "result": "首相",
+    "description": "しゅしょう",
+    "type": "VnToKanji"
   },
   {
-    "id": 407,
-    "question": "今週",
-    "result": "こんしゅう",
-    "description": "Kim Chu - tuần này",
-    "type": "KanjiToHira"
+    "id": 1899,
+    "question": "Đại thống lãnh - Tổng thống",
+    "result": "大統領",
+    "description": "だいとうりょう",
+    "type": "VnToKanji"
   },
   {
-    "id": 410,
-    "question": "来週",
-    "result": "らいしゅう",
-    "description": "Lai Chu - tuần sau",
-    "type": "KanjiToHira"
+    "id": 1902,
+    "question": "Chính trị - Chính trị",
+    "result": "政治",
+    "description": "せいじ",
+    "type": "VnToKanji"
   },
   {
-    "id": 413,
-    "question": "先月",
-    "result": "せんげつ",
-    "description": "Tiên Nguyệt - tháng trước",
-    "type": "KanjiToHira"
+    "id": 1907,
+    "question": "Thí hợp - Trận đấu",
+    "result": "試合",
+    "description": "しあい",
+    "type": "VnToKanji"
   },
   {
-    "id": 416,
-    "question": "今月",
-    "result": "こんげつ",
-    "description": "Kim Nguyệt - tháng này",
-    "type": "KanjiToHira"
+    "id": 1911,
+    "question": "Ý kiến - Ý kiến",
+    "result": "意見",
+    "description": "いけん",
+    "type": "VnToKanji"
   },
   {
-    "id": 419,
-    "question": "来月",
-    "result": "らいげつ",
-    "description": "Lai Nguyệt - tháng sau",
-    "type": "KanjiToHira"
+    "id": 1914,
+    "question": "Thoại - Câu chuyện, bài nói chuyện",
+    "result": "お話",
+    "description": "おはなし",
+    "type": "VnToKanji"
   },
   {
-    "id": 422,
-    "question": "去年",
-    "result": "きょねん",
-    "description": "Khứ Niên - năm ngoái",
-    "type": "KanjiToHira"
+    "id": 1918,
+    "question": "Vô đà - Sự lãng phí",
+    "result": "無駄",
+    "description": "むだ",
+    "type": "VnToKanji"
   },
   {
-    "id": 425,
-    "question": "今年",
-    "result": "ことし",
-    "description": "Kim Niên - năm nay",
-    "type": "KanjiToHira"
+    "id": 1922,
+    "question": "Giao thông - Giao thông",
+    "result": "交通",
+    "description": "こうつう",
+    "type": "VnToKanji"
   },
   {
-    "id": 428,
-    "question": "来年",
-    "result": "らいねん",
-    "description": "Lai Niên - năm sau",
-    "type": "KanjiToHira"
+    "id": 1926,
+    "question": "Tối cận - Gần đây",
+    "result": "最近",
+    "description": "さいきん",
+    "type": "VnToKanji"
   },
   {
-    "id": 431,
-    "question": "ー月",
-    "result": "ーがつ",
-    "description": "Nguyệt - tháng",
-    "type": "KanjiToHira"
+    "id": 1929,
+    "question": "Đa phần - Chắc là, có thể",
+    "result": "多分",
+    "description": "たぶん",
+    "type": "VnToKanji"
   },
   {
-    "id": 434,
-    "question": "何月",
-    "result": "なんがつ",
-    "description": "Hà Nguyệt - tháng mấy",
-    "type": "KanjiToHira"
+    "id": 1933,
+    "question": "Bản đương - Thật sự",
+    "result": "本当に",
+    "description": "ほんとうに",
+    "type": "VnToKanji"
   },
   {
-    "id": 437,
-    "question": "一日",
-    "result": "ついたち",
-    "description": "Nhất Nhật - ngày mồng một",
-    "type": "KanjiToHira"
+    "id": 1940,
+    "question": "Ẩm - ~anh/ chị uống ~ (cà phê, rượu hay gì đó)",
+    "result": "でも 飲みませんか",
+    "description": "でも のみませんか",
+    "type": "VnToKanji"
   },
   {
-    "id": 440,
-    "question": "二日",
-    "result": "ふつか",
-    "description": "Nhị Nhật - mồng 2, ngày 2",
-    "type": "KanjiToHira"
+    "id": 1943,
+    "question": "Kiến - Tôi phải xem.",
+    "result": "見ないと",
+    "description": "みないと",
+    "type": "VnToKanji"
   },
   {
-    "id": 443,
-    "question": "三日",
-    "result": "みっか",
-    "description": "Tam Nhật - mồng 3, ngày 3",
-    "type": "KanjiToHira"
+    "id": 1949,
+    "question": "Yếu - Cần",
+    "result": "要ります",
+    "description": "いります",
+    "type": "VnToKanji"
   },
   {
-    "id": 446,
-    "question": "四日",
-    "result": "よっか",
-    "description": "Tứ Nhật - mồng 4, ngày 4",
-    "type": "KanjiToHira"
+    "id": 1953,
+    "question": "Điều - Tìm hiểu, điều tra, xem",
+    "result": "調べます",
+    "description": "しらべます",
+    "type": "VnToKanji"
   },
   {
-    "id": 449,
-    "question": "五日",
-    "result": "いつか",
-    "description": "Ngũ Nhật - mồng 5, 5 ngày",
-    "type": "KanjiToHira"
+    "id": 1956,
+    "question": "Trực - Sửa chữa",
+    "result": "直します",
+    "description": "なおします",
+    "type": "VnToKanji"
   },
   {
-    "id": 452,
-    "question": "六日",
-    "result": "むいか",
-    "description": "Lục Nhật - mồng 6, 6 ngày",
-    "type": "KanjiToHira"
+    "id": 1959,
+    "question": "Tu lí - Sử chữa, tu sửa",
+    "result": "修理します",
+    "description": "しゅうりします",
+    "type": "VnToKanji"
   },
   {
-    "id": 455,
-    "question": "七日",
-    "result": "なのか",
-    "description": "Thất Nhật - mồng 7, 7 ngày",
-    "type": "KanjiToHira"
+    "id": 1962,
+    "question": "Điện thoại - Gọi điện thoại",
+    "result": "電話します",
+    "description": "でんわします",
+    "type": "VnToKanji"
   },
   {
-    "id": 458,
-    "question": "八日",
-    "result": "ようか",
-    "description": "Bát Nhật - mồng 8 ,8 ngày",
-    "type": "KanjiToHira"
+    "id": 1965,
+    "question": "Bộc - Tớ",
+    "result": "僕",
+    "description": "ぼく",
+    "type": "VnToKanji"
   },
   {
-    "id": 461,
-    "question": "九日",
-    "result": "ここのか",
-    "description": "Cửu Nhật - mồng 9, 9 ngày",
-    "type": "KanjiToHira"
+    "id": 1968,
+    "question": "Quân - Cậu",
+    "result": "君",
+    "description": "きみ",
+    "type": "VnToKanji"
   },
   {
-    "id": 464,
-    "question": "十日",
-    "result": "とおか",
-    "description": "Thập Nhật - mồng 10, 10 ngày",
-    "type": "KanjiToHira"
+    "id": 1971,
+    "question": "Quân - Cậu,bạn (cách gọi thân mật)",
+    "result": "君",
+    "description": "くん",
+    "type": "VnToKanji"
   },
   {
-    "id": 467,
-    "question": "十四日",
-    "result": "じゅうよっか",
-    "description": "Thập Tứ Nhật - ngày 14, 14 ngày",
-    "type": "KanjiToHira"
+    "id": 1977,
+    "question": "Ngôn diệp - Từ, tiếng",
+    "result": "言葉",
+    "description": "ことば",
+    "type": "VnToKanji"
   },
   {
-    "id": 470,
-    "question": "二十日",
-    "result": "はつか",
-    "description": "Nhị Thập Nhật - ngày 20, 20 ngày",
-    "type": "KanjiToHira"
+    "id": 1980,
+    "question": "Vật giá - Giá cả, mức giá, vật giá",
+    "result": "物価",
+    "description": "ぶっか",
+    "type": "VnToKanji"
   },
   {
-    "id": 473,
-    "question": "二十四日",
-    "result": "にじゅうよっか",
-    "description": "Nhị Thập Tứ Nhật - ngày 24, 24 ngày",
-    "type": "KanjiToHira"
+    "id": 1983,
+    "question": "Trước vật - Kimono",
+    "result": "着物",
+    "description": "きもの",
+    "type": "VnToKanji"
   },
   {
-    "id": 476,
-    "question": "ー日",
-    "result": "いちにち",
-    "description": "Nhật - ngàyー, ーngày",
-    "type": "KanjiToHira"
+    "id": 1987,
+    "question": "Sơ - Ban đầu, đầu tiên",
+    "result": "初め",
+    "description": "はじめ",
+    "type": "VnToKanji"
   },
   {
-    "id": 479,
-    "question": "何日",
-    "result": "なんにち",
-    "description": "Hà Nhật - bao nhiêu ngày, mấy ngày, mồng mấy",
-    "type": "KanjiToHira"
+    "id": 1990,
+    "question": "Chung - Kết thúc",
+    "result": "終わり",
+    "description": "おわり",
+    "type": "VnToKanji"
   },
   {
-    "id": 483,
-    "question": "誕生日",
-    "result": "たんじょうび",
-    "description": "Đản Sinh Nhật - ngày sinh nhật",
-    "type": "KanjiToHira"
+    "id": 1996,
+    "question": "Gian - Vừa rồi, hôm nọ",
+    "result": "この間",
+    "description": "このあいだ",
+    "type": "VnToKanji"
   },
   {
-    "id": 486,
-    "question": "普通",
-    "result": "ふつう",
-    "description": "Phổ Thông - (tàu) bình thường",
-    "type": "KanjiToHira"
+    "id": 1999,
+    "question": "Giai - Mọi người cùng",
+    "result": "皆で",
+    "description": "みんなで",
+    "type": "VnToKanji"
   },
   {
-    "id": 489,
-    "question": "急行",
-    "result": "きゅうこう",
-    "description": "Cấp Hành - (tàu) tốc hành",
-    "type": "KanjiToHira"
+    "id": 2003,
+    "question": "Quốc quy - Anh/chị có về nước không?",
+    "result": "国へ帰るの？",
+    "description": "くにへかえるの？",
+    "type": "VnToKanji"
   },
   {
-    "id": 492,
-    "question": "特急",
-    "result": "とっきゅう",
-    "description": "Đặc Cấp - (tàu) đặc biệt",
-    "type": "KanjiToHira"
+    "id": 2010,
+    "question": "Nhất Độ - Một lần",
+    "result": "一度",
+    "description": "いちど",
+    "type": "VnToKanji"
   },
   {
-    "id": 495,
-    "question": "次の",
-    "result": "つぎの",
-    "description": "Thứ - tiếp theo",
-    "type": "KanjiToHira"
+    "id": 2013,
+    "question": "Nhất Độ - Chưa lần nào",
+    "result": "一度も",
+    "description": "いちども",
+    "type": "VnToKanji"
   },
   {
-    "id": 499,
-    "question": "ー番線",
-    "result": "いちばんせん",
-    "description": "Phiên Tuyến - Đường số -",
-    "type": "KanjiToHira"
+    "id": 2016,
+    "question": "Đoạn - Dần dần",
+    "result": "段々",
+    "description": "だんだん",
+    "type": "VnToKanji"
   },
   {
-    "id": 502,
-    "question": "食べます",
-    "result": "たべます",
-    "description": "Thực - ăn",
-    "type": "KanjiToHira"
+    "id": 2020,
+    "question": "Âm dạng - Cảm ơn anh/chị (bày tỏ tình cảm khi được ai đó giúp đỡ.",
+    "result": "お陰様で",
+    "description": "おかげさまで",
+    "type": "VnToKanji"
   },
   {
-    "id": 505,
-    "question": "飲みます",
-    "result": "のみます",
-    "description": "Ẩm - uống",
-    "type": "KanjiToHira"
+    "id": 2023,
+    "question": "Cạn bôi - Nâng cốc!/cạn chén",
+    "result": "乾杯",
+    "description": "かんぱい",
+    "type": "VnToKanji"
   },
   {
-    "id": 508,
-    "question": "吸います",
-    "result": "すいます",
-    "description": "Hấp - hút (thuốc)",
-    "type": "KanjiToHira"
+    "id": 2026,
+    "question": "Thực - Thật ra thì/sự tình là",
+    "result": "実は",
+    "description": "じつは",
+    "type": "VnToKanji"
   },
   {
-    "id": 511,
-    "question": "見ます",
-    "result": "みます",
-    "description": "Kiến - xem, nhìn, ngắm",
-    "type": "KanjiToHira"
+    "id": 2030,
+    "question": "Hà hồi - Nhiều lần",
+    "result": "何回も",
+    "description": "なんかいも",
+    "type": "VnToKanji"
   },
   {
-    "id": 514,
-    "question": "聞きます",
-    "result": "ききます",
-    "description": "Văn - nghe",
-    "type": "KanjiToHira"
+    "id": 2034,
+    "question": "Vô lí - Không thể, quá sức",
+    "result": "無理",
+    "description": "むり",
+    "type": "VnToKanji"
   },
   {
-    "id": 517,
-    "question": "読みます",
-    "result": "よみます",
-    "description": "Độc - đọc",
-    "type": "KanjiToHira"
+    "id": 2037,
+    "question": "Thể - Tốt cho sức khỏe",
+    "result": "体にいい",
+    "description": "からだにいい",
+    "type": "VnToKanji"
   },
   {
-    "id": 520,
-    "question": "書きます",
-    "result": "かきます",
-    "description": "Thư - viết, vẽ, kẻ",
-    "type": "KanjiToHira"
+    "id": 2041,
+    "question": "Đăng - Leo ( núi)",
+    "result": "登ります",
+    "description": "のぼります",
+    "type": "VnToKanji"
   },
   {
-    "id": 523,
-    "question": "買います",
-    "result": "かいます",
-    "description": "Mãi - mua",
-    "type": "KanjiToHira"
+    "id": 2044,
+    "question": "Bạc - Trọ (khách sạn)",
+    "result": "泊まります",
+    "description": "とまります",
+    "type": "VnToKanji"
   },
   {
-    "id": 526,
-    "question": "撮ります",
-    "result": "とります",
-    "description": "Toát - chụp",
-    "type": "KanjiToHira"
+    "id": 2047,
+    "question": "Tảo trừ - Dọn vệ sinh",
+    "result": "掃除します",
+    "description": "そうじします",
+    "type": "VnToKanji"
   },
   {
-    "id": 529,
-    "question": "写真",
-    "result": "しゃしん",
-    "description": "Tả Chân - ảnh",
-    "type": "KanjiToHira"
+    "id": 2050,
+    "question": "Tiển trạc - Giặt",
+    "result": "洗濯します",
+    "description": "せんたくします",
+    "type": "VnToKanji"
   },
   {
-    "id": 533,
-    "question": "会います",
-    "result": "あいます",
-    "description": "Hội (Hữu Đạt) - gặp gỡ (bạn)",
-    "type": "KanjiToHira"
+    "id": 2053,
+    "question": "Liên lạc - liên lạc",
+    "result": "連絡します",
+    "description": "れんらくします",
+    "type": "VnToKanji"
   },
   {
-    "id": 536,
-    "question": "ご飯",
-    "result": "ごはん",
-    "description": "Phạn - cơm, bữa ăn",
-    "type": "KanjiToHira"
+    "id": 2057,
+    "question": "Miên - Buồn ngủ",
+    "result": "眠い",
+    "description": "ねむい",
+    "type": "VnToKanji"
   },
   {
-    "id": 539,
-    "question": "朝ご飯",
-    "result": "あさごはん",
-    "description": "Triều Phạn - bữa sáng",
-    "type": "KanjiToHira"
+    "id": 2060,
+    "question": "Nhược - Yếu",
+    "result": "弱い",
+    "description": "よわい",
+    "type": "VnToKanji"
   },
   {
-    "id": 542,
-    "question": "昼ごはん",
-    "result": "ひるごはん",
-    "description": "Trú - bữa trưa",
-    "type": "KanjiToHira"
+    "id": 2063,
+    "question": "Cường - Mạnh",
+    "result": "強い",
+    "description": "つよい",
+    "type": "VnToKanji"
   }
 ]
