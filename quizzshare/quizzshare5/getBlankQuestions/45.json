@@ -1,0 +1,352 @@
+[
+  {
+    "id": 2065,
+    "question": "ちょうしがいい",
+    "result": "調子がいい",
+    "description": "Điều tử - Trong tình trạng tốt",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2068,
+    "question": "ちょうしがわるい",
+    "result": "調子が悪い",
+    "description": "Điều tử ác - Trong tình trạng xấu",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2071,
+    "question": "ちょうし",
+    "result": "調子",
+    "description": "Điều tử - Tình trạng, trạng thái",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2075,
+    "question": "すもう",
+    "result": "相撲",
+    "description": "Tướng phác - Sumou",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2079,
+    "question": "おちゃ",
+    "result": "お茶",
+    "description": "Trà - Trà đạo",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2082,
+    "question": "ひ",
+    "result": "日",
+    "description": "Nhật - Ngày",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2085,
+    "question": "おいのり",
+    "result": "お祈り",
+    "description": "kì - việc cầu nguyện",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2088,
+    "question": "かちょう",
+    "result": "課長",
+    "description": "khóa trường - tổ trưởng",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2091,
+    "question": "ぶちょう",
+    "result": "部長",
+    "description": "bộ trường - trưởng phòng",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2094,
+    "question": "しゃちょう",
+    "result": "社長",
+    "description": "xã trường - giám đốc",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2097,
+    "question": "どうぶつ",
+    "result": "動物",
+    "description": "động vật - động vật",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2100,
+    "question": "うま",
+    "result": "馬",
+    "description": "mã - ngựa",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2104,
+    "question": "それは おもしろいですね",
+    "result": "それは 面白いですね",
+    "description": "diện bạch - Hay thật nhỉ.",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2108,
+    "question": "ぼくじょう",
+    "result": "牧場",
+    "description": "mục trường - trang trại chăn nuôi",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2111,
+    "question": "ほんとうですか",
+    "result": "本当ですか",
+    "description": "bản đương - thật không ạ?",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2114,
+    "question": "ぜひ",
+    "result": "是非",
+    "description": "thị phi - nhất định",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2118,
+    "question": "できます",
+    "result": "出来ます",
+    "description": "xuất lai - có thể",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2121,
+    "question": "あらいます",
+    "result": "洗います",
+    "description": "tiển - rửa",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2124,
+    "question": "ひきます",
+    "result": "引きます",
+    "description": "dẫn - kéo",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2127,
+    "question": "うたいます",
+    "result": "歌います",
+    "description": "ca - hát",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2130,
+    "question": "あつめます",
+    "result": "集めます",
+    "description": "tập - sưu tầm, thu thập",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2133,
+    "question": "すてます",
+    "result": "捨てます",
+    "description": "xả - vứt, bỏ đi",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2136,
+    "question": "かえます",
+    "result": "換えます",
+    "description": "hoán - đổi",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2139,
+    "question": "うんてんします",
+    "result": "運転します",
+    "description": "vận chuyển - lái xe",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2142,
+    "question": "よやくします",
+    "result": "予約します",
+    "description": "dự ước - đặt chỗ trước",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2145,
+    "question": "けんがくします",
+    "result": "見学します",
+    "description": "kiến học - kiến tập (xem với mục đích học tập)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2150,
+    "question": "こくさい",
+    "result": "国際",
+    "description": "quốc tế - quốc tế",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2153,
+    "question": "げんきん",
+    "result": "現金",
+    "description": "hiện kim - tiền mặt",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2156,
+    "question": "しゅみ",
+    "result": "趣味",
+    "description": "thú vị - sở thích, thú vui",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2159,
+    "question": "にっき",
+    "result": "日記",
+    "description": "nhật kí - nhật kí",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2162,
+    "question": "おぼえます",
+    "result": "覚えます",
+    "description": "giác - nhớ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2165,
+    "question": "わすれます",
+    "result": "忘れます",
+    "description": "vong - quên",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2168,
+    "question": "なくします",
+    "result": "なくします",
+    "description": "vô - mất, đánh mất",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2171,
+    "question": "だします",
+    "result": "出します",
+    "description": "xuất - nộp (bản báo cáo)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2174,
+    "question": "はらいます",
+    "result": "払います",
+    "description": "phất - trả tiền",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2177,
+    "question": "かえします",
+    "result": "返します",
+    "description": "phản - trả lại",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2180,
+    "question": "でかけます",
+    "result": "出かけます",
+    "description": "xuất - ra ngoài",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2183,
+    "question": "ぬぎます",
+    "result": "脱ぎます",
+    "description": "thoát - cởi (quần, áo)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2186,
+    "question": "もっていきます",
+    "result": "持って行きます",
+    "description": "trì hành - mang đi, mang theo",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2189,
+    "question": "もってきます",
+    "result": "持って来ます",
+    "description": "trì lai - mang đến",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2192,
+    "question": "しんぱいします",
+    "result": "心配します",
+    "description": "tâm phối - lo lắng",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2195,
+    "question": "ざんぎょうします",
+    "result": "残業します",
+    "description": "tàn nghiệp - làm thêm giờ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2198,
+    "question": "しゅっちょうします",
+    "result": "出張します",
+    "description": "xuất trương - đi công tác",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2201,
+    "question": "のみます",
+    "result": "飲みます",
+    "description": "ẩm - uống",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2204,
+    "question": "くすり",
+    "result": "薬",
+    "description": "dược - thuốc",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2207,
+    "question": "はいります",
+    "result": "入ります",
+    "description": "nhập - tắm bồn",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2210,
+    "question": "たいせ",
+    "result": "大切",
+    "description": "đại thiết - quan trọng, quý giá",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2213,
+    "question": "だいじょうぶ",
+    "result": "大丈夫",
+    "description": "đại trượng phu - không sao, không có vấn đề gì",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2216,
+    "question": "あぶない",
+    "result": "危ない",
+    "description": "nguy - nguy hiểm",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2219,
+    "question": "もんだい",
+    "result": "問題",
+    "description": "vấn đề - vấn đề",
+    "type": "HiraToKanji"
+  }
+]

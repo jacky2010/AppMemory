@@ -1,0 +1,170 @@
+[
+  {
+    "id": 2389,
+    "question": "ふく",
+    "result": "服",
+    "description": "phục - quần áo",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2392,
+    "question": "せいひん",
+    "result": "製品",
+    "description": "chế phẩm - sản phẩm",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2396,
+    "question": "せんもん",
+    "result": "専門",
+    "description": "chuyên môn - chuyên môn",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2399,
+    "question": "はいしゃ",
+    "result": "歯医者",
+    "description": "xỉ y giả - nha sĩ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2402,
+    "question": "とこや",
+    "result": "床屋",
+    "description": "sàng ốc - hiệu cắt tóc",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2406,
+    "question": "どくしん",
+    "result": "独身",
+    "description": "độc thân - độc thân",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2409,
+    "question": "とくに",
+    "result": "特に",
+    "description": "đặc - đặc biệt",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2412,
+    "question": "おもいだします",
+    "result": "思い出します",
+    "description": "tư xuất - nhớ lại, hồi tưởng lại",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2415,
+    "question": "ごかぞく",
+    "result": "ご家族",
+    "description": "gia tộc - gia đình (dùng cho người khác)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2419,
+    "question": "こうこう",
+    "result": "高校",
+    "description": "cao hiệu - trường trung học phổ thông",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2422,
+    "question": "にっぽんばし",
+    "result": "日本橋",
+    "description": "nhật bản kiều - tên một khu phố buôn bán ở Osaka",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2425,
+    "question": "たちます",
+    "result": "立ちます",
+    "description": "lập - đứng",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2428,
+    "question": "すわります",
+    "result": "座ります",
+    "description": "tọa - ngồi",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2431,
+    "question": "つかいます",
+    "result": "使います",
+    "description": "sử - dùng,sử dụng",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2434,
+    "question": "おきます",
+    "result": "置きます",
+    "description": "trí - đặt, để",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2437,
+    "question": "しります",
+    "result": "知ります",
+    "description": "tri - biết",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2440,
+    "question": "うります",
+    "result": "売ります",
+    "description": "mại - bán",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2443,
+    "question": "つくります",
+    "result": "作ります",
+    "description": "tác - chế tạo, làm ra",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2446,
+    "question": "すみます",
+    "result": "住みます",
+    "description": "trú - sống",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2449,
+    "question": "けんきゅうします",
+    "result": "研究します",
+    "description": "nghiên cứu - nghiên cứu",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2452,
+    "question": "しっています",
+    "result": "知っています",
+    "description": "tri - biết",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2455,
+    "question": "すんでいます",
+    "result": "住んでいます",
+    "description": "trú - sống",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2458,
+    "question": "しりょう",
+    "result": "資料",
+    "description": "tư liệu - tài liệu, tư liệu",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2462,
+    "question": "じこくひょう",
+    "result": "時刻表",
+    "description": "thời khắc biểu - bảng giờ tàu chạy",
+    "type": "HiraToKanji"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": 2222,
+    "question": "こたえ",
+    "result": "答え",
+    "description": "đáp - câu trả lời",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2225,
+    "question": "きんえん",
+    "result": "禁煙",
+    "description": "cấm yên - cấm hút thuốc",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2228,
+    "question": "ほけんしょう",
+    "result": "保険証",
+    "description": "bảo hiểm chứng - thẻ bảo hiểm",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2231,
+    "question": "かぜ",
+    "result": "風邪",
+    "description": "phong tà - cảm, cúm",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2234,
+    "question": "ねつ",
+    "result": "熱",
+    "description": "nhiệt - sốt",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2237,
+    "question": "びょうき",
+    "result": "病気",
+    "description": "bệnh khí - ốm, bệnh",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2240,
+    "question": "くすり",
+    "result": "薬",
+    "description": "dược - thuốc",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2243,
+    "question": "おふろ",
+    "result": "お風呂",
+    "description": "phong lữ - bồn tắm",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2246,
+    "question": "うわぎ",
+    "result": "上着",
+    "description": "thượng trước - áo khoác",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2249,
+    "question": "したぎ",
+    "result": "下着",
+    "description": "hạ trước - áo lót",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2252,
+    "question": "せんせい",
+    "result": "先生",
+    "description": "tiên sinh - bác sĩ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2255,
+    "question": "にさんにち",
+    "result": "二，三日",
+    "description": "nhị tam nhật - vài ngày",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2261,
+    "question": "いたいです",
+    "result": "痛いです",
+    "description": "thống - tôi bị đau..",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2264,
+    "question": "のど",
+    "result": "喉",
+    "description": "hầu - họng",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2267,
+    "question": "おだいじに",
+    "result": "お大事に",
+    "description": "đại sự - anh chị nhớ giữ gìn sức khỏe",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2270,
+    "question": "のります",
+    "result": "乗ります",
+    "description": "thừa - đi, lên [ tàu]",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2273,
+    "question": "おります",
+    "result": "降ります",
+    "description": "giáng - xuống [ tàu]",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2276,
+    "question": "のりかえます",
+    "result": "乗り換えます",
+    "description": "thừa hoán - chuyển đổi tàu",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2279,
+    "question": "あびます",
+    "result": "浴びます",
+    "description": "dục - tắm [vòi hoa sen]",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2282,
+    "question": "いれます",
+    "result": "入れます",
+    "description": "nhập - cho vào, bỏ vào",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2285,
+    "question": "だします",
+    "result": "出します",
+    "description": "xuất - lấy ra, rút (tiền)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2288,
+    "question": "はいります",
+    "result": "入ります",
+    "description": "nhập - vào, nhập học [đại học]",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2291,
+    "question": "でます",
+    "result": "出ます",
+    "description": "xuất (đại học) - ra, tốt nghiệp [đại học]",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2295,
+    "question": "おします",
+    "result": "押します",
+    "description": "áp - bấm, ấn (nút)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2298,
+    "question": "わかい",
+    "result": "若い",
+    "description": "nhược - trẻ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2301,
+    "question": "ながい",
+    "result": "長い",
+    "description": "trường - dài",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2304,
+    "question": "みじかい",
+    "result": "短い",
+    "description": "đoản - ngắn",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2307,
+    "question": "あかるい",
+    "result": "明るい",
+    "description": "minh - sáng",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2310,
+    "question": "くらい",
+    "result": "暗い",
+    "description": "ám - tối",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2313,
+    "question": "せがたかい",
+    "result": "背が高い",
+    "description": "bối cao - cao (dùng cho người)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2316,
+    "question": "あたまがいい",
+    "result": "頭がいい",
+    "description": "đầu - thông minh",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2319,
+    "question": "からだ",
+    "result": "体",
+    "description": "thể - người, cơ thể",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2322,
+    "question": "あたま",
+    "result": "頭",
+    "description": "đầu - đầu",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2325,
+    "question": "かみ",
+    "result": "髪",
+    "description": "phát - tóc",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2328,
+    "question": "かお",
+    "result": "顔",
+    "description": "nhan - mặt",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2331,
+    "question": "め",
+    "result": "目",
+    "description": "mục - mắt",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2334,
+    "question": "みみ",
+    "result": "耳",
+    "description": "nhĩ - tai",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2337,
+    "question": "くち",
+    "result": "口",
+    "description": "khẩu - miệng",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2340,
+    "question": "は",
+    "result": "歯",
+    "description": "xỉ - răng",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2343,
+    "question": "おなか",
+    "result": "お腹",
+    "description": "phúc - bụng",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2346,
+    "question": "あし",
+    "result": "足",
+    "description": "túc - chân",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2352,
+    "question": "みどり",
+    "result": "緑",
+    "description": "lục - màu xanh la cây",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2355,
+    "question": "おてら",
+    "result": "お寺",
+    "description": "tự - chùa",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2358,
+    "question": "じんじゃ",
+    "result": "神社",
+    "description": "thần xã - đền thờ đạo thần",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2361,
+    "question": "りゅうがくせい",
+    "result": "留学生",
+    "description": "lưu học sinh - du học sinh",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2364,
+    "question": "おひきだしですか",
+    "result": "お引き出しですか",
+    "description": "dẫn xuất - anh/ chi rút tiền ạ?",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2369,
+    "question": "あんしょうばんごう",
+    "result": "暗証番号",
+    "description": "ám chứng phiên hiệu - mã số bí mật",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2372,
+    "question": "つぎに",
+    "result": "次に",
+    "description": "thứ - tiếp theo",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2375,
+    "question": "きんがく",
+    "result": "金額",
+    "description": "kim ngạch - số tiền, khoản tiền",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 2378,
+    "question": "かくにん",
+    "result": "確認",
+    "description": "xác nhận - sự xác nhận, sự kiểm tra",
+    "type": "HiraToKanji"
+  }
+]

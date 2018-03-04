@@ -1,352 +1,352 @@
 [
-    {
-        "id": 1051,
-        "question": "遠い",
-        "result": "とおい",
-        "description": "Viễn - xa",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1054,
-        "question": "早い",
-        "result": "はやい",
-        "description": "Tốc - nhanh, sớm",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1057,
-        "question": "遅い",
-        "result": "おそい",
-        "description": "Trì - chậm, muộn",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1060,
-        "question": "多い",
-        "result": "おおい",
-        "description": "Đa - nhiều",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1063,
-        "question": "少ない",
-        "result": "すくない",
-        "description": "Thiểu - ít",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1066,
-        "question": "暖かい",
-        "result": "あたたかい",
-        "description": "Noãn - ấm áp",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1069,
-        "question": "涼しい",
-        "result": "すずしい",
-        "description": "Lương - mát mẻ",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1072,
-        "question": "甘い",
-        "result": "あまい",
-        "description": "Cam - ngọt",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1075,
-        "question": "辛い",
-        "result": "からい",
-        "description": "Tân - cay",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1078,
-        "question": "重い",
-        "result": "おもい",
-        "description": "Trọng - nặng",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1081,
-        "question": "軽い",
-        "result": "かるい",
-        "description": "Khinh - nhẹ",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1085,
-        "question": "季節",
-        "result": "きせつ",
-        "description": "Qúy Tiết - mùa",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1088,
-        "question": "春",
-        "result": "はる",
-        "description": "Xuân - mùa xuân",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1091,
-        "question": "夏",
-        "result": "なつ",
-        "description": "Hạ - mùa hè",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1094,
-        "question": "秋",
-        "result": "あき",
-        "description": "Thu - mùa thu",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1097,
-        "question": "冬",
-        "result": "ふゆ",
-        "description": "Đông - mùa đông",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1100,
-        "question": "天気",
-        "result": "てんき",
-        "description": "Thiên Khí - thời tiết",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1103,
-        "question": "雨",
-        "result": "あめ",
-        "description": "Vũ - mưa",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1106,
-        "question": "雪",
-        "result": "ゆき",
-        "description": "Tuyết - tuyết",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1109,
-        "question": "曇り",
-        "result": "くもり",
-        "description": "Đàm - nhiều mây, trời u ám",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1114,
-        "question": "色々",
-        "result": "いろいろ",
-        "description": "Sắc Sắc - đa dạng, nhiều sắc thái",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1117,
-        "question": "男の人",
-        "result": "おとこのひと",
-        "description": "Nam Nhân - người đàn ông",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1120,
-        "question": "女の人",
-        "result": "おんなのひと",
-        "description": "Nữ Nhân - người phụ nữ",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1123,
-        "question": "男の子",
-        "result": "おとこのこ",
-        "description": "Nam Tử - bé trai",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1126,
-        "question": "女の子",
-        "result": "おんなのこ",
-        "description": "Nữ Tử - bé gái",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1129,
-        "question": "犬",
-        "result": "いぬ",
-        "description": "Khuyển - con chó",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1132,
-        "question": "猫",
-        "result": "ねこ",
-        "description": "Miêu - con mèo",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1135,
-        "question": "木",
-        "result": "き",
-        "description": "Mộc - cây,gỗ",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1138,
-        "question": "物",
-        "result": "もの",
-        "description": "Vật - đồ vật",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1142,
-        "question": "電池",
-        "result": "でんち",
-        "description": "Điện Trì - cục pin",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1145,
-        "question": "箱",
-        "result": "はこ",
-        "description": "Tương - cái hộp",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1149,
-        "question": "冷蔵庫",
-        "result": "れいぞうこ",
-        "description": "Lãnh Tàng Khố - tủ lạnh",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1154,
-        "question": "棚",
-        "result": "たな",
-        "description": "Bằng - ngăn, kệ giá",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1158,
-        "question": "窓",
-        "result": "まど",
-        "description": "Song - cửa sổ",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1163,
-        "question": "公園",
-        "result": "こうえん",
-        "description": "Công Viên - công viên",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1166,
-        "question": "喫茶店",
-        "result": "きっさてん",
-        "description": "Khiết Trà Điếm - quán giải khát",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1169,
-        "question": "本屋",
-        "result": "ほんや",
-        "description": "Bản Ốc - hiệu sách",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1172,
-        "question": "屋",
-        "result": "や",
-        "description": "Ốc - hiệu ~, cửa hàng ~",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1175,
-        "question": "乗り場",
-        "result": "のりば",
-        "description": "Thừa Trường - bến xe, điểm lên xe",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1178,
-        "question": "県",
-        "result": "けん",
-        "description": "Huyện - huyện",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1181,
-        "question": "上",
-        "result": "うえ",
-        "description": "Thượng - trên",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1184,
-        "question": "下",
-        "result": "した",
-        "description": "Hạ - dưới",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1187,
-        "question": "前",
-        "result": "まえ",
-        "description": "Tiền - trước",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1190,
-        "question": "後ろ",
-        "result": "うしろ",
-        "description": "Hậu - sau",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1193,
-        "question": "左",
-        "result": "ひだり",
-        "description": "Tả - bên trái",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1196,
-        "question": "右",
-        "result": "みぎ",
-        "description": "Hữu - bên phải",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1199,
-        "question": "中",
-        "result": "なか",
-        "description": "Trung - trong, bên trong",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1202,
-        "question": "外",
-        "result": "そと",
-        "description": "Ngoại - bên ngoài",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1205,
-        "question": "隣",
-        "result": "となり",
-        "description": "Lân - bên cạnh",
-        "type": "KanjiToHira"
-    },
-    {
-        "id": 1208,
-        "question": "近く",
-        "result": "ちかく",
-        "description": "Cận - gần",
-        "type": "KanjiToHira"
-    }
+  {
+    "id": 881,
+    "question": "易しい",
+    "result": "やさしい",
+    "description": "Dịch - dễ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 884,
+    "question": "高い",
+    "result": "たかい",
+    "description": "Cao - cao,đắt",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 887,
+    "question": "安い",
+    "result": "やすい",
+    "description": "An - rẻ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 890,
+    "question": "低い",
+    "result": "ひくい",
+    "description": "Đê - thấp",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 893,
+    "question": "面白い",
+    "result": "おもしろい",
+    "description": "Diện Bạch - thú vị, hay",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 896,
+    "question": "美味しい",
+    "result": "おいしい",
+    "description": "Mỹ Vị - ngon",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 899,
+    "question": "忙しい",
+    "result": "いそがしい",
+    "description": "Mang - bận",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 902,
+    "question": "楽しい",
+    "result": "たのしい",
+    "description": "Lạc - vui vẻ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 905,
+    "question": "白い",
+    "result": "しろい",
+    "description": "Bạch - trắng",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 908,
+    "question": "黒い",
+    "result": "くろい",
+    "description": "Hắc - đen",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 911,
+    "question": "赤い",
+    "result": "あかい",
+    "description": "Xích - đỏ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 914,
+    "question": "青い",
+    "result": "あおい",
+    "description": "Thanh - xanh",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 918,
+    "question": "子ども",
+    "result": "こども",
+    "description": "Tử - em bé",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 922,
+    "question": "休みます",
+    "result": "やすみます",
+    "description": "Hưu - nghỉ [không đến công ty]",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 925,
+    "question": "一つ",
+    "result": "ひとつ",
+    "description": "Nhất - một cái (dùng để đếm đồ vật)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 928,
+    "question": "二つ",
+    "result": "ふたつ",
+    "description": "Nhị - hai cái",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 931,
+    "question": "三つ",
+    "result": "みっつ",
+    "description": "Tam - ba cái",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 934,
+    "question": "四つ",
+    "result": "よっつ",
+    "description": "Tứ - bốn cái",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 937,
+    "question": "五つ",
+    "result": "いつつ",
+    "description": "Ngũ - năm cái",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 940,
+    "question": "六つ",
+    "result": "むっつ",
+    "description": "Lục - sáu cái",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 943,
+    "question": "七つ",
+    "result": "ななつ",
+    "description": "Thất - bảy cái",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 946,
+    "question": "八つ",
+    "result": "やっつ",
+    "description": "Bát - tám cái",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 949,
+    "question": "九つ",
+    "result": "ここのつ",
+    "description": "Cửu - chín cái",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 952,
+    "question": "十",
+    "result": "とお",
+    "description": "Thập - mười cái",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 956,
+    "question": "一人",
+    "result": "ひとり",
+    "description": "Nhân - một người",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 959,
+    "question": "二人",
+    "result": "ふたり",
+    "description": "Nhị Nhân - hai người",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 962,
+    "question": "－人",
+    "result": "ーにん",
+    "description": "Nhân - - người(số đếm)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 965,
+    "question": "－台",
+    "result": "ーだい",
+    "description": "Đài - - chiếc, cái (dùng để đếm máy móc, ô tô...)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 968,
+    "question": "ー枚",
+    "result": "ーまい",
+    "description": "Mai - - - tờ, tấm (dùng đếm vật mỏng như tờ giấy, tem thư..)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 971,
+    "question": "ー回",
+    "result": "ーかい",
+    "description": "Hồi - lần -",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 979,
+    "question": "桜",
+    "result": "さくら",
+    "description": "Anh hoa - anh đào",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 982,
+    "question": "山",
+    "result": "やま",
+    "description": "Sơn - núi",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 985,
+    "question": "町",
+    "result": "まち",
+    "description": "Đinh - thị trấn, khu phố",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 988,
+    "question": "食べ物",
+    "result": "たべもの",
+    "description": "Thực Vật - đồ ăn",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 991,
+    "question": "車",
+    "result": "くるま",
+    "description": "Xa - xe cộ,ô tô",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 994,
+    "question": "所",
+    "result": "ところ",
+    "description": "Sở - nơi, chỗ",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 997,
+    "question": "寮",
+    "result": "りょう",
+    "description": "Liêu - ký túc xá",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1000,
+    "question": "勉強",
+    "result": "べんきょう",
+    "description": "Miễn Cưỡng - việc học",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1003,
+    "question": "生活",
+    "result": "せいかつ",
+    "description": "Sinh Hoạt - sinh hoat, cuộc sống",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1006,
+    "question": "仕事",
+    "result": "しごと",
+    "description": "Sĩ Sự - công việc (～をします: làm việc)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1016,
+    "question": "お元気ですか",
+    "result": "おげんきですか",
+    "description": "Nguyên Khí - Anh có khỏe không?",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1020,
+    "question": "日本の生活に慣れましたか",
+    "result": "にほんのせいかつになれましたか",
+    "description": "Nhật Bản Sinh Hoạt Quán - Anh đã quen với cuộc sống ở Nhật chưa?",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1024,
+    "question": "いいえ、結構です",
+    "result": "いいえ、けっこうです",
+    "description": "Kết Cấu - Không,tôi đủ rồi.",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1028,
+    "question": "そろそろ失礼します",
+    "result": "そろそろしつれいします",
+    "description": "Thất Lễ - Đến lúc (tôi) xin phép về.",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1032,
+    "question": "富士山",
+    "result": "ふじさん",
+    "description": "Phú Sĩ Sơn - núi Phú Sĩ (ngọn núi cao nhất Nhật Bản)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1035,
+    "question": "琵琶湖",
+    "result": "びわこ",
+    "description": "Tì Bà Hồ - hồ Biwa, hồ lớn nhất Nhật Bản.",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1039,
+    "question": "金閣寺",
+    "result": "きんかくじ",
+    "description": "Kim Các Tự - chùa Kinkakuji (chùa vàng)",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1042,
+    "question": "七人の侍",
+    "result": "しちにんのさむらい",
+    "description": "Thất Nhân Thị - \"Bảy chàng võ sĩ đạo\"",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1045,
+    "question": "簡単",
+    "result": "かんたん",
+    "description": "Giản Đơn - dễ, đơn giản",
+    "type": "KanjiToHira"
+  },
+  {
+    "id": 1048,
+    "question": "近い",
+    "result": "ちかい",
+    "description": "Cận - gần",
+    "type": "KanjiToHira"
+  }
 ]

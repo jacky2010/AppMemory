@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1554,
+    "question": "せまい",
+    "result": "狭い",
+    "description": "hiệp - chật, hẹp",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1557,
+    "question": "しやくしょ",
+    "result": "市役所",
+    "description": "thị dịch sở - văn phòng hành chính quận, thành phố",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1561,
+    "question": "かわ",
+    "result": "川",
+    "description": "xuyên - sông",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1564,
+    "question": "けいざい",
+    "result": "経済",
+    "description": "kinh tế - kinh tế",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1567,
+    "question": "びじゅつ",
+    "result": "美術",
+    "description": "mĩ thuật - mỹ thuật",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1570,
+    "question": "つり",
+    "result": "釣り",
+    "description": "điếu - việc câu cá",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1574,
+    "question": "かいぎ",
+    "result": "会議",
+    "description": "hội nghị - họp, cuộc họp",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1577,
+    "question": "とうろく",
+    "result": "登録",
+    "description": "đăng lục - việc đăng kí",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1580,
+    "question": "しゅうまつ",
+    "result": "週末",
+    "description": "chu mạt - cuối tuần",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1584,
+    "question": "なにか",
+    "result": "何か",
+    "description": "hà - cái gì đó",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1588,
+    "question": "おなかがすきました",
+    "result": "お腹が空きました",
+    "description": "phúc - không (tôi) đói rồi",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1591,
+    "question": "おなかがいっぱいです",
+    "result": "お腹が いっぱいです",
+    "description": "phúc - (tôi) no rồi",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1594,
+    "question": "のどがかわきました",
+    "result": "喉が乾きました",
+    "description": "hầu can - tôi khát",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1599,
+    "question": "ごちゅうもんは",
+    "result": "ご注文は",
+    "description": "chú văn - anh/chị dùng món gì ạ? (dùng trong nhà hàng)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1602,
+    "question": "ていしょく",
+    "result": "定食",
+    "description": "định thực - cơm suất",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1605,
+    "question": "ぎゅうどん",
+    "result": "牛どん",
+    "description": "ngưu món - cơm thịt bò",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1608,
+    "question": "おまちください",
+    "result": "お待ちください",
+    "description": "đãi - xin anh chị vui lòng đợi chút ạ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1611,
+    "question": "べつべつに",
+    "result": "別々に",
+    "description": "biệt - riêng ra/để riêng",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1615,
+    "question": "かんがえます",
+    "result": "考えます",
+    "description": "Khảo - Nghĩ , suy nghĩ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1618,
+    "question": "つきます",
+    "result": "着きます",
+    "description": "Trước - Đến",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1621,
+    "question": "えき",
+    "result": "駅",
+    "description": "dịch - nhà ga",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1624,
+    "question": "りゅうがくします",
+    "result": "留学します",
+    "description": "Lưu học - Du học",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1627,
+    "question": "とります",
+    "result": "取ります",
+    "description": "Thủ - Thêm",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1630,
+    "question": "とし",
+    "result": "年",
+    "description": "niên - tuổi",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1633,
+    "question": "いなか",
+    "result": "田舎",
+    "description": "Điền xá - Nông thôn, quê",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1636,
+    "question": "たいしかん",
+    "result": "大使館",
+    "description": "đại sứ quán - Đại sứ quán",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1641,
+    "question": "おく",
+    "result": "億",
+    "description": "ức - Một trăm triệu",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1648,
+    "question": "てんきん",
+    "result": "転勤",
+    "description": "Chuyển cần - việc chuyển địa điểm làm việc",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1652,
+    "question": "いっばい のみましょう",
+    "result": "―杯 飲みましょう",
+    "description": "Nhất bôi ẩm - Chúng ta cùng uống nhé ( ZOOOO!!)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1655,
+    "question": "いろいろおせわになりましら",
+    "result": "いろいろお世話になりましら",
+    "description": "Thế thoại - Anh/chị đã giúp tôi (nhiều)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1658,
+    "question": "がんばります",
+    "result": "頑張ります",
+    "description": "Ngoan Trướng - Cố gắng, cố",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1661,
+    "question": "どうぞおげんきで",
+    "result": "どうぞお元気で",
+    "description": "Nguyên khí - Chúc anh chị mạnh khỏe (khi chia tay với ai đó mà có lẽ lâu nữa mói gặp lại)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1664,
+    "question": "おばあさん/おばあちゃん",
+    "result": "お祖母さん/お祖母ちゃん",
+    "description": "Tổ mẫu - Bà nội, bà ngoại",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1667,
+    "question": "じゅんび",
+    "result": "準備",
+    "description": "Chuẩn bị - Chuẩn bị",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1670,
+    "question": "いみ",
+    "result": "意味",
+    "description": "ý vị - Ý nghĩa",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1673,
+    "question": "おかし",
+    "result": "お菓子",
+    "description": "Quả tử - Bánh kẹo",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1676,
+    "question": "ぜんぶ",
+    "result": "全部",
+    "description": "Toàn bộ - Toàn bộ, tất cả",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1679,
+    "question": "じぶんで",
+    "result": "自分で",
+    "description": "Tự phân - Tự mình",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1682,
+    "question": "ほかに",
+    "result": "他に",
+    "description": "Tha - Ngoài ra, bên cạnh đó",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1685,
+    "question": "ワゴンしゃ",
+    "result": "ワゴン車",
+    "description": "Xa - Xe ô tô kiểu wagon",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1688,
+    "question": "おべんとう",
+    "result": "お弁当",
+    "description": "Biện đương - Cơm hộp",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1691,
+    "question": "ははのひ",
+    "result": "母の日",
+    "description": "Mẫu nhật - Ngày của mẹ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1695,
+    "question": "つれていきます",
+    "result": "連れて行きます",
+    "description": "Liên hành - Dẫn đi",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1698,
+    "question": "つれてきます",
+    "result": "連れて来ます",
+    "description": "Liên lai - Dẫn đến",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1701,
+    "question": "おくります）",
+    "result": "送ります",
+    "description": "Tống - Đưa đi, đưa đến, tiễn",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1704,
+    "question": "しょうかいします",
+    "result": "紹介します",
+    "description": "Thiệu giới - Giới thiệu",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1707,
+    "question": "あんないします",
+    "result": "案内します",
+    "description": "Án nội - Hướng dẫn, giới thiệu , dẫn đường",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1710,
+    "question": "せつめいします",
+    "result": "説明します",
+    "description": "Thuyết minh - Giải thích, trình bày",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1713,
+    "question": "いれます",
+    "result": "入れます",
+    "description": "Nhập - Pha (cà fe)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1716,
+    "question": "おじいさん/おじいちゃん",
+    "result": "お祖父さん/お祖父ちゃん",
+    "description": "Tổ phụ - Ông nội, ông ngoại, ông",
+    "type": "HiraToKanji"
+  }
+]

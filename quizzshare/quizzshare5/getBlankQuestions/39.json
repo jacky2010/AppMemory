@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1052,
+    "question": "とおい",
+    "result": "遠い",
+    "description": "Viễn - xa",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1055,
+    "question": "はやい",
+    "result": "早い",
+    "description": "Tốc - nhanh, sớm",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1058,
+    "question": "おそい",
+    "result": "遅い",
+    "description": "Trì - chậm, muộn",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1061,
+    "question": "おおい",
+    "result": "多い",
+    "description": "Đa - nhiều",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1064,
+    "question": "すくない",
+    "result": "少ない",
+    "description": "Thiểu - ít",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1067,
+    "question": "あたたかい",
+    "result": "暖かい",
+    "description": "Noãn - ấm áp",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1070,
+    "question": "すずしい",
+    "result": "涼しい",
+    "description": "Lương - mát mẻ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1073,
+    "question": "あまい",
+    "result": "甘い",
+    "description": "Cam - ngọt",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1076,
+    "question": "からい",
+    "result": "辛い",
+    "description": "Tân - cay",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1079,
+    "question": "おもい",
+    "result": "重い",
+    "description": "Trọng - nặng",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1082,
+    "question": "かるい",
+    "result": "軽い",
+    "description": "Khinh - nhẹ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1086,
+    "question": "きせつ",
+    "result": "季節",
+    "description": "Qúy Tiết - mùa",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1089,
+    "question": "はる",
+    "result": "春",
+    "description": "Xuân - mùa xuân",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1092,
+    "question": "なつ",
+    "result": "夏",
+    "description": "Hạ - mùa hè",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1095,
+    "question": "あき",
+    "result": "秋",
+    "description": "Thu - mùa thu",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1098,
+    "question": "ふゆ",
+    "result": "冬",
+    "description": "Đông - mùa đông",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1101,
+    "question": "てんき",
+    "result": "天気",
+    "description": "Thiên Khí - thời tiết",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1104,
+    "question": "あめ",
+    "result": "雨",
+    "description": "Vũ - mưa",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1107,
+    "question": "ゆき",
+    "result": "雪",
+    "description": "Tuyết - tuyết",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1110,
+    "question": "くもり",
+    "result": "曇り",
+    "description": "Đàm - nhiều mây, trời u ám",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1115,
+    "question": "いろいろ",
+    "result": "色々",
+    "description": "Sắc Sắc - đa dạng, nhiều sắc thái",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1118,
+    "question": "おとこのひと",
+    "result": "男の人",
+    "description": "Nam Nhân - người đàn ông",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1121,
+    "question": "おんなのひと",
+    "result": "女の人",
+    "description": "Nữ Nhân - người phụ nữ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1124,
+    "question": "おとこのこ",
+    "result": "男の子",
+    "description": "Nam Tử - bé trai",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1127,
+    "question": "おんなのこ",
+    "result": "女の子",
+    "description": "Nữ Tử - bé gái",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1130,
+    "question": "いぬ",
+    "result": "犬",
+    "description": "Khuyển - con chó",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1133,
+    "question": "ねこ",
+    "result": "猫",
+    "description": "Miêu - con mèo",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1136,
+    "question": "き",
+    "result": "木",
+    "description": "Mộc - cây,gỗ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1139,
+    "question": "もの",
+    "result": "物",
+    "description": "Vật - đồ vật",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1143,
+    "question": "でんち",
+    "result": "電池",
+    "description": "Điện Trì - cục pin",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1146,
+    "question": "はこ",
+    "result": "箱",
+    "description": "Tương - cái hộp",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1150,
+    "question": "れいぞうこ",
+    "result": "冷蔵庫",
+    "description": "Lãnh Tàng Khố - tủ lạnh",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1155,
+    "question": "たな",
+    "result": "棚",
+    "description": "Bằng - ngăn, kệ giá",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1159,
+    "question": "まど",
+    "result": "窓",
+    "description": "Song - cửa sổ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1164,
+    "question": "こうえん",
+    "result": "公園",
+    "description": "Công Viên - công viên",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1167,
+    "question": "きっさてん",
+    "result": "喫茶店",
+    "description": "Khiết Trà Điếm - quán giải khát",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1170,
+    "question": "ほんや",
+    "result": "本屋",
+    "description": "Bản Ốc - hiệu sách",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1173,
+    "question": "や",
+    "result": "屋",
+    "description": "Ốc - hiệu ~, cửa hàng ~",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1176,
+    "question": "のりば",
+    "result": "乗り場",
+    "description": "Thừa Trường - bến xe, điểm lên xe",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1179,
+    "question": "けん",
+    "result": "県",
+    "description": "Huyện - huyện",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1182,
+    "question": "うえ",
+    "result": "上",
+    "description": "Thượng - trên",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1185,
+    "question": "した",
+    "result": "下",
+    "description": "Hạ - dưới",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1188,
+    "question": "まえ",
+    "result": "前",
+    "description": "Tiền - trước",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1191,
+    "question": "うしろ",
+    "result": "後ろ",
+    "description": "Hậu - sau",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1194,
+    "question": "ひだり",
+    "result": "左",
+    "description": "Tả - bên trái",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1197,
+    "question": "みぎ",
+    "result": "右",
+    "description": "Hữu - bên phải",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1200,
+    "question": "なか",
+    "result": "中",
+    "description": "Trung - trong, bên trong",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1203,
+    "question": "そと",
+    "result": "外",
+    "description": "Ngoại - bên ngoài",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1206,
+    "question": "となり",
+    "result": "隣",
+    "description": "Lân - bên cạnh",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1209,
+    "question": "ちかく",
+    "result": "近く",
+    "description": "Cận - gần",
+    "type": "HiraToKanji"
+  }
+]

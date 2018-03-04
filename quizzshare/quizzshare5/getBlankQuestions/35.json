@@ -1,0 +1,352 @@
+[
+  {
+    "id": 393,
+    "question": "かれ",
+    "result": "彼",
+    "description": "Bỉ - hắn,anh ấy (chỉ ngôi thứ 3) bạn trai, người yêu",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 396,
+    "question": "かのじょ",
+    "result": "彼女",
+    "description": "Bỉ Nữ - cô ấy (chỉ ngôi thứ 3) bạn gái, người yêu",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 399,
+    "question": "かぞく",
+    "result": "家族",
+    "description": "Gia Tộc - gia đình",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 402,
+    "question": "ひとりで",
+    "result": "一人で",
+    "description": "Nhất Nhân - một mình, tự mình",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 405,
+    "question": "せんしゅう",
+    "result": "先週",
+    "description": "Tiên Chu - tuần trước",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 408,
+    "question": "こんしゅう",
+    "result": "今週",
+    "description": "Kim Chu - tuần này",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 411,
+    "question": "らいしゅう",
+    "result": "来週",
+    "description": "Lai Chu - tuần sau",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 414,
+    "question": "せんげつ",
+    "result": "先月",
+    "description": "Tiên Nguyệt - tháng trước",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 417,
+    "question": "こんげつ",
+    "result": "今月",
+    "description": "Kim Nguyệt - tháng này",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 420,
+    "question": "らいげつ",
+    "result": "来月",
+    "description": "Lai Nguyệt - tháng sau",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 423,
+    "question": "きょねん",
+    "result": "去年",
+    "description": "Khứ Niên - năm ngoái",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 426,
+    "question": "ことし",
+    "result": "今年",
+    "description": "Kim Niên - năm nay",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 429,
+    "question": "らいねん",
+    "result": "来年",
+    "description": "Lai Niên - năm sau",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 432,
+    "question": "ーがつ",
+    "result": "ー月",
+    "description": "Nguyệt - tháng",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 435,
+    "question": "なんがつ",
+    "result": "何月",
+    "description": "Hà Nguyệt - tháng mấy",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 438,
+    "question": "ついたち",
+    "result": "一日",
+    "description": "Nhất Nhật - ngày mồng một",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 441,
+    "question": "ふつか",
+    "result": "二日",
+    "description": "Nhị Nhật - mồng 2, ngày 2",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 444,
+    "question": "みっか",
+    "result": "三日",
+    "description": "Tam Nhật - mồng 3, ngày 3",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 447,
+    "question": "よっか",
+    "result": "四日",
+    "description": "Tứ Nhật - mồng 4, ngày 4",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 450,
+    "question": "いつか",
+    "result": "五日",
+    "description": "Ngũ Nhật - mồng 5, 5 ngày",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 453,
+    "question": "むいか",
+    "result": "六日",
+    "description": "Lục Nhật - mồng 6, 6 ngày",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 456,
+    "question": "なのか",
+    "result": "七日",
+    "description": "Thất Nhật - mồng 7, 7 ngày",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 459,
+    "question": "ようか",
+    "result": "八日",
+    "description": "Bát Nhật - mồng 8 ,8 ngày",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 462,
+    "question": "ここのか",
+    "result": "九日",
+    "description": "Cửu Nhật - mồng 9, 9 ngày",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 465,
+    "question": "とおか",
+    "result": "十日",
+    "description": "Thập Nhật - mồng 10, 10 ngày",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 468,
+    "question": "じゅうよっか",
+    "result": "十四日",
+    "description": "Thập Tứ Nhật - ngày 14, 14 ngày",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 471,
+    "question": "はつか",
+    "result": "二十日",
+    "description": "Nhị Thập Nhật - ngày 20, 20 ngày",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 474,
+    "question": "にじゅうよっか",
+    "result": "二十四日",
+    "description": "Nhị Thập Tứ Nhật - ngày 24, 24 ngày",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 477,
+    "question": "ーにち",
+    "result": "ー日",
+    "description": "Nhật - ngàyー, ーngày",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 480,
+    "question": "なんにち",
+    "result": "何日",
+    "description": "Hà Nhật - bao nhiêu ngày, mấy ngày, mồng mấy",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 484,
+    "question": "たんじょうび",
+    "result": "誕生日",
+    "description": "Đản Sinh Nhật - ngày sinh nhật",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 487,
+    "question": "ふつう",
+    "result": "普通",
+    "description": "Phổ Thông - (tàu) bình thường",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 490,
+    "question": "きゅうこう",
+    "result": "急行",
+    "description": "Cấp Hành - (tàu) tốc hành",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 493,
+    "question": "とっきゅう",
+    "result": "特急",
+    "description": "Đặc Cấp - (tàu) đặc biệt",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 496,
+    "question": "つぎの",
+    "result": "次の",
+    "description": "Thứ - tiếp theo",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 500,
+    "question": "ーばんせん",
+    "result": "ー番線",
+    "description": "Phiên Tuyến - Đường số -",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 503,
+    "question": "たべます",
+    "result": "食べます",
+    "description": "Thực - ăn",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 506,
+    "question": "のみます",
+    "result": "飲みます",
+    "description": "Ẩm - uống",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 509,
+    "question": "すいます",
+    "result": "吸います",
+    "description": "Hấp - hút (thuốc)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 512,
+    "question": "みます",
+    "result": "見ます",
+    "description": "Kiến - xem, nhìn, ngắm",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 515,
+    "question": "ききます",
+    "result": "聞きます",
+    "description": "Văn - nghe",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 518,
+    "question": "よみます",
+    "result": "読みます",
+    "description": "Độc - đọc",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 521,
+    "question": "かきます",
+    "result": "書きます",
+    "description": "Thư - viết, vẽ, kẻ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 524,
+    "question": "かいます",
+    "result": "買います",
+    "description": "Mãi - mua",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 527,
+    "question": "とります",
+    "result": "撮ります",
+    "description": "Toát - chụp",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 530,
+    "question": "しゃしん",
+    "result": "写真",
+    "description": "Tả Chân - ảnh",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 534,
+    "question": "あいます",
+    "result": "会います",
+    "description": "Hội (Hữu Đạt) - gặp gỡ (bạn)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 537,
+    "question": "ごはん",
+    "result": "ご飯",
+    "description": "Phạn - cơm, bữa ăn",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 540,
+    "question": "あさごはん",
+    "result": "朝ご飯",
+    "description": "Triều Phạn - bữa sáng",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 543,
+    "question": "ひるごはん",
+    "result": "昼ごはん",
+    "description": "Trú - bữa trưa",
+    "type": "HiraToKanji"
+  }
+]

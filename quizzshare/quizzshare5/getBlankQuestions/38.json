@@ -1,0 +1,352 @@
+[
+  {
+    "id": 882,
+    "question": "やさしい",
+    "result": "易しい",
+    "description": "Dịch - dễ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 885,
+    "question": "たかい",
+    "result": "高い",
+    "description": "Cao - cao,đắt",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 888,
+    "question": "やすい",
+    "result": "安い",
+    "description": "An - rẻ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 891,
+    "question": "ひくい",
+    "result": "低い",
+    "description": "Đê - thấp",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 894,
+    "question": "おもしろい",
+    "result": "面白い",
+    "description": "Diện Bạch - thú vị, hay",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 897,
+    "question": "おいしい",
+    "result": "美味しい",
+    "description": "Mỹ Vị - ngon",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 900,
+    "question": "いそがしい",
+    "result": "忙しい",
+    "description": "Mang - bận",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 903,
+    "question": "たのしい",
+    "result": "楽しい",
+    "description": "Lạc - vui vẻ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 906,
+    "question": "しろい",
+    "result": "白い",
+    "description": "Bạch - trắng",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 909,
+    "question": "くろい",
+    "result": "黒い",
+    "description": "Hắc - đen",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 912,
+    "question": "あかい",
+    "result": "赤い",
+    "description": "Xích - đỏ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 915,
+    "question": "あおい",
+    "result": "青い",
+    "description": "Thanh - xanh",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 919,
+    "question": "こども",
+    "result": "子ども",
+    "description": "Tử - em bé",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 923,
+    "question": "やすみます",
+    "result": "休みます",
+    "description": "Hưu - nghỉ [không đến công ty]",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 926,
+    "question": "ひとつ",
+    "result": "一つ",
+    "description": "Nhất - một cái (dùng để đếm đồ vật)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 929,
+    "question": "ふたつ",
+    "result": "二つ",
+    "description": "Nhị - hai cái",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 932,
+    "question": "みっつ",
+    "result": "三つ",
+    "description": "Tam - ba cái",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 935,
+    "question": "よっつ",
+    "result": "四つ",
+    "description": "Tứ - bốn cái",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 938,
+    "question": "いつつ",
+    "result": "五つ",
+    "description": "Ngũ - năm cái",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 941,
+    "question": "むっつ",
+    "result": "六つ",
+    "description": "Lục - sáu cái",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 944,
+    "question": "ななつ",
+    "result": "七つ",
+    "description": "Thất - bảy cái",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 947,
+    "question": "やっつ",
+    "result": "八つ",
+    "description": "Bát - tám cái",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 950,
+    "question": "ここのつ",
+    "result": "九つ",
+    "description": "Cửu - chín cái",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 953,
+    "question": "とお",
+    "result": "十",
+    "description": "Thập - mười cái",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 957,
+    "question": "ひとり",
+    "result": "一人",
+    "description": "Nhân - một người",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 960,
+    "question": "ふたり",
+    "result": "二人",
+    "description": "Nhị Nhân - hai người",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 963,
+    "question": "ーにん",
+    "result": "－人",
+    "description": "Nhân - - người(số đếm)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 966,
+    "question": "ーだい",
+    "result": "－台",
+    "description": "Đài - - chiếc, cái (dùng để đếm máy móc, ô tô...)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 969,
+    "question": "ーまい",
+    "result": "ー枚",
+    "description": "Mai - - - tờ, tấm (dùng đếm vật mỏng như tờ giấy, tem thư..)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 972,
+    "question": "ーかい",
+    "result": "ー回",
+    "description": "Hồi - lần -",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 980,
+    "question": "さくら",
+    "result": "桜",
+    "description": "Anh hoa - anh đào",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 983,
+    "question": "やま",
+    "result": "山",
+    "description": "Sơn - núi",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 986,
+    "question": "まち",
+    "result": "町",
+    "description": "Đinh - thị trấn, khu phố",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 989,
+    "question": "たべもの",
+    "result": "食べ物",
+    "description": "Thực Vật - đồ ăn",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 992,
+    "question": "くるま",
+    "result": "車",
+    "description": "Xa - xe cộ,ô tô",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 995,
+    "question": "ところ",
+    "result": "所",
+    "description": "Sở - nơi, chỗ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 998,
+    "question": "りょう",
+    "result": "寮",
+    "description": "Liêu - ký túc xá",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1001,
+    "question": "べんきょう",
+    "result": "勉強",
+    "description": "Miễn Cưỡng - việc học",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1004,
+    "question": "せいかつ",
+    "result": "生活",
+    "description": "Sinh Hoạt - sinh hoat, cuộc sống",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1007,
+    "question": "しごと",
+    "result": "仕事",
+    "description": "Sĩ Sự - công việc (～をします: làm việc)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1017,
+    "question": "おげんきですか",
+    "result": "お元気ですか",
+    "description": "Nguyên Khí - Anh có khỏe không?",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1021,
+    "question": "にほんのせいかつになれましたか",
+    "result": "日本の生活に慣れましたか",
+    "description": "Nhật Bản Sinh Hoạt Quán - Anh đã quen với cuộc sống ở Nhật chưa?",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1025,
+    "question": "いいえ、けっこうです",
+    "result": "いいえ、結構です",
+    "description": "Kết Cấu - Không,tôi đủ rồi.",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1029,
+    "question": "そろそろしつれいします",
+    "result": "そろそろ失礼します",
+    "description": "Thất Lễ - Đến lúc (tôi) xin phép về.",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1033,
+    "question": "ふじさん",
+    "result": "富士山",
+    "description": "Phú Sĩ Sơn - núi Phú Sĩ (ngọn núi cao nhất Nhật Bản)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1036,
+    "question": "びわこ",
+    "result": "琵琶湖",
+    "description": "Tì Bà Hồ - hồ Biwa, hồ lớn nhất Nhật Bản.",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1040,
+    "question": "きんかくじ",
+    "result": "金閣寺",
+    "description": "Kim Các Tự - chùa Kinkakuji (chùa vàng)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1043,
+    "question": "しちにんのさむらい",
+    "result": "七人の侍",
+    "description": "Thất Nhân Thị - \"Bảy chàng võ sĩ đạo\"",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1046,
+    "question": "かんたん",
+    "result": "簡単",
+    "description": "Giản Đơn - dễ, đơn giản",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1049,
+    "question": "ちかい",
+    "result": "近い",
+    "description": "Cận - gần",
+    "type": "HiraToKanji"
+  }
+]

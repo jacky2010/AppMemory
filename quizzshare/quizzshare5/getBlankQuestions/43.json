@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1719,
+    "question": "おと",
+    "result": "音",
+    "description": "Âm - Âm thanh",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1722,
+    "question": "きかい",
+    "result": "機会",
+    "description": "Cơ hội - Cơ hội",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1726,
+    "question": "こしょう",
+    "result": "故障",
+    "description": "Cố chướng - Hỏng hóc",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1729,
+    "question": "みち",
+    "result": "道",
+    "description": "Đạo - Đường",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1732,
+    "question": "こうさてん",
+    "result": "交差点",
+    "description": "Giao sai điểm - Ngã tư",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1735,
+    "question": "しんごう",
+    "result": "信号",
+    "description": "Tín hiệu - Đèn tín hiệu",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1738,
+    "question": "かど",
+    "result": "角",
+    "description": "Giác - Góc",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1741,
+    "question": "はし",
+    "result": "橋",
+    "description": "Kiều - Cầu",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1744,
+    "question": "ちゅうしゃじょう",
+    "result": "駐車場",
+    "description": "Trú xa trường - Bãi đỗ xe",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1747,
+    "question": "―め",
+    "result": "―目",
+    "description": "Mục - Thứ-, số- (biểu thị thứ tự)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1750,
+    "question": "おしょうがつ",
+    "result": "お正月",
+    "description": "Chính nguyệt - Tết ( dương lịch)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1753,
+    "question": "ごちそうさまでした",
+    "result": "ご馳走様でした",
+    "description": "Trì tẩu dạng - cảm ơn vì bữa ăn ngon",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1756,
+    "question": "たてもの",
+    "result": "建物",
+    "description": "Kiến vật - Tòa nhà",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1759,
+    "question": "がいこく人とうろくしょう",
+    "result": "外国人登録証",
+    "description": "Ngoại quốc nhập phát lục - chứng Thẻ đăng kí người nước ngoài",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1762,
+    "question": "ほうりゅうじ",
+    "result": "法隆寺",
+    "description": "Pháp long tự - Chùa horyu-ji",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1765,
+    "question": "ききます",
+    "result": "聞きます",
+    "description": "Văn - Hỏi",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1768,
+    "question": "せんせい",
+    "result": "先生",
+    "description": "Tiên sinh - giáo viên",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1771,
+    "question": "まわします",
+    "result": "回します",
+    "description": "Hồi - Vặn (núm)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1774,
+    "question": "ひきます",
+    "result": "引きます",
+    "description": "Dẫn - Kéo",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1777,
+    "question": "かえます",
+    "result": "変えます",
+    "description": "Biến - Đổi",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1780,
+    "question": "さわります",
+    "result": "触ります",
+    "description": "Xúc - Sờ chạm vào (cửa)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1783,
+    "question": "でます",
+    "result": "出ます",
+    "description": "Xuất - Ra, đi ra",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1786,
+    "question": "おつり",
+    "result": "お釣り",
+    "description": "điếu - tiền thừa",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1789,
+    "question": "うごきます",
+    "result": "動きます",
+    "description": "Động - Chuyển động, chạy",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1792,
+    "question": "あるきます",
+    "result": "歩きます",
+    "description": "Bộ - Đi bộ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1795,
+    "question": "わたります",
+    "result": "渡ります",
+    "description": "Độ - Đi qua",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1798,
+    "question": "はし",
+    "result": "橋",
+    "description": "kiều - cầu",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1801,
+    "question": "きをつけます",
+    "result": "気をつけます",
+    "description": "Khí - Chú ý cẩn thận",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1804,
+    "question": "ひっこしします",
+    "result": "引っ越しします",
+    "description": "Dẫn việt - Chuyển nhà",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1807,
+    "question": "でんきや",
+    "result": "電気屋",
+    "description": "Điện khí ốc - Cửa hàng đồ điện",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1810,
+    "question": "や",
+    "result": "屋",
+    "description": "ốc - Cửa hàng",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1814,
+    "question": "きます",
+    "result": "着ます",
+    "description": "Trước - Mặc (áo sơ mi, vv...)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1817,
+    "question": "はきます",
+    "result": "はきます",
+    "description": "(ngoa) - Đi, mặc",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1820,
+    "question": "かぶります",
+    "result": "かぶります",
+    "description": "Mạo - Đội (mũ, vv)",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1823,
+    "question": "かけます",
+    "result": "かけます",
+    "description": "Nhãn - Đeo",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1826,
+    "question": "うまれます",
+    "result": "生まれます",
+    "description": "Sinh - Sinh ra",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1832,
+    "question": "ぼうし",
+    "result": "帽子",
+    "description": "Mạo tử - mũ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1835,
+    "question": "めがね",
+    "result": "眼鏡",
+    "description": "Nhãn kính - Kính",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1841,
+    "question": "やちん",
+    "result": "家賃",
+    "description": "Gia nhẫm - Tiền thuê nhà",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1846,
+    "question": "わしつ",
+    "result": "和室",
+    "description": "Hòa thất - Phòng kiểu nhật",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1849,
+    "question": "おしいれ",
+    "result": "押入れ",
+    "description": "áp nhập - Chỗ để chân gối trong căn phòng kiểu nhật",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1852,
+    "question": "ふとん",
+    "result": "布団",
+    "description": "Bố đoàn - Chăn đệm",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1857,
+    "question": "ばんりのちょうじょう",
+    "result": "万里の長城",
+    "description": "Vạn lí trường thành - Vạn Lí Trường Thành",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1860,
+    "question": "よかがいはつセンター",
+    "result": "余暇外発センター",
+    "description": "Dư hạ ngoại phát - Trung tâm phát triển hoạt động giải trí cho người dân",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1863,
+    "question": "レジャーはくしょ",
+    "result": "レジャー白書",
+    "description": "bạch thư - Sách trắng sử dụng về thời gian rảnh rỗi",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1866,
+    "question": "おもいます",
+    "result": "思います",
+    "description": "Tư - Nghĩ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1869,
+    "question": "いいます",
+    "result": "言います",
+    "description": "Ngôn - Nói",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1872,
+    "question": "たります",
+    "result": "足ります",
+    "description": "Túc - Đủ",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1875,
+    "question": "かちます",
+    "result": "勝ちます",
+    "description": "Thắng - Thắng",
+    "type": "HiraToKanji"
+  },
+  {
+    "id": 1878,
+    "question": "まけます",
+    "result": "負けます",
+    "description": "Phụ - Thua",
+    "type": "HiraToKanji"
+  }
+]
