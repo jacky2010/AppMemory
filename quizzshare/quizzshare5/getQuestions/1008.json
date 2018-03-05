@@ -1,0 +1,222 @@
+[
+  {
+    "id": 11792,
+    "question": "あしたの　(ごご)は　雨でしょう。",
+    "answer1": "午前",
+    "answer2": "午後",
+    "answer3": "午朝",
+    "answer4": "午晩",
+    "result": "午後",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11793,
+    "question": "(がそりん)が　高くても　自動車に　のります。",
+    "answer1": "ガソリツ",
+    "answer2": "ガンリソ",
+    "answer3": "ガンリシ",
+    "answer4": "ガソリン",
+    "result": "ガソリン",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11794,
+    "question": "この　紙は　____ですが、とても　じょうぶです。",
+    "answer1": "うすい",
+    "answer2": "あつい",
+    "answer3": "こい",
+    "answer4": "すずしい",
+    "result": "うすい",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11795,
+    "question": "私は　あの　人を____。",
+    "answer1": "しません",
+    "answer2": "していません",
+    "answer3": "しりません",
+    "answer4": "しっていません",
+    "result": "しりません",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11796,
+    "question": "(ほんや)は　銀行の　前に　あります。",
+    "answer1": "書店",
+    "answer2": "書屋",
+    "answer3": "本店",
+    "answer4": "本屋",
+    "result": "本屋",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11797,
+    "question": "赤ちゃんの　泣き声が____、ねられなかった。",
+    "answer1": "げんきで",
+    "answer2": "うるさくて",
+    "answer3": "にぎやかで",
+    "answer4": "いそがしくて",
+    "result": "うるさくて",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11798,
+    "question": "近くの　スーパーは　夜10時まで_____。",
+    "answer1": "あいています",
+    "answer2": "あけています",
+    "answer3": "あきます",
+    "answer4": "あけます",
+    "result": "あいています",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11799,
+    "question": "田中さん、お(元気)ですか。",
+    "answer1": "げんき",
+    "answer2": "けんき",
+    "answer3": "げんぎ",
+    "answer4": "げっき",
+    "result": "げんき",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11800,
+    "question": "明日は　雪が____そうですよ。",
+    "answer1": "おりる",
+    "answer2": "ふる",
+    "answer3": "おちる",
+    "answer4": "とまる",
+    "result": "ふる",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11801,
+    "question": "「すてきなシャツですね。」 「ありがとうございます。兄に___。」",
+    "answer1": "もらったんです",
+    "answer2": "あげたんです",
+    "answer3": "くれたんです",
+    "answer4": "やったんです",
+    "result": "もらったんです",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11802,
+    "question": "(せんげつ)、友達と　はなみを　しました。",
+    "answer1": "来月",
+    "answer2": "前月",
+    "answer3": "先月",
+    "answer4": "毎月",
+    "result": "先月",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11803,
+    "question": "せんげつ、友達と　(はなみ)を　しました。",
+    "answer1": "花見",
+    "answer2": "花火",
+    "answer3": "花目",
+    "answer4": "花月",
+    "result": "花見",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11804,
+    "question": "このへやは、だんぼうが入っていて___。",
+    "answer1": "さむい",
+    "answer2": "つめたい",
+    "answer3": "あたたかい",
+    "answer4": "すずしい",
+    "result": "あたたかい",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11805,
+    "question": "私は、先月から　こどもに　英語を　_____。",
+    "answer1": "教えます",
+    "answer2": "教えました",
+    "answer3": "教えたんです",
+    "answer4": "教えています",
+    "result": "教えています",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11806,
+    "question": "(英語)の　新聞を　読みます。",
+    "answer1": "えご",
+    "answer2": "えいご",
+    "answer3": "えんご",
+    "answer4": "えいごう",
+    "result": "えいご",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11807,
+    "question": "英語の　(新聞)を　読みます。",
+    "answer1": "しぶん",
+    "answer2": "しんぶん",
+    "answer3": "しんぶ",
+    "answer4": "しぷん",
+    "result": "しんぶん",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11808,
+    "question": "ここから　駅まで　どのくらい　時間が　____か。",
+    "answer1": "かけます",
+    "answer2": "かかります",
+    "answer3": "あります",
+    "answer4": "すぎます",
+    "result": "かかります",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11809,
+    "question": "田中さん、今日も____ね。まだ病気かな。",
+    "answer1": "こない",
+    "answer2": "きない",
+    "answer3": "くない",
+    "answer4": "いかない",
+    "result": "こない",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11810,
+    "question": "(いっしゅうかん)に　いっかい、テストをします。",
+    "answer1": "一周間",
+    "answer2": "一週間",
+    "answer3": "一週聞",
+    "answer4": "一周聞",
+    "result": "一週間",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11811,
+    "question": "いっしゅうかんに　(いっかい)、テストをします。",
+    "answer1": "一回",
+    "answer2": "一介",
+    "answer3": "一会",
+    "answer4": "一家",
+    "result": "一回",
+    "img": "",
+    "description": ""
+  }
+]

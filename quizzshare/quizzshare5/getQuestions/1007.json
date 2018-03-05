@@ -1,0 +1,222 @@
+[
+  {
+    "id": 11772,
+    "question": "_____が　ないから、洗えないよ。",
+    "answer1": "せんざい",
+    "answer2": "せんたく",
+    "answer3": "クリーニング",
+    "answer4": "そうじ",
+    "result": "せんざい",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11773,
+    "question": "田中さん、今度いっしょに映画に_____か。",
+    "answer1": "行くでしょう",
+    "answer2": "行きません",
+    "answer3": "行ってです",
+    "answer4": "行ってません",
+    "result": "行きません",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11774,
+    "question": "あの小さい女の子は私の(妹)です。",
+    "answer1": "いもうと",
+    "answer2": "いもと",
+    "answer3": "おとうと",
+    "answer4": "あね",
+    "result": "いもうと",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11775,
+    "question": "あ、この車、ガソリンがほとんど＿＿＿いないよ。",
+    "answer1": "かって",
+    "answer2": "はいって",
+    "answer3": "いれて",
+    "answer4": "なくなって",
+    "result": "いれて",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11776,
+    "question": "「すみません、しょうゆを___。」 「はい、どうぞ。」",
+    "answer1": "取りなさい",
+    "answer2": "取りませんか",
+    "answer3": "取りましょうか",
+    "answer4": "取ってくださいませんか",
+    "result": "取ってくださいませんか",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11777,
+    "question": "五時半に学校から(かえりました)。",
+    "answer1": "取りました",
+    "answer2": "帰りました",
+    "answer3": "掃りました",
+    "answer4": "侵ました",
+    "result": "帰りました",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11778,
+    "question": "明日は　テストがあるから、学校へ行くのが____です。",
+    "answer1": "いや",
+    "answer2": "ひどい",
+    "answer3": "むり",
+    "answer4": "ばか",
+    "result": "いや",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11779,
+    "question": "「窓を_____。」 「はい、おねがいします。」",
+    "answer1": "開けましょうか",
+    "answer2": "開けてもいいですか",
+    "answer3": "開けなさい",
+    "answer4": "開けてくれませんか",
+    "result": "開けましょうか",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11780,
+    "question": "(兄)は有名な大学に入ります。",
+    "answer1": "あに",
+    "answer2": "あね",
+    "answer3": "あの",
+    "answer4": "あか",
+    "result": "あに",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11781,
+    "question": "兄は(有名)な大学に入ります。",
+    "answer1": "ゆめい",
+    "answer2": "ゆうめい",
+    "answer3": "ようめい",
+    "answer4": "よめい",
+    "result": "ゆうめい",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11782,
+    "question": "このベッドは_____、一人で動かせない。",
+    "answer1": "おつくて",
+    "answer2": "おもくて",
+    "answer3": "うすくて",
+    "answer4": "かたくて",
+    "result": "おもくて",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11783,
+    "question": "のどがかわいたね。何か____よ。",
+    "answer1": "飲んだ",
+    "answer2": "飲もう",
+    "answer3": "飲みなさい",
+    "answer4": "飲んでない",
+    "result": "飲もう",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11784,
+    "question": "(としょかん)で本をかります。",
+    "answer1": "図書館",
+    "answer2": "国書館",
+    "answer3": "園書館",
+    "answer4": "歯書館",
+    "result": "図書館",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11785,
+    "question": "としょかんで本を(かります)。",
+    "answer1": "借ります",
+    "answer2": "帰ります",
+    "answer3": "供ります",
+    "answer4": "昔ります",
+    "result": "借ります",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11786,
+    "question": "「新しい仕事はどうですか。」 「____よ。」",
+    "answer1": "おもしろいです",
+    "answer2": "すずしい",
+    "answer3": "ふるいです",
+    "answer4": "あたらしい",
+    "result": "おもしろいです",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11787,
+    "question": "1年前は、ひらがなも＿＿＿が、今は漢字もだいぶ分ります",
+    "answer1": "読めませんでした",
+    "answer2": "読みませんでした",
+    "answer3": "読んでいませんでした",
+    "answer4": "読まなかったです",
+    "result": "読めませんでした",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11788,
+    "question": "両親にもらった辞書を(大切)に使っています。",
+    "answer1": "たいせつ",
+    "answer2": "だいせつ",
+    "answer3": "たいせいつ",
+    "answer4": "たせいつ",
+    "result": "たいせつ",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11789,
+    "question": "両親にもらった辞書を大切に(使って)います。",
+    "answer1": "つかって",
+    "answer2": "つくって",
+    "answer3": "つきって",
+    "answer4": "つって",
+    "result": "つかって",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11790,
+    "question": "荷物をたくさん持ってかさを____のはたいへんだ。",
+    "answer1": "あける",
+    "answer2": "さす",
+    "answer3": "つける",
+    "answer4": "はく",
+    "result": "さす",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11791,
+    "question": "もしもし、もしもし、よく_____んですが・・・。",
+    "answer1": "聞こえない",
+    "answer2": "聞いてない",
+    "answer3": "聞けない",
+    "answer4": "聞かない",
+    "result": "聞こえない",
+    "img": "",
+    "description": ""
+  }
+]

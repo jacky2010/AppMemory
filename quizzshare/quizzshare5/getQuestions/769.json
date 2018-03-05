@@ -1,0 +1,211 @@
+[
+  {
+    "id": 10124,
+    "question": "(ひがし)の　そらが　きれいです。",
+    "answer1": "束",
+    "answer2": "東",
+    "answer3": "南",
+    "answer4": "北",
+    "result": "東",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10125,
+    "question": "ひがしの　(そら)が　きれいです。",
+    "answer1": "川",
+    "answer2": "池",
+    "answer3": "空",
+    "answer4": "風",
+    "result": "空",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10126,
+    "question": "(むいか)の　ごごに　あいましょう。",
+    "answer1": "九日",
+    "answer2": "三日",
+    "answer3": "六日",
+    "answer4": "五日",
+    "result": "六日",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10127,
+    "question": "むいかの　(ごご)に　あいましょう。",
+    "answer1": "午役",
+    "answer2": "牛役",
+    "answer3": "午後",
+    "answer4": "牛後",
+    "result": "午後",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10128,
+    "question": "りょこうの　かいしゃに　ひこうきの＿＿＿を　たのみました。",
+    "answer1": "きっぷ",
+    "answer2": "ろうか",
+    "answer3": "がいこく",
+    "answer4": "くうこう",
+    "result": "きっぷ",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10129,
+    "question": "わたしは　いつも　１０じに　ねて　５じに＿＿＿＿。",
+    "answer1": "あきます",
+    "answer2": "おきます",
+    "answer3": "はきます",
+    "answer4": "ひきます",
+    "result": "おきます",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10130,
+    "question": "さむいですね。まどを＿＿＿ください。",
+    "answer1": "おして",
+    "answer2": "きって",
+    "answer3": "けして",
+    "answer4": "しめて",
+    "result": "しめて",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10131,
+    "question": "きょうなら。＿＿＿あした。",
+    "answer1": "また",
+    "answer2": "もう",
+    "answer3": "いかが",
+    "answer4": "しかし",
+    "result": "また",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10132,
+    "question": "この　かばんは　ふるいですが、とても＿＿＿。",
+    "answer1": "げんきです",
+    "answer2": "しずかです",
+    "answer3": "じょうぶです",
+    "answer4": "にぎやかです",
+    "result": "じょうぶです",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10133,
+    "question": "２０００ねんに＿＿＿＿。いま　こどもは　３にんです。",
+    "answer1": "けんかしました",
+    "answer2": "さんぽしました",
+    "answer3": "けっこんしました",
+    "answer4": "しつもんしました",
+    "result": "けっこんしました",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10134,
+    "question": "＿＿＿＿ですね。でんきを　つけましょう。",
+    "answer1": "うすい",
+    "answer2": "くらい",
+    "answer3": "しろい",
+    "answer4": "あかるい",
+    "result": "くらい",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10135,
+    "question": "とりが＿＿＿います。",
+    "answer1": "あげて",
+    "answer2": "あって",
+    "answer3": "さして",
+    "answer4": "とんで",
+    "result": "とんで",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10136,
+    "question": "ここから　がっこうまで　２＿＿＿＿です。",
+    "answer1": "はい",
+    "answer2": "ひき",
+    "answer3": "キロ",
+    "answer4": "カップ",
+    "result": "キロ",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10137,
+    "question": "たんじょうびに　みんなで＿＿＿＿を　としました。",
+    "answer1": "はがき",
+    "answer2": "しゃしん",
+    "answer3": "フイルム",
+    "answer4": "ポスト",
+    "result": "しゃしん",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10138,
+    "question": "きのう　たなかさんは　しごとを　やすみましたね。なぜですか。",
+    "answer1": "たなかさんは　どこで　しごとを　やすみました。",
+    "answer2": "たなかさんは　どんな　しごとを　やすみましたね。",
+    "answer3": "たなかさんは　どうして　しごとを　やすみましたか。",
+    "answer4": "たなかさんは　どっちの　しごとを　やすみましたね。",
+    "result": "たなかさんは　どうして　しごとを　やすみましたか。",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10139,
+    "question": "この　しょくどうは　まずいです。",
+    "answer1": "ここの　りょうりは　おいしいです。",
+    "answer2": "ここの　りょうりは　おいしく　ありません。",
+    "answer3": "ここの　りょうりは　やすいです。",
+    "answer4": "ここの　りょうりは　やすく　ありません。",
+    "result": "ここの　りょうりは　おいしく　ありません。",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10140,
+    "question": "こうえんに　けいかんが　いました。",
+    "answer1": "おいしゃさんが　いました。",
+    "answer2": "おくさんが　いました。",
+    "answer3": "おにいさんが　いました。",
+    "answer4": "おまわりさんが　いました。",
+    "result": "おまわりさんが　いました。",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10141,
+    "question": "テーブルに　おさらを　８まい　ならべて　ください。",
+    "answer1": "おさらを　８まい　おいて　ください。",
+    "answer2": "おさらを　８まい　もって　ください。",
+    "answer3": "おさらを　８まい　つかって　ください。",
+    "answer4": "おさらを　８まい　わたして　ください。",
+    "result": "おさらを　８まい　おいて　ください。",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 10142,
+    "question": "わたしは　くだものが　すきです。",
+    "answer1": "いぬや　ねこなどが　すきです。",
+    "answer2": "すしや　てんぷらなどが　すきです。",
+    "answer3": "やきゅうや　サッカーなどが　すきです。",
+    "answer4": "りんごや　バナナなどが　すきです。",
+    "result": "りんごや　バナナなどが　すきです。",
+    "img": "",
+    "description": ""
+  }
+]

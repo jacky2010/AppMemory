@@ -1,0 +1,222 @@
+[
+  {
+    "id": 11832,
+    "question": "この町の　(人口)は　十万ひとです。",
+    "answer1": "にんこう",
+    "answer2": "ひとくち",
+    "answer3": "じんこう",
+    "answer4": "いりぐち",
+    "result": "じんこう",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11833,
+    "question": "暑いですね。　エアコンを_____。",
+    "answer1": "つけましょう",
+    "answer2": "あけましょう",
+    "answer3": "おしましょう",
+    "answer4": "ひらきましょう",
+    "result": "つけましょう",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11834,
+    "question": "黒い　ペン____書いて　ください。",
+    "answer1": "を",
+    "answer2": "に",
+    "answer3": "が",
+    "answer4": "で",
+    "result": "で",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11835,
+    "question": "私は　(かいしゃいん)です。",
+    "answer1": "会社人",
+    "answer2": "会社員",
+    "answer3": "社会人",
+    "answer4": "社会員",
+    "result": "会社員",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11836,
+    "question": "ああ、のどが　____。つめたい　水が飲みたい。",
+    "answer1": "いたかった",
+    "answer2": "かわいた",
+    "answer3": "すいた",
+    "answer4": "ぬれた",
+    "result": "かわいた",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11837,
+    "question": "田中さんは　イギリス人____結婚しました。",
+    "answer1": "と",
+    "answer2": "に",
+    "answer3": "を",
+    "answer4": "へ",
+    "result": "と",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11838,
+    "question": "「今、(何時) ですか。」 「四時です。」",
+    "answer1": "なんじ",
+    "answer2": "なじ",
+    "answer3": "かんじ",
+    "answer4": "なにじ",
+    "result": "なんじ",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11839,
+    "question": "「今、何時　ですか。」 「(四時)です。」",
+    "answer1": "よんじ",
+    "answer2": "よじ",
+    "answer3": "しじ",
+    "answer4": "ななじ",
+    "result": "よじ",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11840,
+    "question": "すみません、お手洗いを　____ください。",
+    "answer1": "かけて",
+    "answer2": "かりて",
+    "answer3": "かえして",
+    "answer4": "かして",
+    "result": "かして",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11841,
+    "question": "この道　____まっすぐ行って　ください。",
+    "answer1": "に",
+    "answer2": "を",
+    "answer3": "で",
+    "answer4": "が",
+    "result": "を",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11842,
+    "question": "(きょう)は　にちようびで、やすみです。",
+    "answer1": "今日",
+    "answer2": "明日",
+    "answer3": "今月",
+    "answer4": "毎日",
+    "result": "今日",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11843,
+    "question": "きょうは　(にちようび)で、やすみです。",
+    "answer1": "日曜日",
+    "answer2": "月曜日",
+    "answer3": "木曜日",
+    "answer4": "火曜日",
+    "result": "日曜日",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11844,
+    "question": "あの　先生の　授業は　___。",
+    "answer1": "つまる",
+    "answer2": "つまらない",
+    "answer3": "つもる",
+    "answer4": "つもらない",
+    "result": "つまらない",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11845,
+    "question": "先月　日本に　来ました。来月の　10日_______います。",
+    "answer1": "まで",
+    "answer2": "から",
+    "answer3": "か",
+    "answer4": "でも",
+    "result": "まで",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11846,
+    "question": "(去年) 日本へ　来ました。",
+    "answer1": "ことし",
+    "answer2": "きょねん",
+    "answer3": "こねん",
+    "answer4": "きょうねん",
+    "result": "きょねん",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11847,
+    "question": "今日が___で、明日が　三日です。",
+    "answer1": "はつか",
+    "answer2": "ふつか",
+    "answer3": "よっか",
+    "answer4": "ついたち",
+    "result": "ふつか",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11848,
+    "question": "では、土曜日___　日曜日に　もう一度　電話　します。",
+    "answer1": "に",
+    "answer2": "も",
+    "answer3": "や",
+    "answer4": "か",
+    "result": "か",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11849,
+    "question": "(まいに)ち、日本語を勉強します。",
+    "answer1": "毎日",
+    "answer2": "来日",
+    "answer3": "母日",
+    "answer4": "海日",
+    "result": "毎日",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11850,
+    "question": "これは、___食べられない。",
+    "answer1": "まずくて",
+    "answer2": "おいしくて",
+    "answer3": "やすくて",
+    "answer4": "つまらなくて",
+    "result": "まずくて",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11851,
+    "question": "____フランス語が　できる　人はいませんか。",
+    "answer1": "だれが",
+    "answer2": "だれか",
+    "answer3": "だれでも",
+    "answer4": "だれも",
+    "result": "だれか",
+    "img": "",
+    "description": ""
+  }
+]

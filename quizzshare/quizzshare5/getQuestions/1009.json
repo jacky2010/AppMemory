@@ -1,0 +1,222 @@
+[
+  {
+    "id": 11812,
+    "question": "駅まで、(たくしー)で二十分です。",
+    "answer1": "タクシー",
+    "answer2": "タクツー",
+    "answer3": "クタシー",
+    "answer4": "クタツー",
+    "result": "タクシー",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11813,
+    "question": "「東京まで　あと　どのぐらい　かかりますか。」 「もうすぐ＿＿＿よ。」",
+    "answer1": "つきます",
+    "answer2": "でます",
+    "answer3": "うごきます",
+    "answer4": "かえります",
+    "result": "つきます",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11814,
+    "question": "これは　日本語で　___言いますか。",
+    "answer1": "どう",
+    "answer2": "なに",
+    "answer3": "どうやって",
+    "answer4": "なぜ",
+    "result": "どう",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11815,
+    "question": "(今朝)は　七時に　起きて散歩に　いきました。",
+    "answer1": "あさ",
+    "answer2": "けさ",
+    "answer3": "こさ",
+    "answer4": "おさ",
+    "result": "けさ",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11816,
+    "question": "今朝は　七時に　(起きて)散歩に　いきました。",
+    "answer1": "おきて",
+    "answer2": "あきて",
+    "answer3": "あいきて",
+    "answer4": "かきて",
+    "result": "おきて",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11817,
+    "question": "___、失礼ですが、田中さんでは　ありませんか。",
+    "answer1": "ええ",
+    "answer2": "あのう",
+    "answer3": "ああ",
+    "answer4": "じゃあ",
+    "result": "あのう",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11818,
+    "question": "きのうは、____。",
+    "answer1": "寒くないでした",
+    "answer2": "寒くなかったです",
+    "answer3": "寒くなかったでした",
+    "answer4": "寒かったではないです",
+    "result": "寒くなかったです",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11819,
+    "question": "父は　歌が　(上手)です。",
+    "answer1": "じょず",
+    "answer2": "へた",
+    "answer3": "じょうず",
+    "answer4": "へだ",
+    "result": "じょうず",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11820,
+    "question": "チャンネルをかえるから、テレビの___を取ってください。",
+    "answer1": "リモコン",
+    "answer2": "パソコン",
+    "answer3": "エアコン",
+    "answer4": "コンピューター",
+    "result": "リモコン",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11821,
+    "question": "私は　テニスが　好きですが、上手____。",
+    "answer1": "ありません",
+    "answer2": "ないです",
+    "answer3": "だったないです",
+    "answer4": "じゃありません",
+    "result": "じゃありません",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11822,
+    "question": "(くに)の母に　でんわをします。",
+    "answer1": "国",
+    "answer2": "肉",
+    "answer3": "図",
+    "answer4": "田",
+    "result": "国",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11823,
+    "question": "くにの母に　(でんわ)をします。",
+    "answer1": "電話",
+    "answer2": "電語",
+    "answer3": "電気",
+    "answer4": "電間",
+    "result": "電話",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11824,
+    "question": "「ただいま。」「_____。」",
+    "answer1": "いってきます",
+    "answer2": "いただきます",
+    "answer3": "いらっしゃいませ",
+    "answer4": "おかえりなさい",
+    "result": "おかえりなさい",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11825,
+    "question": "田中さんは____やさしい人です。",
+    "answer1": "きれいで",
+    "answer2": "きれくて",
+    "answer3": "きれいと",
+    "answer4": "きれだったで",
+    "result": "きれいで",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11826,
+    "question": "先生が　(学生)に　話を　します。",
+    "answer1": "がせい",
+    "answer2": "がくせい",
+    "answer3": "がくせ",
+    "answer4": "がっせい",
+    "result": "がくせい",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11827,
+    "question": "いい　天気だから、　どこかへ___か。",
+    "answer1": "でかけません",
+    "answer2": "でません",
+    "answer3": "あそびません",
+    "answer4": "きません",
+    "result": "でかけません",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11828,
+    "question": "「あなたの　コーヒカップは　どれですか。」 「いちばん____です。」",
+    "answer1": "大きかった",
+    "answer2": "大きもの",
+    "answer3": "大きいの",
+    "answer4": "大きい",
+    "result": "大きいの",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11829,
+    "question": "(あした)の　ごごは　雨でしょう。",
+    "answer1": "明日",
+    "answer2": "昨日",
+    "answer3": "今日",
+    "answer4": "今朝",
+    "result": "明日",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11830,
+    "question": "毎朝、6時に____仕事に　いきます。",
+    "answer1": "おいて",
+    "answer2": "おきて",
+    "answer3": "おこして",
+    "answer4": "おして",
+    "result": "おきて",
+    "img": "",
+    "description": ""
+  },
+  {
+    "id": 11831,
+    "question": "あの____人は　だれですか。",
+    "answer1": "かみの長く",
+    "answer2": "かみを　長く",
+    "answer3": "かみは　長い",
+    "answer4": "かみの　長い",
+    "result": "かみの　長い",
+    "img": "",
+    "description": ""
+  }
+]
