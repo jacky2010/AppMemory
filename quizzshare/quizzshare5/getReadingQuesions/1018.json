@@ -1,0 +1,35 @@
+[
+  {
+    "id": 11872,
+    "question": "お店の　まどに　はってある　かみです。\n\n今週は　カップと　おさらを　安く　売っています。\n\nおさらは　１まい　200円！　５まい　買った人は、100円　ひきます。\n\nカップは　１つ　300円！　３つ　買った人は　900円を　700円にします。\n\n おさらを　５まい、カップを　５つ、買った人は　いくら　はらいますか。",
+    "answer1": "1600円",
+    "answer2": "1700円",
+    "answer3": "2200円",
+    "answer4": "2500円",
+    "result": "2200円",
+    "img": "",
+    "description": "お店の　まどに　はってある　かみです。\tTờ giấy dán trên cửa sổ của cửa tiệm.\n今週は　カップと　おさらを　安く　売っています。\tTuần này chúng tôi đang bán cốc và đĩa với giá rẻ.\nおさらは　１まい　200円！　５まい　買った人は、100円　ひきます。\tĐĩa một cái 200 yên! Ai mua 5 cái sẽ được giảm 100 yên.\nカップは　１つ　300円！　３つ　買った人は　900円を　700円にします。\tCốc một cái 300 yên. Ai mua 3 cái 900 yên sẽ được tính với giá 700 yên.\n（１） おさらを　５まい、カップを　５つ、買った人は　いくら　はらいますか。 Người mua 5 cái đĩa và 5 cái cốc sẽ trả bao nhiêu tiền?\n2200円\t2200 yên\n"
+  },
+  {
+    "id": 11873,
+    "question": "学校の　けいじばんに　はってある　かみ　です。\n\n学生の　みなさんへ\n\n来週の　土曜日は、バスで　りょこうに　行きます。\n\n行きたい　人は、今週の　水曜日までに、学生センターに　言って　ください。\n\nお金が　1000円　かかります。\n\nお金は　来週の　月曜日に　クラスの　先生に　わたして　ください。\n\n りょこうの　お金は　いつ　先生に　わたしますか。",
+    "answer1": "来週の　土曜日",
+    "answer2": "今週の　水曜日",
+    "answer3": "来週の　月曜日",
+    "answer4": "今週の　月曜日",
+    "result": "来週の　月曜日",
+    "img": "",
+    "description": "学校の　けいじばんに　はってある　かみ　です。\tTờ giấy có dán trên bảng thông báo của trường học.\n学生の　みなさんへ\tGửi các em học sinh.\n来週の　土曜日は、バスで　りょこうに　行きます。\tThứ bảy tuần sau sẽ đi du lịch bằng xe buýt.\n行きたい　人は、今週の　水曜日までに、学生センターに　言って　ください。\tNhững em muốn đi hãy liên hệ Trung tâm sinh viên trước thứ tư tuần này.\nお金が　1000円　かかります。\tLệ phí là 1000 yên.\nお金は　来週の　月曜日に　クラスの　先生に　わたして　ください。\tTiền xin hãy đóng cho giáo viên của lớp vào thứ hai tuần sau.\nりょこうの　お金は　いつ　先生に　わたしますか。Tiền đi du lịch sẽ đóng cho giáo viên khi nào?\n来週の　月曜日\tThứ hai tuần sau"
+  },
+  {
+    "id": 11874,
+    "question": "おかしの　はこに　書いてある　ぶんです\n\nこの　おかしは　夏は、れいぞうこに　入れて　ください。でも、つめたすぎると　おいしく　ありません。あまり　つめたくないほうが　おいしいです。れいぞうこから　出して　5分　おいてから　食べて　ください。\n\nこの　おかしを　夏、おいしく　食べるには　どうしますか",
+    "answer1": "とても　つめたくします",
+    "answer2": "あたたかくします",
+    "answer3": "あまり　つめたくしません",
+    "answer4": "少し、あたたかくします",
+    "result": "あまり　つめたくしません",
+    "img": "",
+    "description": "おかしの　はこに　書いてある　ぶんです\tĐoạn văn có viết trên hộp bánh kẹo.\nこの　おかしは　夏は、れいぞうこに　入れて　ください。\tKẹo này vào mùa hè xin hãy cất vào tủ lạnh.\nでも、つめたすぎると　おいしく　ありません。\tThế nhưng, nếu quá lạnh sẽ không ngon.\nあまり　つめたくないほうが　おいしいです。\tKhông lạnh lắm thì sẽ rất ngon.\nれいぞうこから　出して　5分　おいてから　食べて　ください。\tXin hãy ăn sau 5 phút khi lấy ra từ tủ lạnh.\nこの　おかしを　夏、おいしく　食べるには　どうしますか\tLàm gì để ăn kẹo này ngon vào mùa hè?\nあまり　つめたくしません。\tLàm cho kẹo không lạnh lắm."
+  }
+]

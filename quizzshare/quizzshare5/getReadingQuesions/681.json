@@ -1,0 +1,57 @@
+[
+  {
+    "id": 8386,
+    "question": "山田　「来週の水曜日から　（　1　）やすみですね。」\n\nヤン　「そうですね。ぜんぶで（　2　）。」\n\n山田　「五日休みが　ありますよ。どこかへ行きませんか。」\n\nヤン　「いいですね。（　3　）。」\n\n山田　「ニャチャンはどうですか。しずかでいいホテルを知っているんです。」\n\nヤン　「そうですか。そのホテルは　（　4　）。」\n\n山田　「ええ、した方が　いいと思います。（　5　）。」\n\nヤン　「じゃ、おねがいします。」",
+    "answer1": "ひさしぶり ",
+    "answer2": "おかげさまで",
+    "answer3": "しばらく",
+    "answer4": "まもなく",
+    "result": "しばらく",
+    "img": "",
+    "description": "Yamada: Bắt đầu từ thứ 4 tuần sau là được nghỉ một thời gian nhỉ.\nYan : Ừ đúng vậy, tất cả là nghỉ bao nhiêu ngày vậy nhỉ?\nYamada: Có năm ngày nghỉ đấy. Chúng ta sẽ đi đâu chứ?\nYan: Được đấy nhỉ. Đi đâu được nhỉ?\nYamada: Nha Trang được không? Tôi biết một khách sạn yên tĩnh và rất tốt.\nYan: Vậy à. Khách sạn đó có phải đặt chỗ trước không?\nYamada: Ừ, tôi nghĩ là nên đặt trước. Tôi sẽ đặt chỗ trước nhé.\nYan: Vậy thì nhờ anh nhé.\n\n\n\n（1）   \n\n　１　lâu rồi không gặp\n　２　nhờ trời\n　３　một thời gian\n　４　chẳng bao lâu nữa\n \n\n（2）\n\n　１　Nghỉ bao nhiêu ngày vậy nhỉ?\n\n　２　Bao nhiêu ngày là nghỉ nhỉ?\n　３　Nghỉ từ ngày mùng 5 phải không?\n　４　Có phải là nghỉ năm ngày không?\n☞　Câu trả lời là “Có năm ngày nghỉ đấy” nên câu hỏi sẽ phải là câu hỏi về số ngày, và không thể là câu hỏi nghi vấn. Chọn đáp án (1) “Nghỉ bao nhiêu ngày vậy nhỉ”     \n\n \n\n（3）\n\n　１　Chúng ta đi đâu đó không ?\n\n　２　Đi đâu được nhỉ?\n　３　Có ở chỗ nào?\n　４　Đi đâu đó anh nghĩ sao?\n☞　Câu trả lời đưa ra một gợi ý “Nha Trang được không” nên câu hỏi sẽ phải là (2) “Chỗ nào được nhỉ?”\n\n　\n\n（4）  \n\n　１　Đặt chỗ trước có được không?\n\n　２　Không được đặt chỗ trước.\n　３　Không được đặt chỗ trước à?\n　４　Có phải đặt chỗ trước không?\n☞　Câu trả lời là “Ừ, tôi nghĩ là nên đặt trước” nên câu hỏi sẽ phải là sự nghi vấn của người nói “có phải đặt phòng trước hay không”. Chọn đáp án (4)\n\n \n\n（5）   \n\n　１　Anh Yan làm à?\n　２　Anh Yan hãy làm đi\n　３　Tôi sẽ đặt chỗ trước nhé.\n　４　Tôi làm thì được.\n ☞　Câu trả lời là “Vậy thì nhờ anh nhé” tức là ở câu trước người nói đã đưa ra gợi ý nhận trách nhiệm làm việc đó. Chọn đáp án (3)“Tôi sẽ đặt chỗ trước nhé”"
+  },
+  {
+    "id": 8387,
+    "question": "山田　「来週の水曜日から　（　1　）やすみですね。」\n\nヤン　「そうですね。ぜんぶで（　2　）。」\n\n山田　「五日休みが　ありますよ。どこかへ行きませんか。」\n\nヤン　「いいですね。（　3　）。」\n\n山田　「ニャチャンはどうですか。しずかでいいホテルを知っているんです。」\n\nヤン　「そうですか。そのホテルは　（　4　）。」\n\n山田　「ええ、した方が　いいと思います。（　5　）。」\n\nヤン　「じゃ、おねがいします。」",
+    "answer1": "何日休みですか ",
+    "answer2": "何日が休みですか",
+    "answer3": "五日から休みですか",
+    "answer4": "五日の日は休みですか",
+    "result": "何日休みですか ",
+    "img": "",
+    "description": "Yamada: Bắt đầu từ thứ 4 tuần sau là được nghỉ một thời gian nhỉ.\nYan : Ừ đúng vậy, tất cả là nghỉ bao nhiêu ngày vậy nhỉ?\nYamada: Có năm ngày nghỉ đấy. Chúng ta sẽ đi đâu chứ?\nYan: Được đấy nhỉ. Đi đâu được nhỉ?\nYamada: Nha Trang được không? Tôi biết một khách sạn yên tĩnh và rất tốt.\nYan: Vậy à. Khách sạn đó có phải đặt chỗ trước không?\nYamada: Ừ, tôi nghĩ là nên đặt trước. Tôi sẽ đặt chỗ trước nhé.\nYan: Vậy thì nhờ anh nhé.\n\n\n\n（1）   \n\n　１　lâu rồi không gặp\n　２　nhờ trời\n　３　một thời gian\n　４　chẳng bao lâu nữa\n \n\n（2）\n\n　１　Nghỉ bao nhiêu ngày vậy nhỉ?\n\n　２　Bao nhiêu ngày là nghỉ nhỉ?\n　３　Nghỉ từ ngày mùng 5 phải không?\n　４　Có phải là nghỉ năm ngày không?\n☞　Câu trả lời là “Có năm ngày nghỉ đấy” nên câu hỏi sẽ phải là câu hỏi về số ngày, và không thể là câu hỏi nghi vấn. Chọn đáp án (1) “Nghỉ bao nhiêu ngày vậy nhỉ”     \n\n \n\n（3）\n\n　１　Chúng ta đi đâu đó không ?\n\n　２　Đi đâu được nhỉ?\n　３　Có ở chỗ nào?\n　４　Đi đâu đó anh nghĩ sao?\n☞　Câu trả lời đưa ra một gợi ý “Nha Trang được không” nên câu hỏi sẽ phải là (2) “Chỗ nào được nhỉ?”\n\n　\n\n（4）  \n\n　１　Đặt chỗ trước có được không?\n\n　２　Không được đặt chỗ trước.\n　３　Không được đặt chỗ trước à?\n　４　Có phải đặt chỗ trước không?\n☞　Câu trả lời là “Ừ, tôi nghĩ là nên đặt trước” nên câu hỏi sẽ phải là sự nghi vấn của người nói “có phải đặt phòng trước hay không”. Chọn đáp án (4)\n\n \n\n（5）   \n\n　１　Anh Yan làm à?\n　２　Anh Yan hãy làm đi\n　３　Tôi sẽ đặt chỗ trước nhé.\n　４　Tôi làm thì được.\n ☞　Câu trả lời là “Vậy thì nhờ anh nhé” tức là ở câu trước người nói đã đưa ra gợi ý nhận trách nhiệm làm việc đó. Chọn đáp án (3)“Tôi sẽ đặt chỗ trước nhé”"
+  },
+  {
+    "id": 8388,
+    "question": "山田　「来週の水曜日から　（　1　）やすみですね。」\n\nヤン　「そうですね。ぜんぶで（　2　）。」\n\n山田　「五日休みが　ありますよ。どこかへ行きませんか。」\n\nヤン　「いいですね。（　3　）。」\n\n山田　「ニャチャンはどうですか。しずかでいいホテルを知っているんです。」\n\nヤン　「そうですか。そのホテルは　（　4　）。」\n\n山田　「ええ、した方が　いいと思います。（　5　）。」\n\nヤン　「じゃ、おねがいします。」",
+    "answer1": "どこかへ行きませんか",
+    "answer2": "どんな所がいいですか",
+    "answer3": "どんな所にありますか",
+    "answer4": "どこかへ行ったらどうですか",
+    "result": "どんな所がいいですか",
+    "img": "",
+    "description": "Yamada: Bắt đầu từ thứ 4 tuần sau là được nghỉ một thời gian nhỉ.\nYan : Ừ đúng vậy, tất cả là nghỉ bao nhiêu ngày vậy nhỉ?\nYamada: Có năm ngày nghỉ đấy. Chúng ta sẽ đi đâu chứ?\nYan: Được đấy nhỉ. Đi đâu được nhỉ?\nYamada: Nha Trang được không? Tôi biết một khách sạn yên tĩnh và rất tốt.\nYan: Vậy à. Khách sạn đó có phải đặt chỗ trước không?\nYamada: Ừ, tôi nghĩ là nên đặt trước. Tôi sẽ đặt chỗ trước nhé.\nYan: Vậy thì nhờ anh nhé.\n\n\n\n（1）   \n\n　１　lâu rồi không gặp\n　２　nhờ trời\n　３　một thời gian\n　４　chẳng bao lâu nữa\n \n\n（2）\n\n　１　Nghỉ bao nhiêu ngày vậy nhỉ?\n\n　２　Bao nhiêu ngày là nghỉ nhỉ?\n　３　Nghỉ từ ngày mùng 5 phải không?\n　４　Có phải là nghỉ năm ngày không?\n☞　Câu trả lời là “Có năm ngày nghỉ đấy” nên câu hỏi sẽ phải là câu hỏi về số ngày, và không thể là câu hỏi nghi vấn. Chọn đáp án (1) “Nghỉ bao nhiêu ngày vậy nhỉ”     \n\n \n\n（3）\n\n　１　Chúng ta đi đâu đó không ?\n\n　２　Đi đâu được nhỉ?\n　３　Có ở chỗ nào?\n　４　Đi đâu đó anh nghĩ sao?\n☞　Câu trả lời đưa ra một gợi ý “Nha Trang được không” nên câu hỏi sẽ phải là (2) “Chỗ nào được nhỉ?”\n\n　\n\n（4）  \n\n　１　Đặt chỗ trước có được không?\n\n　２　Không được đặt chỗ trước.\n　３　Không được đặt chỗ trước à?\n　４　Có phải đặt chỗ trước không?\n☞　Câu trả lời là “Ừ, tôi nghĩ là nên đặt trước” nên câu hỏi sẽ phải là sự nghi vấn của người nói “có phải đặt phòng trước hay không”. Chọn đáp án (4)\n\n \n\n（5）   \n\n　１　Anh Yan làm à?\n　２　Anh Yan hãy làm đi\n　３　Tôi sẽ đặt chỗ trước nhé.\n　４　Tôi làm thì được.\n ☞　Câu trả lời là “Vậy thì nhờ anh nhé” tức là ở câu trước người nói đã đưa ra gợi ý nhận trách nhiệm làm việc đó. Chọn đáp án (3)“Tôi sẽ đặt chỗ trước nhé”"
+  },
+  {
+    "id": 8389,
+    "question": "山田　「来週の水曜日から　（　1　）やすみですね。」\n\nヤン　「そうですね。ぜんぶで（　2　）。」\n\n山田　「五日休みが　ありますよ。どこかへ行きませんか。」\n\nヤン　「いいですね。（　3　）。」\n\n山田　「ニャチャンはどうですか。しずかでいいホテルを知っているんです。」\n\nヤン　「そうですか。そのホテルは　（　4　）。」\n\n山田　「ええ、した方が　いいと思います。（　5　）。」\n\nヤン　「じゃ、おねがいします。」",
+    "answer1": "予約してもいいですか ",
+    "answer2": "予約してもいけません",
+    "answer3": "予約してはいけませんか",
+    "answer4": "予約しなければなりませんか",
+    "result": "予約しなければなりませんか",
+    "img": "",
+    "description": "Yamada: Bắt đầu từ thứ 4 tuần sau là được nghỉ một thời gian nhỉ.\nYan : Ừ đúng vậy, tất cả là nghỉ bao nhiêu ngày vậy nhỉ?\nYamada: Có năm ngày nghỉ đấy. Chúng ta sẽ đi đâu chứ?\nYan: Được đấy nhỉ. Đi đâu được nhỉ?\nYamada: Nha Trang được không? Tôi biết một khách sạn yên tĩnh và rất tốt.\nYan: Vậy à. Khách sạn đó có phải đặt chỗ trước không?\nYamada: Ừ, tôi nghĩ là nên đặt trước. Tôi sẽ đặt chỗ trước nhé.\nYan: Vậy thì nhờ anh nhé.\n\n\n\n（1）   \n\n　１　lâu rồi không gặp\n　２　nhờ trời\n　３　một thời gian\n　４　chẳng bao lâu nữa\n \n\n（2）\n\n　１　Nghỉ bao nhiêu ngày vậy nhỉ?\n\n　２　Bao nhiêu ngày là nghỉ nhỉ?\n　３　Nghỉ từ ngày mùng 5 phải không?\n　４　Có phải là nghỉ năm ngày không?\n☞　Câu trả lời là “Có năm ngày nghỉ đấy” nên câu hỏi sẽ phải là câu hỏi về số ngày, và không thể là câu hỏi nghi vấn. Chọn đáp án (1) “Nghỉ bao nhiêu ngày vậy nhỉ”     \n\n \n\n（3）\n\n　１　Chúng ta đi đâu đó không ?\n\n　２　Đi đâu được nhỉ?\n　３　Có ở chỗ nào?\n　４　Đi đâu đó anh nghĩ sao?\n☞　Câu trả lời đưa ra một gợi ý “Nha Trang được không” nên câu hỏi sẽ phải là (2) “Chỗ nào được nhỉ?”\n\n　\n\n（4）  \n\n　１　Đặt chỗ trước có được không?\n\n　２　Không được đặt chỗ trước.\n　３　Không được đặt chỗ trước à?\n　４　Có phải đặt chỗ trước không?\n☞　Câu trả lời là “Ừ, tôi nghĩ là nên đặt trước” nên câu hỏi sẽ phải là sự nghi vấn của người nói “có phải đặt phòng trước hay không”. Chọn đáp án (4)\n\n \n\n（5）   \n\n　１　Anh Yan làm à?\n　２　Anh Yan hãy làm đi\n　３　Tôi sẽ đặt chỗ trước nhé.\n　４　Tôi làm thì được.\n ☞　Câu trả lời là “Vậy thì nhờ anh nhé” tức là ở câu trước người nói đã đưa ra gợi ý nhận trách nhiệm làm việc đó. Chọn đáp án (3)“Tôi sẽ đặt chỗ trước nhé”"
+  },
+  {
+    "id": 8390,
+    "question": "山田　「来週の水曜日から　（　1　）やすみですね。」\n\nヤン　「そうですね。ぜんぶで（　2　）。」\n\n山田　「五日休みが　ありますよ。どこかへ行きませんか。」\n\nヤン　「いいですね。（　3　）。」\n\n山田　「ニャチャンはどうですか。しずかでいいホテルを知っているんです。」\n\nヤン　「そうですか。そのホテルは　（　4　）。」\n\n山田　「ええ、した方が　いいと思います。（　5　）。」\n\nヤン　「じゃ、おねがいします。」",
+    "answer1": "ヤンさんがしますか",
+    "answer2": "ヤンさんしてください",
+    "answer3": "私が予約しましょうか",
+    "answer4": "私がしたらいいです",
+    "result": "私が予約しましょうか",
+    "img": "",
+    "description": "Yamada: Bắt đầu từ thứ 4 tuần sau là được nghỉ một thời gian nhỉ.\nYan : Ừ đúng vậy, tất cả là nghỉ bao nhiêu ngày vậy nhỉ?\nYamada: Có năm ngày nghỉ đấy. Chúng ta sẽ đi đâu chứ?\nYan: Được đấy nhỉ. Đi đâu được nhỉ?\nYamada: Nha Trang được không? Tôi biết một khách sạn yên tĩnh và rất tốt.\nYan: Vậy à. Khách sạn đó có phải đặt chỗ trước không?\nYamada: Ừ, tôi nghĩ là nên đặt trước. Tôi sẽ đặt chỗ trước nhé.\nYan: Vậy thì nhờ anh nhé.\n\n\n\n（1）   \n\n　１　lâu rồi không gặp\n　２　nhờ trời\n　３　một thời gian\n　４　chẳng bao lâu nữa\n \n\n（2）\n\n　１　Nghỉ bao nhiêu ngày vậy nhỉ?\n\n　２　Bao nhiêu ngày là nghỉ nhỉ?\n　３　Nghỉ từ ngày mùng 5 phải không?\n　４　Có phải là nghỉ năm ngày không?\n☞　Câu trả lời là “Có năm ngày nghỉ đấy” nên câu hỏi sẽ phải là câu hỏi về số ngày, và không thể là câu hỏi nghi vấn. Chọn đáp án (1) “Nghỉ bao nhiêu ngày vậy nhỉ”     \n\n \n\n（3）\n\n　１　Chúng ta đi đâu đó không ?\n\n　２　Đi đâu được nhỉ?\n　３　Có ở chỗ nào?\n　４　Đi đâu đó anh nghĩ sao?\n☞　Câu trả lời đưa ra một gợi ý “Nha Trang được không” nên câu hỏi sẽ phải là (2) “Chỗ nào được nhỉ?”\n\n　\n\n（4）  \n\n　１　Đặt chỗ trước có được không?\n\n　２　Không được đặt chỗ trước.\n　３　Không được đặt chỗ trước à?\n　４　Có phải đặt chỗ trước không?\n☞　Câu trả lời là “Ừ, tôi nghĩ là nên đặt trước” nên câu hỏi sẽ phải là sự nghi vấn của người nói “có phải đặt phòng trước hay không”. Chọn đáp án (4)\n\n \n\n（5）   \n\n　１　Anh Yan làm à?\n　２　Anh Yan hãy làm đi\n　３　Tôi sẽ đặt chỗ trước nhé.\n　４　Tôi làm thì được.\n ☞　Câu trả lời là “Vậy thì nhờ anh nhé” tức là ở câu trước người nói đã đưa ra gợi ý nhận trách nhiệm làm việc đó. Chọn đáp án (3)“Tôi sẽ đặt chỗ trước nhé”"
+  }
+]

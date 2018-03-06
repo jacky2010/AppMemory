@@ -1,0 +1,35 @@
+[
+  {
+    "id": 11882,
+    "question": "会社の　しょくどうに　はってある　かみ　です。\n\nしゃいんの　みなさんへ\n\nわるい　かぜが　やっています。\n\nねつが　３８どより　高い　人は、会社を　休んで　ください。\n\nせきや　はなが　出ない　人も、３８どより　高い　ねつが　あるときは　来ないこと。手を　よくあらって　ください。\n\n\nどんな人が　会社に　行っては　いけませんか。",
+    "answer1": "ねつが　３８どより　ひくいが　せきが　出る　人",
+    "answer2": "ねつが　３８どより　ひくいが　はなが　出る　人",
+    "answer3": "３８どより　高い　ねつが　ある　人　ぜんぶ",
+    "answer4": "せきや　はなが　出る　人　ぜんぶ",
+    "result": "３８どより　高い　ねつが　ある　人　ぜんぶ",
+    "img": "",
+    "description": "会社の　しょくどうに　はってある　かみ　です。\tTờ giấy dán ở nhà ăn của công ty.\nしゃいんの　みなさんへ\tGửi đến các bạn nhân viên\nわるい　かぜが　やっています。\tNhững ai đang bị cảm nặng.\nねつが　３８どより　高い　人は、会社を　休んで　ください。\tNhững người bị sốt hơn 38 độ xin hãy nghỉ làm.\nせきや　はなが　出ない　人も、３８どより　高い　ねつが　あるときは　来ないこと。\tCả những người không bị ho hay sổ mũi thì cũng xin đừng đến khi bị sốt hơn 38 độ.\n手を　よくあらって　ください。\tXin hãy rửa tay thật kỹ!\nどんな人が　会社に　行っては　いけませんか。\n\n３８どより　高い　ねつが　ある　人　ぜんぶ\n\nNhững người nào không được đến công ty?\n\nTất cả những người sốt hơn 38 độ."
+  },
+  {
+    "id": 11883,
+    "question": "としょかんの　けいじばんに　はってある　かみです。\n\n中国語の　クラスは　水曜の　午前と　午後、木曜の　午後が　あります。\n\nはじめての　人の　クラスは　午前です。午後は　少し　むずかしい　クラスです。\n\n土曜の　午前も　ありますが、はじめての　人には　むずかしいです。\n\n\n中国語を　はじめて　ならいます。どの　クラスが　いいですか。",
+    "answer1": "水曜の　午前",
+    "answer2": "水曜の　午後",
+    "answer3": "木曜の　午後",
+    "answer4": "木曜の　午前",
+    "result": "水曜の　午前",
+    "img": "",
+    "description": "としょかんの　けいじばんに　はってある　かみです。\tĐây là tờ giấy có dán trên bảng thông báo của thư viện.\n中国語の　クラスは　水曜の　午前と　午後、木曜の　午後が　あります。\tLớp tiếng Trung có vào sáng chiều thứ tư và trưa thứ năm.\nはじめての　人の　クラスは　午前です。午後は　少し　むずかしい　クラスです。\tLớp dành cho người mới bắt đầu học là vào buổi sáng. Buổi trưa là lớp khó hơn một chút.\n土曜の　午前も　ありますが、はじめての　人には　むずかしいです。\tBuổi sáng thứ bảy cũng có lớp nhưng khó đối với người mới bắt đầu học.\n中国語を　はじめて　ならいます。どの　クラスが　いいですか。\n\n水曜の　午前\n\nLần đầu học tiếng Trung. Lớp nào thì được?\n\nSáng thứ tư"
+  },
+  {
+    "id": 11884,
+    "question": "すずきさんの　ところに　来た　メールです。  Ｔｏ：○○○○　○○○  Ｆｒｏｍ：◎◎◎◎　◎◎◎◎  ============================================================  来月の　かいぎは　５日です。  時間は　14時から、３０７のへやで　やります。  前の日の18時までに、先月、みなさんが　店で　本を　いくら　売ったか、メールで　おしえて　ください。  本を　いくら　売ったか、いつまでに　言いますか。",
+    "answer1": "4日　午後　2時",
+    "answer2": "4日    午後　6時",
+    "answer3": "5日　午後　8時",
+    "answer4": "5日　午後　6時",
+    "result": "4日    午後　6時",
+    "img": "",
+    "description": "すずきさんの　ところに　来た　メールです。\tĐây là mail gửi đến chỗ của Suzuki.\nＴｏ：○○○○　○○○\n\nＦｒｏｍ：◎◎◎◎　◎◎◎◎\n\nĐến: ○○○○　○○○\n\nTừ: ◎◎◎◎　◎◎◎◎\n\n来月の　かいぎは　５日です。\tCuộc họp tháng sau là ngày 5.\n時間は　14時から、３０７のへやで　やります。\tThời gian là từ 14 giờ và sẽ họp ở phòng 307.\n前の日の18時までに、先月、みなさんが　店で　本を　いくら　売ったか、メールで　おしえて　ください。\tTrước 18 giờ ngày trước đó, tất cả các bạn hãy thông báo cho biết qua mail xem tháng rồi đã bán được bao nhiêu quyển sách ở cửa hàng.\n本を　いくら　売ったか、いつまでに　言いますか。\n\n4日 午後　6時\n\nSẽ thông báo đã bán được bao nhiêu quyển sách trước khi nào?\n\n6 giờ chiều ngày 4"
+  }
+]

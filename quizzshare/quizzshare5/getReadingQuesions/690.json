@@ -1,0 +1,13 @@
+[
+  {
+    "id": 8403,
+    "question": "リン　　：　むらたさん、ちょっといいですか。\n\nむらた　：　はい、何ですか。\n\nリン　　：　明日、病院へ行きますから、授業に出ません。明日の夜、電話しますから、宿題を教えてください。\n\nむらた　：　はい、分かりました。           \n\n　\n\n　正しいものはどれですか。\n\n",
+    "answer1": "むらたさんは今日、宿題を教えます。",
+    "answer2": "リンさんは今日、授業を休みます。",
+    "answer3": "むらたさんは明日、病院へ行きます。",
+    "answer4": "リンさんは明日、むらたさんに電話します。",
+    "result": "リンさんは明日、むらたさんに電話します。",
+    "img": "",
+    "description": "Linh: Anh Murata, làm phiền anh một chút được không?\nMurata : Được, chuyện gì vậy? \nLinh: Ngày mai, em đi khám bệnh nên không tham dự buổi học được.\nTối ngày mai em sẽ điện thoại, nên hãy chỉ em bài tập nha.\nỪ, anh biết rồi.\n\n \n\nCâu nào sau đây là câu đúng\n\n　１　Hôm nay Murata chỉ bài tập cho.\n\n　２　Hôm nay Linh nghỉ học.\n\n　３　Murata ngày mai sẽ đi bệnh viện.\n\n　４　Ngày mai Linh sẽ điện thoại cho Murata."
+  }
+]

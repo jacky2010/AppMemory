@@ -1,0 +1,13 @@
+[
+  {
+    "id": 8404,
+    "question": "最近、人の声を認識し（注１）たり、書かれた文字を読み取ったりするプログラムが、あちこちで使われるようになってきている。そして、たとえば「このプログラムはどの人の声でも認識することができます」という説明がしばしばなされる。しかし、それを文字どおりに信用したりしてはならないだろう。「どの人の声でも」といったとき、男子の大人の声ならほとんど聞き分けられるということを意味していることが多く、女子の声や老人のしわがれた声（注２）、子どもの声（中略）についてはうまく認識できないという場合がある。\n\n（注１）    認識する：物事を理解し、区別したり判断したりする\n（注２）    しわがれた声：のどをいためた時に出るようなはっきりしない声\n\n \n\n「それを文字どおりに信用したりしてはならないだろう」というのはどうしてか。    ",
+    "answer1": "老人の声しか認識できない場合があるから",
+    "answer2": "女性の声しか認識できない場合があるから",
+    "answer3": "男性の声しか認識できない場合があるから",
+    "answer4": "子どもの声しか認識できない場合があるから",
+    "result": "男性の声しか認識できない場合があるから",
+    "img": "",
+    "description": "Dạo gần đây, chương trình đọc hiểu được những chữ được viết ra và nhận thức được tiếng người đang được sử dụng ở khắp mọi nơi.\nNhững lời thuyết minh như “Chương trình này có thể nhận ra được giọng của bất cứ ai” thường xuyên được nhắc đến.\nTuy nhiên có lẽ không được tin vào điều này theo nghĩa đen.\nDù nói là “giọng của bất cứ ai”, nhưng thường thì hầu như có nghĩa là chỉ nhận ra được giọng của người đàn ông, còn những trường hợp như tiếng trẻ con, giọng khàn của người già hay giọng phụ nữ thì không thể nhận ra.\n\n\n \n\nTại sao “Có lẽ không được tin vào điều này theo nghĩa đen”\n　１　Bởi vì có trường hợp chỉ có thể nhận ra giọng của người già\n　２　Bởi vì có trường hợp chỉ có thể nhận ra giọng của phụ nữ\n　３　Bởi vì có trường hợp chỉ có thể nhận ra giọng của nam giới\n　４　Bởi vì có trường hợp chỉ có thể nhận ra giọng của trẻ con"
+  }
+]

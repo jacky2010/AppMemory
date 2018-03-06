@@ -1,0 +1,13 @@
+[
+  {
+    "id": 8405,
+    "question": "初めてお便りいたします。私は、先日落とした運転免許証（注1）を送っていただいた野川です。ご親切に郵便にてお送りくださり、本当にありがとうございました。実は、落として３日ほどだった昨日の朝、免許証がないことに気がついて、あわてて交番に届けようとしていたところ、中山様からお手紙と一緒に免許証を受け取りました。うかがって、お礼を申し上げなければならないところですが、お手紙にて失礼させていただきます。\n　なお、わずかですが、お礼として図書券（注１）を同封（注３）いたします。お好きな本でも買っていただければ幸いです。\n\n\n（注１）　～証：証明する書類やカード\n\n（注２）　図書券：図書を買うための券\n\n（注３）　同封する：手紙の中にいっしょに入れる\n\n \n\n　これは何についてのお礼の手紙か。",
+    "answer1": "図書券を買って送ってくれたこと",
+    "answer2": "好きな本を買って、送ってくれたこと",
+    "answer3": "運転免許証を交番に届けてくれたこと",
+    "answer4": "拾った運転免許証を送ってくれたこと",
+    "result": "拾った運転免許証を送ってくれたこと",
+    "img": "",
+    "description": "Lần đầu tiên gửi thư cho bạn.\nMình là Nogawa, người hôm trước đã đánh rơi giấy phép lái xe và được bạn gửi trả lại cho.\nMình viết thư này vì muốn gửi lời cảm ơn chân thành đến sự tử tế của bạn.\nThực ra, khoảng ba ngày sau khi đánh rơi, tức là buổi sáng hôm qua, mình mới nhận ra đã làm mất giấy phép lái xe, vừa lúc vội vàng định đi báo cảnh sát thì nhận được thư cùng với bằng lái từ bạn Nakayama.\nLẽ ra phải đến thăm và nói lời cảm ơn, vậy mà chỉ gửi được thư thế này mình thật thất lễ quá.\nNgoài ra, mình đã kèm theo trong thư một phiếu mua sách, dù chỉ nhỏ thôi nhưng bạn hãy xem nó như lời cảm ơn của mình.\nMình hy vọng bạn có thể mua được cuốn sách mà bạn thích.\n\n \n\nLá thư này viết để cảm ơn về vấn đề gì?\n　１　Vì việc đã mua phiếu mua sách và gửi cho người viết.\n　２　Vì việc đã mua cuốn sách yêu thích và gửi cho người viết.\n　３　Vì việc đã gửi giấy phép lái xe đến đồn cảnh sát cho người viết.\n　４　Vì việc đã nhặt được giấy phép lái xe và gửi cho người viết.\n \n\n♦ Căn cứ vào câu 　「私は、先日落とした運転免許証を送っていただいた野川です。ご親切に郵便にてお送りくださり、本当にありがとうございました。」　(Mình là Nogawa, người hôm trước đã đánh rơi giấy phép lái xe và được bạn gửi trả lại cho. Mình viết thư này vì muốn gửi lời cảm ơn chân thành đến sự tử tế của bạn.)"
+  }
+]

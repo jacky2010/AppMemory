@@ -1,0 +1,13 @@
+[
+  {
+    "id": 8398,
+    "question": "この薬は熱をさげ、のどのはれをおさえ、せきをしずめます。食事のあと３０分いないにお飲みください。おとな（１５さい以上）は一日三回２じょうです。７さいから１４さいまでのお子さんはおとなの半分の量をお飲みください。また６さい以下のお子さんは子供ようをお飲みください。\n\n　なおこの薬を飲むと眠くなることがありますので、お車の運転はなさらないでください。\n\n \n\nいつ飲めばいいですか。\n\n",
+    "answer1": "ごはんを食べる３０分まえに飲む。",
+    "answer2": "ごはんを食べた３０分あとに飲む。",
+    "answer3": "薬を飲んで３０分いないにごはんを食べる。",
+    "answer4": "ごはんを食べて３０分いないに薬を飲む。",
+    "result": "ごはんを食べて３０分いないに薬を飲む。",
+    "img": "",
+    "description": "Thuốc này hạ sốt, giảm đau họng, giảm ho.\nHãy uống trong vòng 30 phút sau khi ăn.\nNgười lớn (từ 15 tuổi trở lên), ngày uống 3 lần, mỗi lần 2 viên.\nTrẻ em từ 7 đến 14 tuổi, uống ½ liều lượng của người lớn.\nTrẻ dưới 6 tuổi uống loại dành riêng cho trẻ nhỏ.\nNgoài ra, uống thuốc này vào sẽ gây buồn ngủ, nên xin đừng lái xe.\n\n\nUống thuốc khi nào thì tốt?\n\n　１　Uống trước khi ăn 30 phút.\n　２　Uống sau khi ăn 30 phút.\n　３　Uống thuốc xong, trong vòng 30 phút thì ăn cơm.\n　４　Ăn cơm xong, trong vòng 30 phút thì uống thuốc."
+  }
+]

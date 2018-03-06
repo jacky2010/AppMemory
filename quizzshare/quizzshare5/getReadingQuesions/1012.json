@@ -1,0 +1,24 @@
+[
+  {
+    "id": 11854,
+    "question": "さくらさんは　あきこさんに　メールを　送りました。\n\n\n明日の　パーティー\nあきこさんへ\n\nおはしや　紙の　コップは、きのう　買いました。ジュースと　お茶は　これから　買いに　行きます。明日の　朝、わたしと　さくらさんは　ケーキを　作りますから、あきこさんは　お花を　買ってきて　ください。１２時までに　来て　ください。\n\n \n\nさくら\n\nいつ　飲み物を　買いに　行きますか。",
+    "answer1": "きのう",
+    "answer2": "今日",
+    "answer3": "明日の　朝",
+    "answer4": "明日の　昼",
+    "result": "今日",
+    "img": "",
+    "description": "さくらさんは　あきこさんに　メールを　送りました。\nSakura đã gửi thư cho Akiko.\n\n明日の　パーティー\t\nBuổi tiệc ngày mai\nあきこさんへ\t\nGửi Akiko\nおはしや　紙の　コップは、きのう　買いました。\t\nHôm qua tôi đã mua đũa và ly giấy.\nジュースと　お茶は　これから　買いに　行きます。\t\nNước trái cây và trà bây giờ tôi sẽ mua.\n明日の　朝、わたしと　さくらさんは　ケーキを　作りますから、あきこさんは　お花を　買ってきて　ください。\t\nVì sáng mai Sakura và tôi sẽ làm bánh nên Akiko hãy mua hoa mang đến nhé.\n１２時までに　来て　ください。\t\nHãy đến trước 12 giờ.\nさくら\t\nSakura\nいつ　飲み物を　買いに　行きますか。\t\nKhi nào đi mua thức uống?\n今日\t\nHôm nay"
+  },
+  {
+    "id": 11855,
+    "question": "わたしは　来週、りょうしんと　３人と　大阪へ　行きます。４月から　弟が　大阪に　住んでいますから、会いに　行きます。弟は　そうじが　きらいですから、へやは　たぶん　きたないでしょう。\n\n「わたし」は、来週、何を　しますか。",
+    "answer1": "弟と　大阪に　行きます。",
+    "answer2": "弟の　へやを　そうじします。",
+    "answer3": "りょうしんと　大阪に　行きます。",
+    "answer4": "りょうしんと　いっしょに　住みます。",
+    "result": "りょうしんと　大阪に　行きます。",
+    "img": "",
+    "description": "わたしは　来週、りょうしんと　３人と　大阪へ　行きます。\nTuần sau cùng với ba mẹ, 3 người chúng tôi sẽ đi Osaka.\n４月から　弟が　大阪に　住んでいますから、会いに　行きます。\n\tVì từ tháng 4 em trai tôi đã sống ở Osaka nên chúng tôi đi để gặp em.\n弟は　そうじが　きらいですから、へやは　たぶん　きたないでしょう。\nVì em trai tôi ghét dọn dẹp nên có lẽ căn phòng sẽ rất dơ.\n「わたし」は、来週、何を　しますか。\t\n\"Tôi\" sẽ làm gì tuần sau?\nりょうしんと　大阪に　行きます。\t\nĐi Osaka cùng với ba mẹ."
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 11863,
+    "question": "川島さんの　机の　上に、田中さん　からの　メモが　あります。\n\n川島さん\n\nふじ電気の　林さんから　１１時に　電話が　ありました。\n\n「今日は　これから　ずっと　かいぎですから、電話が　できません。\n\nメールを　送りますから、あとで　読んで　ください。」と　言っていました。\n\n田中\n\n川島さんは　メモを　読んだあと、どう　しますか。",
+    "answer1": "ふじ電気へ　行きます。",
+    "answer2": "林さんに　電話を　します。",
+    "answer3": "田中さんに　メールを　書きます。",
+    "answer4": "林さんからの　メールを　読みます。",
+    "result": "林さんからの　メールを　読みます。",
+    "img": "",
+    "description": "川島さんの　机の　上に、田中さん　からの　メモが　あります。\tTrên bàn của Kawashima có tờ ghi chú từ Tanaka.\n川島さん\tAnh Kawashima,\nふじ電気の　林さんから　１１時に　電話が　ありました。\tVào lúc 11 giờ có điện thoại của anh Hayashi từ công ty điện Fuji.\n「今日は　これから　ずっと　かいぎですから、電話が　できません。\tAnh ấy đã nói rằng \"Hôm nay vì tôi bận họp suốt từ bây giờ nên không thể gọi điện thoại.\nメールを　送りますから、あとで　読んで　ください。」と　言っていました。\tVì tôi gửi thư nên hãy đọc sau đó nhé!\"\n田中\tTanaka\n川島さんは　メモを　読んだあと、どう　しますか。\tKawashima sau khi đọc ghi chú sẽ làm gì?\n林さんからの　メールを　読みます。\tĐọc thư từ anh Hayashi gửi đến."
+  },
+  {
+    "id": 11864,
+    "question": "わたしは　毎日　しごとが　いそがしくて、おそく　かえりますから、休みの　日に　よく　そうじや　せんたくを　します。でも、ほんとうは　友だちと　えいがを　見に行ったり、しょくじに　行ったり　したいです。\n\n「わたし」は　日よう日に　よく　何を　しますか。",
+    "answer1": "しごとに　行きます",
+    "answer2": "友だちと　えいがを　見ます",
+    "answer3": "食べに　行きます",
+    "answer4": "そうじを　します",
+    "result": "そうじを　します",
+    "img": "",
+    "description": "わたしは　毎日　しごとが　いそがしくて、おそく　かえりますから、休みの　日に　よく　そうじや　せんたくを　します。\tVì công việc hàng ngày bận rộn, về nhà trễ nên tôi thường dọn dẹp hay giặt giũ vào ngày nghỉ.\nでも、ほんとうは　友だちと　えいがを　見に行ったり、しょくじに　行ったり　したいです。\tThế nhưng, thực sự tôi rất muốn đi xem phim hay đi dùng bữa với bạn bè.\n「わたし」は　日よう日に　よく　何を　しますか。\t\"Tôi\" thường làm gì vào ngày chủ nhật?\nそうじを　します。\tDọn dẹp."
+  }
+]

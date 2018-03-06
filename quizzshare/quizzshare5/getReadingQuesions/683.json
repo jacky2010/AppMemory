@@ -1,0 +1,57 @@
+[
+  {
+    "id": 8392,
+    "question": "山田　「どうしたんですか。元気が　ないですね。」\n\n中村　「かばんを　（　1　）です。」\n\n山田　「それは　たいへんだ。どこで　なくしたか　わかりますか。」\n\n中村　「よく　わからないんですが、電車の　中に　わすれたらしいんです。」\n\n山田　「駅へ　行って、聞いて　みましたか。」\n\n中村　「（　2　）。でも、見つかりませんでした。」山田　「お金や　大事な　ものが　入って　いたんですか。」\n\n中村　「お金は　ほとんど　入って　いません。でも、先生に（　3　）大事な　本が　入って　いたんです。とても　大切な　本なんです。」\n\n山田　「そうですか。お金が　たくさん　（　4　）、もどって　こないかもしれませんが、本だけだから　たぶん、だいじょうぶですよ。」\n\n中村　「そうでしょうか。」\n\n山田　「見つけた　人にも、（　5　）は　わかりますからね。きっと　見つけた人が　駅に　とどけて　くれますよ。」",
+    "answer1": "なくして　しまったん",
+    "answer2": "なくしたん",
+    "answer3": "なくなって　しまったん",
+    "answer4": "なくなったん",
+    "result": "なくして　しまったん",
+    "img": "",
+    "description": "Yamada: Có chuyện gì vậy. Trông cậu không được khỏe..\nNakamura: Tôi  vừa đánh mất  chiếc túi mất rồi.\nYamada: Thế thì gay thật. Cậu có biết bị mất ở đâu không?\nNakamura: Không rõ lắm, nhưng có vẻ là để quên trên xe điện.\nYamada: Đã đến nhà ga hỏi thử chưa?\nNakamura: Tất nhiên rồi. Nhưng không tìm thấy\nYamada: Trong đó có tiền và những thứ quan trọng hả?\nNakamura: Trong đó hầu như không có tiền. Tuy nhiên, trong đó có cuốn sách quan trọng đã mượn của thầy. Một cuốn sách rất quan trọng\nYamada: Vậy à. Nếu trong đó có nhiều tiền, có thể nó sẽ không trở lại, nhưng vì chỉ có cuốn sách nên chắc là không sao đâu.\nNakamura: Vậy à.\nYamada: Người tìm thấy chắc cũng sẽ hiểu về sự quan trọng của cuốn sách này thôi. Bảo đảm người tìm thấy sẽ gửi nó đến nhà ga cho bạn.\n\n\n（1）    \n\n　１　đánh mất mất rồi\n\n　２　đánh mất\n　３　mất mất rồi\n　４　mất\n　\n\n（2） \n\n　１ 　Vẫn chưa\n　２　Sắp rồi.\n　３　Tất nhiên rồi.\n　４　Quả nhiên là vậy.\n（3）\n\n　１　Đã cho mượn\n\n　２　Đã mượn\n\n　３　Đã cho mượn\n　４　Đã mượn\n\n♦借りる:cho mượn\n\n∆ この辞書借りてもいいですか。\n\n♦貸す：mượn\n\n∆ bản thân nó mang nghĩa là đồ của người khác nên bắt buộc phải kèm theo những từ như sau: 「貸してくれる」、「貸してもらう」、「貸していただけく」để nó mang nghĩa là mình đi mượn.\n\n（4）  \n\n　１　Vì đang có trong đó\n　２　Giả sử mà bỏ vào đó\n　３　Dù bỏ vào đó\n　４ 　Vì đã bỏ vào đó\n（　5　）\n\n　１　Sự quan trọng của cuốn sách này\n　２　Thầy giáo của bạn\n　３　Số tiền trong túi\n　４　Túi của bạn\n"
+  },
+  {
+    "id": 8393,
+    "question": "山田　「どうしたんですか。元気が　ないですね。」\n\n中村　「かばんを　（　1　）です。」\n\n山田　「それは　たいへんだ。どこで　なくしたか　わかりますか。」\n\n中村　「よく　わからないんですが、電車の　中に　わすれたらしいんです。」\n\n山田　「駅へ　行って、聞いて　みましたか。」\n\n中村　「（　2　）。でも、見つかりませんでした。」山田　「お金や　大事な　ものが　入って　いたんですか。」\n\n中村　「お金は　ほとんど　入って　いません。でも、先生に（　3　）大事な　本が　入って　いたんです。とても　大切な　本なんです。」\n\n山田　「そうですか。お金が　たくさん　（　4　）、もどって　こないかもしれませんが、本だけだから　たぶん、だいじょうぶですよ。」\n\n中村　「そうでしょうか。」\n\n山田　「見つけた　人にも、（　5　）は　わかりますからね。きっと　見つけた人が　駅に　とどけて　くれますよ。」",
+    "answer1": "まだです",
+    "answer2": "もうすぐです",
+    "answer3": "もちろんです",
+    "answer4": "やっぱりです",
+    "result": "もちろんです",
+    "img": "",
+    "description": "Yamada: Có chuyện gì vậy. Trông cậu không được khỏe..\nNakamura: Tôi  vừa đánh mất  chiếc túi mất rồi.\nYamada: Thế thì gay thật. Cậu có biết bị mất ở đâu không?\nNakamura: Không rõ lắm, nhưng có vẻ là để quên trên xe điện.\nYamada: Đã đến nhà ga hỏi thử chưa?\nNakamura: Tất nhiên rồi. Nhưng không tìm thấy\nYamada: Trong đó có tiền và những thứ quan trọng hả?\nNakamura: Trong đó hầu như không có tiền. Tuy nhiên, trong đó có cuốn sách quan trọng đã mượn của thầy. Một cuốn sách rất quan trọng\nYamada: Vậy à. Nếu trong đó có nhiều tiền, có thể nó sẽ không trở lại, nhưng vì chỉ có cuốn sách nên chắc là không sao đâu.\nNakamura: Vậy à.\nYamada: Người tìm thấy chắc cũng sẽ hiểu về sự quan trọng của cuốn sách này thôi. Bảo đảm người tìm thấy sẽ gửi nó đến nhà ga cho bạn.\n\n\n（1）    \n\n　１　đánh mất mất rồi\n\n　２　đánh mất\n　３　mất mất rồi\n　４　mất\n　\n\n（2） \n\n　１ 　Vẫn chưa\n　２　Sắp rồi.\n　３　Tất nhiên rồi.\n　４　Quả nhiên là vậy.\n（3）\n\n　１　Đã cho mượn\n\n　２　Đã mượn\n\n　３　Đã cho mượn\n　４　Đã mượn\n\n♦借りる:cho mượn\n\n∆ この辞書借りてもいいですか。\n\n♦貸す：mượn\n\n∆ bản thân nó mang nghĩa là đồ của người khác nên bắt buộc phải kèm theo những từ như sau: 「貸してくれる」、「貸してもらう」、「貸していただけく」để nó mang nghĩa là mình đi mượn.\n\n（4）  \n\n　１　Vì đang có trong đó\n　２　Giả sử mà bỏ vào đó\n　３　Dù bỏ vào đó\n　４ 　Vì đã bỏ vào đó\n（　5　）\n\n　１　Sự quan trọng của cuốn sách này\n　２　Thầy giáo của bạn\n　３　Số tiền trong túi\n　４　Túi của bạn\n"
+  },
+  {
+    "id": 8394,
+    "question": "山田　「どうしたんですか。元気が　ないですね。」\n\n中村　「かばんを　（　1　）です。」\n\n山田　「それは　たいへんだ。どこで　なくしたか　わかりますか。」\n\n中村　「よく　わからないんですが、電車の　中に　わすれたらしいんです。」\n\n山田　「駅へ　行って、聞いて　みましたか。」\n\n中村　「（　2　）。でも、見つかりませんでした。」山田　「お金や　大事な　ものが　入って　いたんですか。」\n\n中村　「お金は　ほとんど　入って　いません。でも、先生に（　3　）大事な　本が　入って　いたんです。とても　大切な　本なんです。」\n\n山田　「そうですか。お金が　たくさん　（　4　）、もどって　こないかもしれませんが、本だけだから　たぶん、だいじょうぶですよ。」\n\n中村　「そうでしょうか。」\n\n山田　「見つけた　人にも、（　5　）は　わかりますからね。きっと　見つけた人が　駅に　とどけて　くれますよ。」",
+    "answer1": "お貸しした",
+    "answer2": "お借りに した",
+    "answer3": "お貸しに　なった",
+    "answer4": "お借りに　なった",
+    "result": "お借りに した",
+    "img": "",
+    "description": "Yamada: Có chuyện gì vậy. Trông cậu không được khỏe..\nNakamura: Tôi  vừa đánh mất  chiếc túi mất rồi.\nYamada: Thế thì gay thật. Cậu có biết bị mất ở đâu không?\nNakamura: Không rõ lắm, nhưng có vẻ là để quên trên xe điện.\nYamada: Đã đến nhà ga hỏi thử chưa?\nNakamura: Tất nhiên rồi. Nhưng không tìm thấy\nYamada: Trong đó có tiền và những thứ quan trọng hả?\nNakamura: Trong đó hầu như không có tiền. Tuy nhiên, trong đó có cuốn sách quan trọng đã mượn của thầy. Một cuốn sách rất quan trọng\nYamada: Vậy à. Nếu trong đó có nhiều tiền, có thể nó sẽ không trở lại, nhưng vì chỉ có cuốn sách nên chắc là không sao đâu.\nNakamura: Vậy à.\nYamada: Người tìm thấy chắc cũng sẽ hiểu về sự quan trọng của cuốn sách này thôi. Bảo đảm người tìm thấy sẽ gửi nó đến nhà ga cho bạn.\n\n\n（1）    \n\n　１　đánh mất mất rồi\n\n　２　đánh mất\n　３　mất mất rồi\n　４　mất\n　\n\n（2） \n\n　１ 　Vẫn chưa\n　２　Sắp rồi.\n　３　Tất nhiên rồi.\n　４　Quả nhiên là vậy.\n（3）\n\n　１　Đã cho mượn\n\n　２　Đã mượn\n\n　３　Đã cho mượn\n　４　Đã mượn\n\n♦借りる:cho mượn\n\n∆ この辞書借りてもいいですか。\n\n♦貸す：mượn\n\n∆ bản thân nó mang nghĩa là đồ của người khác nên bắt buộc phải kèm theo những từ như sau: 「貸してくれる」、「貸してもらう」、「貸していただけく」để nó mang nghĩa là mình đi mượn.\n\n（4）  \n\n　１　Vì đang có trong đó\n　２　Giả sử mà bỏ vào đó\n　３　Dù bỏ vào đó\n　４ 　Vì đã bỏ vào đó\n（　5　）\n\n　１　Sự quan trọng của cuốn sách này\n　２　Thầy giáo của bạn\n　３　Số tiền trong túi\n　４　Túi của bạn\n"
+  },
+  {
+    "id": 8395,
+    "question": "山田　「どうしたんですか。元気が　ないですね。」\n\n中村　「かばんを　（　1　）です。」\n\n山田　「それは　たいへんだ。どこで　なくしたか　わかりますか。」\n\n中村　「よく　わからないんですが、電車の　中に　わすれたらしいんです。」\n\n山田　「駅へ　行って、聞いて　みましたか。」\n\n中村　「（　2　）。でも、見つかりませんでした。」山田　「お金や　大事な　ものが　入って　いたんですか。」\n\n中村　「お金は　ほとんど　入って　いません。でも、先生に（　3　）大事な　本が　入って　いたんです。とても　大切な　本なんです。」\n\n山田　「そうですか。お金が　たくさん　（　4　）、もどって　こないかもしれませんが、本だけだから　たぶん、だいじょうぶですよ。」\n\n中村　「そうでしょうか。」\n\n山田　「見つけた　人にも、（　5　）は　わかりますからね。きっと　見つけた人が　駅に　とどけて　くれますよ。」",
+    "answer1": "入って　いて",
+    "answer2": "入って　いたら",
+    "answer3": "入って　いても",
+    "answer4": "入って　いたから",
+    "result": "入って　いたら",
+    "img": "",
+    "description": "Yamada: Có chuyện gì vậy. Trông cậu không được khỏe..\nNakamura: Tôi  vừa đánh mất  chiếc túi mất rồi.\nYamada: Thế thì gay thật. Cậu có biết bị mất ở đâu không?\nNakamura: Không rõ lắm, nhưng có vẻ là để quên trên xe điện.\nYamada: Đã đến nhà ga hỏi thử chưa?\nNakamura: Tất nhiên rồi. Nhưng không tìm thấy\nYamada: Trong đó có tiền và những thứ quan trọng hả?\nNakamura: Trong đó hầu như không có tiền. Tuy nhiên, trong đó có cuốn sách quan trọng đã mượn của thầy. Một cuốn sách rất quan trọng\nYamada: Vậy à. Nếu trong đó có nhiều tiền, có thể nó sẽ không trở lại, nhưng vì chỉ có cuốn sách nên chắc là không sao đâu.\nNakamura: Vậy à.\nYamada: Người tìm thấy chắc cũng sẽ hiểu về sự quan trọng của cuốn sách này thôi. Bảo đảm người tìm thấy sẽ gửi nó đến nhà ga cho bạn.\n\n\n（1）    \n\n　１　đánh mất mất rồi\n\n　２　đánh mất\n　３　mất mất rồi\n　４　mất\n　\n\n（2） \n\n　１ 　Vẫn chưa\n　２　Sắp rồi.\n　３　Tất nhiên rồi.\n　４　Quả nhiên là vậy.\n（3）\n\n　１　Đã cho mượn\n\n　２　Đã mượn\n\n　３　Đã cho mượn\n　４　Đã mượn\n\n♦借りる:cho mượn\n\n∆ この辞書借りてもいいですか。\n\n♦貸す：mượn\n\n∆ bản thân nó mang nghĩa là đồ của người khác nên bắt buộc phải kèm theo những từ như sau: 「貸してくれる」、「貸してもらう」、「貸していただけく」để nó mang nghĩa là mình đi mượn.\n\n（4）  \n\n　１　Vì đang có trong đó\n　２　Giả sử mà bỏ vào đó\n　３　Dù bỏ vào đó\n　４ 　Vì đã bỏ vào đó\n（　5　）\n\n　１　Sự quan trọng của cuốn sách này\n　２　Thầy giáo của bạn\n　３　Số tiền trong túi\n　４　Túi của bạn\n"
+  },
+  {
+    "id": 8396,
+    "question": "山田　「どうしたんですか。元気が　ないですね。」\n\n中村　「かばんを　（　1　）です。」\n\n山田　「それは　たいへんだ。どこで　なくしたか　わかりますか。」\n\n中村　「よく　わからないんですが、電車の　中に　わすれたらしいんです。」\n\n山田　「駅へ　行って、聞いて　みましたか。」\n\n中村　「（　2　）。でも、見つかりませんでした。」山田　「お金や　大事な　ものが　入って　いたんですか。」\n\n中村　「お金は　ほとんど　入って　いません。でも、先生に（　3　）大事な　本が　入って　いたんです。とても　大切な　本なんです。」\n\n山田　「そうですか。お金が　たくさん　（　4　）、もどって　こないかもしれませんが、本だけだから　たぶん、だいじょうぶですよ。」\n\n中村　「そうでしょうか。」\n\n山田　「見つけた　人にも、（　5　）は　わかりますからね。きっと　見つけた人が　駅に　とどけて　くれますよ。」",
+    "answer1": "本が　大切な　こと",
+    "answer2": "あなたの　先生の　こと",
+    "answer3": "かばんの　中の　お金の　こと",
+    "answer4": "あんたの　かばんの　こと　",
+    "result": "本が　大切な　こと",
+    "img": "",
+    "description": "Yamada: Có chuyện gì vậy. Trông cậu không được khỏe..\nNakamura: Tôi  vừa đánh mất  chiếc túi mất rồi.\nYamada: Thế thì gay thật. Cậu có biết bị mất ở đâu không?\nNakamura: Không rõ lắm, nhưng có vẻ là để quên trên xe điện.\nYamada: Đã đến nhà ga hỏi thử chưa?\nNakamura: Tất nhiên rồi. Nhưng không tìm thấy\nYamada: Trong đó có tiền và những thứ quan trọng hả?\nNakamura: Trong đó hầu như không có tiền. Tuy nhiên, trong đó có cuốn sách quan trọng đã mượn của thầy. Một cuốn sách rất quan trọng\nYamada: Vậy à. Nếu trong đó có nhiều tiền, có thể nó sẽ không trở lại, nhưng vì chỉ có cuốn sách nên chắc là không sao đâu.\nNakamura: Vậy à.\nYamada: Người tìm thấy chắc cũng sẽ hiểu về sự quan trọng của cuốn sách này thôi. Bảo đảm người tìm thấy sẽ gửi nó đến nhà ga cho bạn.\n\n\n（1）    \n\n　１　đánh mất mất rồi\n\n　２　đánh mất\n　３　mất mất rồi\n　４　mất\n　\n\n（2） \n\n　１ 　Vẫn chưa\n　２　Sắp rồi.\n　３　Tất nhiên rồi.\n　４　Quả nhiên là vậy.\n（3）\n\n　１　Đã cho mượn\n\n　２　Đã mượn\n\n　３　Đã cho mượn\n　４　Đã mượn\n\n♦借りる:cho mượn\n\n∆ この辞書借りてもいいですか。\n\n♦貸す：mượn\n\n∆ bản thân nó mang nghĩa là đồ của người khác nên bắt buộc phải kèm theo những từ như sau: 「貸してくれる」、「貸してもらう」、「貸していただけく」để nó mang nghĩa là mình đi mượn.\n\n（4）  \n\n　１　Vì đang có trong đó\n　２　Giả sử mà bỏ vào đó\n　３　Dù bỏ vào đó\n　４ 　Vì đã bỏ vào đó\n（　5　）\n\n　１　Sự quan trọng của cuốn sách này\n　２　Thầy giáo của bạn\n　３　Số tiền trong túi\n　４　Túi của bạn\n"
+  }
+]

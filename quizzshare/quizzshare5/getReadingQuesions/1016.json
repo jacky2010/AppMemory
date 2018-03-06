@@ -1,0 +1,57 @@
+[
+  {
+    "id": 11865,
+    "question": "日本で　べんきょうして　いる　学生が　「プレゼント」の　ぶんしょうを　書いて、クラスの　みんなの　前で　読みました。\n\n　ユリさんの　ぶんしょう\n\nわたしが　１０さいに　なったとき、母（1）の　たんじょう日　プレゼントは　一さつの　本でした。とても　おもしろい　本で、すぐに（2）読 んで、それから、また　はじめから　読みました。私は　ねる（3）、よく　その　本を　読みました。その　本は　今も　私の　へやに　あり、ときどき　 読みます。\n\n \n\n サムさんの　ぶんしょう\n\nきょねんの　たんじょう日に　つまが　ネクタイを（4）。青い　ネクタイです。わたしは　ときどき　その　ネクタイを　して　会社に　行きます。 この間　会社の　人が「いい　ネクタイですね」と　言いました。わたしは　とても　うれしかったです。来月は　つまの　たんじょう日が　あります。つまの 　たんじょう日に　わたしも　いい　プレゼントを（5）。\n\n（1）",
+    "answer1": "あげました",
+    "answer2": "もらってください",
+    "answer3": "もらいたい",
+    "answer4": "あげたいです",
+    "result": "あげたいです",
+    "img": "",
+    "description": "日本で　べんきょうして　いる　学生が　「プレゼント」の　ぶんしょうを　書いて、クラスの　みんなの　前で　読みました。\tCác học sinh đang học ở Nhật đã viết đoạn văn về \"Quà tặng\" và đọc trước mọi người trong lớp.\nユリさんの　ぶんしょう\tĐoạn văn của Yuri\nわたしが　１０さいに　なったとき、母（から）の　たんじょう日　プレゼントは　一さつの　本でした。\tKhi tôi 10 tuổi, món quà sinh nhật tôi nhận từ mẹ là một quyển sách.\nとても　おもしろい　本で、すぐに（全部）読 んで、それから、また　はじめから　読みました。\tVì nó quyển sách rất hay nên tôi đã đọc hết ngay, sau đó đọc lại từ đầu.\n私は　ねる（まえに）、よく　その　本を　読みました。\tTôi đã hay đọc quyển sách đó trước khi tôi ngủ.\nその　本は　今も　私の　へやに　あり、ときどき　 読みます。\tQuyển sách đó ngay cả bây giờ cũng ở trong phòng của tôi, thỉnh thoảng tôi cũng đọc nó.\nサムさんの　ぶんしょう\t Đoạn văn của Sam \nきょねんの　たんじょう日に　つまが　ネクタイを（くれました）。\tVào sinh nhật năm ngoái vợ tôi đã tặng tôi chiếc cà vạt.\n青い　ネクタイです。わたしは　ときどき　その　ネクタイを　して　会社に　行きます。\tNó là chiếc cà vạt màu xanh. Thỉnh thoảng tôi thắt cà vạt đó đi làm.\nこの間　会社の　人が「いい　ネクタイですね」と　言いました。わたしは　とても　うれしかったです。\tHôm trước có người trong công ty nói là \"Cà vạt đẹp quá nhỉ.\" Tôi đã rất vui.\n来月は　つまの　たんじょう日が　あります。\tTháng sau tới ngày sinh nhật của vợ tôi.\nつまの 　たんじょう日に　わたしも　いい　プレゼントを（あげたいです）。\tTôi cũng muốn tặng một món quà đẹp vào ngày sinh nhật của vợ mình."
+  },
+  {
+    "id": 11866,
+    "question": "日本で　べんきょうして　いる　学生が　「プレゼント」の　ぶんしょうを　書いて、クラスの　みんなの　前で　読みました。\n\n　ユリさんの　ぶんしょう\n\nわたしが　１０さいに　なったとき、母（1）の　たんじょう日　プレゼントは　一さつの　本でした。とても　おもしろい　本で、すぐに（2）読 んで、それから、また　はじめから　読みました。私は　ねる（3）、よく　その　本を　読みました。その　本は　今も　私の　へやに　あり、ときどき　 読みます。\n\n \n\n サムさんの　ぶんしょう\n\nきょねんの　たんじょう日に　つまが　ネクタイを（4）。青い　ネクタイです。わたしは　ときどき　その　ネクタイを　して　会社に　行きます。 この間　会社の　人が「いい　ネクタイですね」と　言いました。わたしは　とても　うれしかったです。来月は　つまの　たんじょう日が　あります。つまの 　たんじょう日に　わたしも　いい　プレゼントを（5）。\n\n（2）",
+    "answer1": "あげました",
+    "answer2": "くれました",
+    "answer3": "もらいました",
+    "answer4": "やりました",
+    "result": "くれました",
+    "img": "",
+    "description": "日本で　べんきょうして　いる　学生が　「プレゼント」の　ぶんしょうを　書いて、クラスの　みんなの　前で　読みました。\tCác học sinh đang học ở Nhật đã viết đoạn văn về \"Quà tặng\" và đọc trước mọi người trong lớp.\nユリさんの　ぶんしょう\tĐoạn văn của Yuri\nわたしが　１０さいに　なったとき、母（から）の　たんじょう日　プレゼントは　一さつの　本でした。\tKhi tôi 10 tuổi, món quà sinh nhật tôi nhận từ mẹ là một quyển sách.\nとても　おもしろい　本で、すぐに（全部）読 んで、それから、また　はじめから　読みました。\tVì nó quyển sách rất hay nên tôi đã đọc hết ngay, sau đó đọc lại từ đầu.\n私は　ねる（まえに）、よく　その　本を　読みました。\tTôi đã hay đọc quyển sách đó trước khi tôi ngủ.\nその　本は　今も　私の　へやに　あり、ときどき　 読みます。\tQuyển sách đó ngay cả bây giờ cũng ở trong phòng của tôi, thỉnh thoảng tôi cũng đọc nó.\nサムさんの　ぶんしょう\t Đoạn văn của Sam \nきょねんの　たんじょう日に　つまが　ネクタイを（くれました）。\tVào sinh nhật năm ngoái vợ tôi đã tặng tôi chiếc cà vạt.\n青い　ネクタイです。わたしは　ときどき　その　ネクタイを　して　会社に　行きます。\tNó là chiếc cà vạt màu xanh. Thỉnh thoảng tôi thắt cà vạt đó đi làm.\nこの間　会社の　人が「いい　ネクタイですね」と　言いました。わたしは　とても　うれしかったです。\tHôm trước có người trong công ty nói là \"Cà vạt đẹp quá nhỉ.\" Tôi đã rất vui.\n来月は　つまの　たんじょう日が　あります。\tTháng sau tới ngày sinh nhật của vợ tôi.\nつまの 　たんじょう日に　わたしも　いい　プレゼントを（あげたいです）。\tTôi cũng muốn tặng một món quà đẹp vào ngày sinh nhật của vợ mình."
+  },
+  {
+    "id": 11867,
+    "question": "日本で　べんきょうして　いる　学生が　「プレゼント」の　ぶんしょうを　書いて、クラスの　みんなの　前で　読みました。\n\n　ユリさんの　ぶんしょう\n\nわたしが　１０さいに　なったとき、母（1）の　たんじょう日　プレゼントは　一さつの　本でした。とても　おもしろい　本で、すぐに（2）読 んで、それから、また　はじめから　読みました。私は　ねる（3）、よく　その　本を　読みました。その　本は　今も　私の　へやに　あり、ときどき　 読みます。\n\n \n\n サムさんの　ぶんしょう\n\nきょねんの　たんじょう日に　つまが　ネクタイを（4）。青い　ネクタイです。わたしは　ときどき　その　ネクタイを　して　会社に　行きます。 この間　会社の　人が「いい　ネクタイですね」と　言いました。わたしは　とても　うれしかったです。来月は　つまの　たんじょう日が　あります。つまの 　たんじょう日に　わたしも　いい　プレゼントを（5）。\n\n（3）",
+    "answer1": "まえに",
+    "answer2": "あとで",
+    "answer3": "から",
+    "answer4": "あいだ",
+    "result": "まえに",
+    "img": "",
+    "description": "日本で　べんきょうして　いる　学生が　「プレゼント」の　ぶんしょうを　書いて、クラスの　みんなの　前で　読みました。\tCác học sinh đang học ở Nhật đã viết đoạn văn về \"Quà tặng\" và đọc trước mọi người trong lớp.\nユリさんの　ぶんしょう\tĐoạn văn của Yuri\nわたしが　１０さいに　なったとき、母（から）の　たんじょう日　プレゼントは　一さつの　本でした。\tKhi tôi 10 tuổi, món quà sinh nhật tôi nhận từ mẹ là một quyển sách.\nとても　おもしろい　本で、すぐに（全部）読 んで、それから、また　はじめから　読みました。\tVì nó quyển sách rất hay nên tôi đã đọc hết ngay, sau đó đọc lại từ đầu.\n私は　ねる（まえに）、よく　その　本を　読みました。\tTôi đã hay đọc quyển sách đó trước khi tôi ngủ.\nその　本は　今も　私の　へやに　あり、ときどき　 読みます。\tQuyển sách đó ngay cả bây giờ cũng ở trong phòng của tôi, thỉnh thoảng tôi cũng đọc nó.\nサムさんの　ぶんしょう\t Đoạn văn của Sam \nきょねんの　たんじょう日に　つまが　ネクタイを（くれました）。\tVào sinh nhật năm ngoái vợ tôi đã tặng tôi chiếc cà vạt.\n青い　ネクタイです。わたしは　ときどき　その　ネクタイを　して　会社に　行きます。\tNó là chiếc cà vạt màu xanh. Thỉnh thoảng tôi thắt cà vạt đó đi làm.\nこの間　会社の　人が「いい　ネクタイですね」と　言いました。わたしは　とても　うれしかったです。\tHôm trước có người trong công ty nói là \"Cà vạt đẹp quá nhỉ.\" Tôi đã rất vui.\n来月は　つまの　たんじょう日が　あります。\tTháng sau tới ngày sinh nhật của vợ tôi.\nつまの 　たんじょう日に　わたしも　いい　プレゼントを（あげたいです）。\tTôi cũng muốn tặng một món quà đẹp vào ngày sinh nhật của vợ mình."
+  },
+  {
+    "id": 11868,
+    "question": "日本で　べんきょうして　いる　学生が　「プレゼント」の　ぶんしょうを　書いて、クラスの　みんなの　前で　読みました。\n\n　ユリさんの　ぶんしょう\n\nわたしが　１０さいに　なったとき、母（1）の　たんじょう日　プレゼントは　一さつの　本でした。とても　おもしろい　本で、すぐに（2）読 んで、それから、また　はじめから　読みました。私は　ねる（3）、よく　その　本を　読みました。その　本は　今も　私の　へやに　あり、ときどき　 読みます。\n\n \n\n サムさんの　ぶんしょう\n\nきょねんの　たんじょう日に　つまが　ネクタイを（4）。青い　ネクタイです。わたしは　ときどき　その　ネクタイを　して　会社に　行きます。 この間　会社の　人が「いい　ネクタイですね」と　言いました。わたしは　とても　うれしかったです。来月は　つまの　たんじょう日が　あります。つまの 　たんじょう日に　わたしも　いい　プレゼントを（5）。\n\n（4）",
+    "answer1": "少し",
+    "answer2": "ちょっと",
+    "answer3": "ひとつ",
+    "answer4": "ぜんぶ",
+    "result": "ぜんぶ",
+    "img": "",
+    "description": "日本で　べんきょうして　いる　学生が　「プレゼント」の　ぶんしょうを　書いて、クラスの　みんなの　前で　読みました。\tCác học sinh đang học ở Nhật đã viết đoạn văn về \"Quà tặng\" và đọc trước mọi người trong lớp.\nユリさんの　ぶんしょう\tĐoạn văn của Yuri\nわたしが　１０さいに　なったとき、母（から）の　たんじょう日　プレゼントは　一さつの　本でした。\tKhi tôi 10 tuổi, món quà sinh nhật tôi nhận từ mẹ là một quyển sách.\nとても　おもしろい　本で、すぐに（全部）読 んで、それから、また　はじめから　読みました。\tVì nó quyển sách rất hay nên tôi đã đọc hết ngay, sau đó đọc lại từ đầu.\n私は　ねる（まえに）、よく　その　本を　読みました。\tTôi đã hay đọc quyển sách đó trước khi tôi ngủ.\nその　本は　今も　私の　へやに　あり、ときどき　 読みます。\tQuyển sách đó ngay cả bây giờ cũng ở trong phòng của tôi, thỉnh thoảng tôi cũng đọc nó.\nサムさんの　ぶんしょう\t Đoạn văn của Sam \nきょねんの　たんじょう日に　つまが　ネクタイを（くれました）。\tVào sinh nhật năm ngoái vợ tôi đã tặng tôi chiếc cà vạt.\n青い　ネクタイです。わたしは　ときどき　その　ネクタイを　して　会社に　行きます。\tNó là chiếc cà vạt màu xanh. Thỉnh thoảng tôi thắt cà vạt đó đi làm.\nこの間　会社の　人が「いい　ネクタイですね」と　言いました。わたしは　とても　うれしかったです。\tHôm trước có người trong công ty nói là \"Cà vạt đẹp quá nhỉ.\" Tôi đã rất vui.\n来月は　つまの　たんじょう日が　あります。\tTháng sau tới ngày sinh nhật của vợ tôi.\nつまの 　たんじょう日に　わたしも　いい　プレゼントを（あげたいです）。\tTôi cũng muốn tặng một món quà đẹp vào ngày sinh nhật của vợ mình."
+  },
+  {
+    "id": 11869,
+    "question": "日本で　べんきょうして　いる　学生が　「プレゼント」の　ぶんしょうを　書いて、クラスの　みんなの　前で　読みました。\n\n　ユリさんの　ぶんしょう\n\nわたしが　１０さいに　なったとき、母（1）の　たんじょう日　プレゼントは　一さつの　本でした。とても　おもしろい　本で、すぐに（2）読 んで、それから、また　はじめから　読みました。私は　ねる（3）、よく　その　本を　読みました。その　本は　今も　私の　へやに　あり、ときどき　 読みます。\n\n \n\n サムさんの　ぶんしょう\n\nきょねんの　たんじょう日に　つまが　ネクタイを（4）。青い　ネクタイです。わたしは　ときどき　その　ネクタイを　して　会社に　行きます。 この間　会社の　人が「いい　ネクタイですね」と　言いました。わたしは　とても　うれしかったです。来月は　つまの　たんじょう日が　あります。つまの 　たんじょう日に　わたしも　いい　プレゼントを（5）。\n\n（5）",
+    "answer1": "と",
+    "answer2": "へ",
+    "answer3": "から",
+    "answer4": "まで",
+    "result": "から",
+    "img": "",
+    "description": "日本で　べんきょうして　いる　学生が　「プレゼント」の　ぶんしょうを　書いて、クラスの　みんなの　前で　読みました。\tCác học sinh đang học ở Nhật đã viết đoạn văn về \"Quà tặng\" và đọc trước mọi người trong lớp.\nユリさんの　ぶんしょう\tĐoạn văn của Yuri\nわたしが　１０さいに　なったとき、母（から）の　たんじょう日　プレゼントは　一さつの　本でした。\tKhi tôi 10 tuổi, món quà sinh nhật tôi nhận từ mẹ là một quyển sách.\nとても　おもしろい　本で、すぐに（全部）読 んで、それから、また　はじめから　読みました。\tVì nó quyển sách rất hay nên tôi đã đọc hết ngay, sau đó đọc lại từ đầu.\n私は　ねる（まえに）、よく　その　本を　読みました。\tTôi đã hay đọc quyển sách đó trước khi tôi ngủ.\nその　本は　今も　私の　へやに　あり、ときどき　 読みます。\tQuyển sách đó ngay cả bây giờ cũng ở trong phòng của tôi, thỉnh thoảng tôi cũng đọc nó.\nサムさんの　ぶんしょう\t Đoạn văn của Sam \nきょねんの　たんじょう日に　つまが　ネクタイを（くれました）。\tVào sinh nhật năm ngoái vợ tôi đã tặng tôi chiếc cà vạt.\n青い　ネクタイです。わたしは　ときどき　その　ネクタイを　して　会社に　行きます。\tNó là chiếc cà vạt màu xanh. Thỉnh thoảng tôi thắt cà vạt đó đi làm.\nこの間　会社の　人が「いい　ネクタイですね」と　言いました。わたしは　とても　うれしかったです。\tHôm trước có người trong công ty nói là \"Cà vạt đẹp quá nhỉ.\" Tôi đã rất vui.\n来月は　つまの　たんじょう日が　あります。\tTháng sau tới ngày sinh nhật của vợ tôi.\nつまの 　たんじょう日に　わたしも　いい　プレゼントを（あげたいです）。\tTôi cũng muốn tặng một món quà đẹp vào ngày sinh nhật của vợ mình."
+  }
+]
