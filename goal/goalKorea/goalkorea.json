@@ -1,5 +1,5 @@
 {
   "isAction": true,
   "versionCode": 9,
-  "exclude" : [6,7]
+  "exclude" : [5,6,7]
 }
