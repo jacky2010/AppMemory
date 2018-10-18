@@ -1,4 +1,6 @@
 {
   "isAction": true,
-  "versionCode": 10
+  "versionCode": 10,
+  "update": "ver10",
+  "message": ""
 }
