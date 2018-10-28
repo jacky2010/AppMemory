@@ -2,7 +2,12 @@
   "isAction": true,
   "versionCode": 2,
   "update": "",
-  "message": "",
+  "title": "Release new version fix bugs",
+  "message": "-Fix bug UI screen\n-Update link HD\n",
+  "msgUpdate": "Update",
+  "msgCancel": "Cancel",
+  "timeStart": 3,
+  "timeDelay": 6,
   "data": [
     {
       "name": "NCAA Football Live Streaming",
