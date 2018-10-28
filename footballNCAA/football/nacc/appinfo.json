@@ -6,8 +6,8 @@
   "message": "-Fix bug UI screen\n-Update link HD\n",
   "msgUpdate": "Update",
   "msgCancel": "Cancel",
-  "timeStart": 8,
-  "timeDelay": 5,
+  "timeStart": 120,
+  "timeDelay": 30,
   "data": [
     {
       "name": "NCAA Football Live Streaming",
