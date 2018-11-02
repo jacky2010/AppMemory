@@ -18,6 +18,11 @@
       "name": "NFL Football Live Streaming",
       "link": "https://play.google.com/store/apps/details?id=com.football.nfl.stream",
       "icon": ""
+    },
+    {
+      "name": "Video Downloader - for Instagram Repost App",
+      "link": "https://play.google.com/store/apps/details?id=com.download.video_or_image.instagram",
+      "icon": "https://raw.githubusercontent.com/jacky2010/AppMemory/master/DownLoadAllNetWork/icon/ic_launcher_round.png"
     }
   ]
 }
