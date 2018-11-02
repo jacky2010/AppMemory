@@ -1,0 +1,23 @@
+{
+  "isAction": true,
+  "versionCode": 1,
+  "update": "",
+  "title": "Release new version fix bugs",
+  "message": "-Fix bug UI screen\n-Update link HD\n",
+  "msgUpdate": "Update",
+  "msgCancel": "Cancel",
+  "timeStart": 120,
+  "timeDelay": 30,
+  "data": [
+    {
+      "name": "NCAA Football Live Streaming",
+      "link": "https://play.google.com/store/apps/details?id=com.footballncaa.stream",
+      "icon": ""
+    },
+    {
+      "name": "NFL Football Live Streaming",
+      "link": "https://play.google.com/store/apps/details?id=com.football.nfl.stream",
+      "icon": ""
+    }
+  ]
+}
