@@ -1,9 +1,9 @@
 {
   "isAction": true,
-  "versionCode": 2,
+  "versionCode": 4,
   "update": "",
   "title": "Release new version fix bugs",
-  "message": "-Fix bug watch video HD\n-Fix bug UI screen\n-Update link HD\n",
+  "message": "-Sorry we are under attack from one or few users. I edited it to update the new version after thirty minutes",
   "msgUpdate": "Update",
   "msgCancel": "Cancel",
   "timeStart": 30,
