@@ -1,494 +1,133 @@
 [
-  {
-    "id": 401030829,
-    "sportId": 1001,
-    "tournament": "NFL",
-    "startDate": "2018-11-04T21:05:00Z",
-    "links": [
-      {
-        "id": 14569,
-        "name": "MX Player",
-        "src": "http://nfl4-redirect.cfapps.io/api/nfl/m3u8/https://neuclnlds87dal.akamaized.net/nlds/nfl/broncos/as/live/broncos_hd_3000_pc.m3u8?hdntl=exp=1541449860~acl=/*~data=hdntl~hmac=bd539d55969e520e27fe92d476b896cef33f84a9e1e1220bae7fb4076e0547b5",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 14582,
-        "name": "YouTube RedZone",
-        "src": "http://www.dofustream.com/external.html?url=U2FsdGVkX1/rnWrSa2vopUa2rRkhzwSW8RIEZhGAQKq0dRm4Qln9GDALtGxN7tEAiCkjwVBh6+ZKgP/dsB96Nw==",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 14568,
-        "name": "YouTube HD",
-        "src": "http://www.dofustream.com/external.html?url=U2FsdGVkX19yMSUkhMkyp2/qI+gRVxurOPmB8HgfhpzBPzCdpPvuBM1heUTfcaLDUgSPmEb77FqJPCCDnL6LFA==",
-        "platform": "ALL",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 14574,
-        "name": "MX Player (Or M3U8 Player)",
-        "src": "http://06ecbd.streamerz.xyz/nfl/97648a_broncos.m3u8",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 14578,
-        "name": "US Only",
-        "src": "http://ripple.is/live/nfl8.html",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 14577,
-        "name": "HD 1",
-        "src": "http://www.dofustream.com/player.html?u=U2FsdGVkX1+GDMkc6hpSONSs6wMoibk8IsESxBVXupqJVYY/hhyK7mgZ41I5fLiCkwaU3e1U6qAbRCo7Eqg7hKjaqDH2OhDV76T0PC8oIjfg4svxeNFWkIzMaEsnDD4tNMqjIswuU/BhaMeOjweNTnh/VJSsTHVP30WMU4nEsgZNTj+tbBzaWpkh+t0DU2G0",
-        "platform": "ALL",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 14545,
-        "name": "MX Player RedZone",
-        "src": "http://nfl4-redirect.cfapps.io/api/nfl/m3u8/https://neuclnlds222.akamaized.net/nlds/nfl/nflxrz/as/live/nflxrz_hd_3000_pc.m3u8?hdntl=exp=1541438899~acl=/*~data=hdntl~hmac=03b260239aece312101697cebc74a2af48836e18faf3f99b2edc2b24d73c7ec2",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      }
-    ],
-    "eventDTO": {
-      "eventId": 401030829,
-      "home": {
-        "id": 27,
+    {
+        "id": 401030858,
+        "sportId": 1001,
         "tournament": "NFL",
-        "teamId": "den",
-        "division": "AFC West",
-        "longName": "Denver",
-        "fullName": "Denver Broncos",
-        "rankInDivision": "1st in AFC West",
-        "record": "3-5, 2-2 Home",
-        "urlTeam": "http://www.espn.com/nfl/team/_/name/den/denver-broncos",
-        "shortName": "Broncos",
-        "points": null,
-        "winner": false,
-        "score": 10,
-        "lineScores": [
-          3,
-          7
+        "startDate": "2018-11-05T01:20:00Z",
+        "links": [
+            {
+                "id": 14589,
+                "name": "Youtube HD",
+                "src": "http://www.dofustream.com/external.html?url=U2FsdGVkX1/Hus1EfJW1wvWtie1fGI+yUxiEa4z1xhJTDHCKPxw6Plgze2tI+nuo/nnO5PHqzBYiv1tF+EIAFw==&my_app=true",
+                "platform": "MOBILE",
+                "type": "URL",
+                "isExternal": true,
+                "isCrawler": false,
+                "external": true
+            }
         ],
-        "gb": null,
-        "win": null,
-        "lose": null,
-        "rank": null,
-        "vote": null,
-        "trend": null,
-        "otl": null
-      },
-      "away": {
-        "id": 88,
+        "eventDTO": {
+            "eventId": 401030858,
+            "home": {
+                "id": 42,
+                "tournament": "NFL",
+                "teamId": "ne",
+                "division": "AFC East",
+                "longName": "New England",
+                "fullName": "New England Patriots",
+                "rankInDivision": "1st in AFC East",
+                "record": "6-2, 4-0 Home",
+                "urlTeam": "http://www.espn.com/nfl/team/_/name/ne/new-england-patriots",
+                "shortName": "Patriots",
+                "points": null,
+                "winner": true,
+                "score": 7,
+                "lineScores": [
+                    7
+                ],
+                "gb": null,
+                "win": null,
+                "lose": null,
+                "rank": null,
+                "vote": null,
+                "trend": null,
+                "otl": null
+            },
+            "away": {
+                "id": 3,
+                "tournament": "NFL",
+                "teamId": "gb",
+                "division": "NFC North",
+                "longName": "Green Bay",
+                "fullName": "Green Bay Packers",
+                "rankInDivision": "1st in NFC North",
+                "record": "3-3-1, 0-3 Away",
+                "urlTeam": "http://www.espn.com/nfl/team/_/name/gb/green-bay-packers",
+                "shortName": "Packers",
+                "points": null,
+                "winner": false,
+                "score": 3,
+                "lineScores": [
+                    3
+                ],
+                "gb": null,
+                "win": null,
+                "lose": null,
+                "rank": null,
+                "vote": null,
+                "trend": null,
+                "otl": null
+            },
+            "startDate": "2018-11-05T01:20:00Z",
+            "displayClock": "0:14 - 1st"
+        }
+    },
+    {
+        "id": 401030862,
+        "sportId": 1001,
         "tournament": "NFL",
-        "teamId": "hou",
-        "division": "AFC South",
-        "longName": "Houston",
-        "fullName": "Houston Texans",
-        "rankInDivision": "1st in AFC South",
-        "record": "5-3, 2-2 Away",
-        "urlTeam": "http://www.espn.com/nfl/team/_/name/hou/houston-texans",
-        "shortName": "Texans",
-        "points": null,
-        "winner": true,
-        "score": 13,
-        "lineScores": [
-          7,
-          6
-        ],
-        "gb": null,
-        "win": null,
-        "lose": null,
-        "rank": null,
-        "vote": null,
-        "trend": null,
-        "otl": null
-      },
-      "startDate": "2018-11-04T21:05:00Z",
-      "displayClock": "0:03 - 2nd"
+        "startDate": "2018-11-06T01:15:00Z",
+        "links": [],
+        "eventDTO": {
+            "eventId": 401030862,
+            "home": {
+                "id": 143,
+                "tournament": "NFL",
+                "teamId": "dal",
+                "division": "NFC East",
+                "longName": "Dallas",
+                "fullName": "Dallas Cowboys",
+                "rankInDivision": "1st in NFC East",
+                "record": "3-4, 3-0 Home",
+                "urlTeam": "http://www.espn.com/nfl/team/_/name/dal/dallas-cowboys",
+                "shortName": "Cowboys",
+                "points": null,
+                "winner": null,
+                "score": null,
+                "lineScores": null,
+                "gb": null,
+                "win": null,
+                "lose": null,
+                "rank": null,
+                "vote": null,
+                "trend": null,
+                "otl": null
+            },
+            "away": {
+                "id": 249,
+                "tournament": "NFL",
+                "teamId": "ten",
+                "division": "AFC South",
+                "longName": "Tennessee",
+                "fullName": "Tennessee Titans",
+                "rankInDivision": "1st in AFC South",
+                "record": "3-4, 1-3 Away",
+                "urlTeam": "http://www.espn.com/nfl/team/_/name/ten/tennessee-titans",
+                "shortName": "Titans",
+                "points": null,
+                "winner": null,
+                "score": null,
+                "lineScores": null,
+                "gb": null,
+                "win": null,
+                "lose": null,
+                "rank": null,
+                "vote": null,
+                "trend": null,
+                "otl": null
+            },
+            "startDate": "2018-11-06T01:15:00Z",
+            "network": "ESPN"
+        }
     }
-  },
-  {
-    "id": 401030852,
-    "sportId": 1001,
-    "tournament": "NFL",
-    "startDate": "2018-11-04T21:05:00Z",
-    "links": [
-      {
-        "id": 14571,
-        "name": "MX Player",
-        "src": "http://nfl4-redirect.cfapps.io/api/nfl/m3u8/https://neuclnlds85dal.akamaized.net/nlds/nfl/seahawks/as/live/seahawks_hd_3000_pc.m3u8?hdntl=exp=1541449899~acl=/*~data=hdntl~hmac=9e3f1c58f8638e1b0c89d256e31bb6debba834c11b471ad72557a6b9518c4854",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 14570,
-        "name": "YouTube HD",
-        "src": "http://www.dofustream.com/external.html?url=U2FsdGVkX18efQlXIIaTBw+QMLz5OP7Ug0eR73mhdY1omiRwZu4FGj8CHn28W6dLdXComKnwTQqK/kcuwSsBKg==",
-        "platform": "ALL",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 14573,
-        "name": "M3U8",
-        "src": "http://06ecbd.streamerz.xyz/nfl/47b75a_seahawks.m3u8",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 14580,
-        "name": "US Only",
-        "src": "http://ripple.is/live/nfl9.html",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 14579,
-        "name": "HD 1",
-        "src": "http://www.dofustream.com/player.html?u=U2FsdGVkX1+LlSt12VXe8KeDU2qHGy5d53qj051/88mmKeMY1QsZVVBL7SJZW1biTXFAyosEFD09NWgTa3yoDaz7IfJ6yE4d8MBq3qTViwDU+tojkD6HXR/z4KYTOfUiAOnUGSkJiraXqw6qgjYnmqZaYwdzpNrOYORB9QvbId1U9Zl0AO7QEQFvh4EcVasc",
-        "platform": "ALL",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      }
-    ],
-    "eventDTO": {
-      "eventId": 401030852,
-      "home": {
-        "id": 106,
-        "tournament": "NFL",
-        "teamId": "sea",
-        "division": "NFC West",
-        "longName": "Seattle",
-        "fullName": "Seattle Seahawks",
-        "rankInDivision": "1st in NFC West",
-        "record": "4-3, 1-1 Home",
-        "urlTeam": "http://www.espn.com/nfl/team/_/name/sea/seattle-seahawks",
-        "shortName": "Seahawks",
-        "points": null,
-        "winner": false,
-        "score": 7,
-        "lineScores": [
-          7,
-          0
-        ],
-        "gb": null,
-        "win": null,
-        "lose": null,
-        "rank": null,
-        "vote": null,
-        "trend": null,
-        "otl": null
-      },
-      "away": {
-        "id": 172,
-        "tournament": "NFL",
-        "teamId": "lac",
-        "division": "AFC West",
-        "longName": "Los Angeles",
-        "fullName": "Los Angeles Chargers",
-        "rankInDivision": "1st in AFC West",
-        "record": "5-2, 2-1 Away",
-        "urlTeam": "http://www.espn.com/nfl/team/_/name/lac/los-angeles-chargers",
-        "shortName": "Chargers",
-        "points": null,
-        "winner": true,
-        "score": 19,
-        "lineScores": [
-          6,
-          13
-        ],
-        "gb": null,
-        "win": null,
-        "lose": null,
-        "rank": null,
-        "vote": null,
-        "trend": null,
-        "otl": null
-      },
-      "startDate": "2018-11-04T21:05:00Z",
-      "displayClock": "End of 2nd"
-    }
-  },
-  {
-    "id": 401030855,
-    "sportId": 1001,
-    "tournament": "NFL",
-    "startDate": "2018-11-04T21:25:00Z",
-    "links": [
-      {
-        "id": 14572,
-        "name": "YouTube HD",
-        "src": "http://www.dofustream.com/external.html?url=U2FsdGVkX1/BKZoluthfLrxX6eTVHH/iGkDicmsTfsc0hV/nGLlUeSJuEuevpFsBSN9U0nyJKjLnCS4fYuhcCw==",
-        "platform": "ALL",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 14575,
-        "name": "MX Player (Or M3U8 Player)",
-        "src": "http://nfl4-redirect.cfapps.io/api/nfl/m3u8/https://neuclnlds62dal.akamaized.net/nlds/nfl/saints/as/live/saints_hd_3000_pc.m3u8?hdntl=exp=1541451470~acl=/*~data=hdntl~hmac=8b5be1fb28a6721cae99629ef81eb613db349e96b4bbcb18eaa18b6371c1cb0d",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 14581,
-        "name": "US Only",
-        "src": "http://ripple.is/live/nfl10.html",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 14576,
-        "name": "MX Player",
-        "src": "http://b15c5c.streamerz.xyz/nfl/675fff_saints.m3u8",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      }
-    ],
-    "eventDTO": {
-      "eventId": 401030855,
-      "home": {
-        "id": 203,
-        "tournament": "NFL",
-        "teamId": "no",
-        "division": "NFC South",
-        "longName": "New Orleans",
-        "fullName": "New Orleans Saints",
-        "rankInDivision": "1st in NFC South",
-        "record": "6-1, 2-1 Home",
-        "urlTeam": "http://www.espn.com/nfl/team/_/name/no/new-orleans-saints",
-        "shortName": "Saints",
-        "points": null,
-        "winner": true,
-        "score": 21,
-        "lineScores": [
-          14,
-          7
-        ],
-        "gb": null,
-        "win": null,
-        "lose": null,
-        "rank": null,
-        "vote": null,
-        "trend": null,
-        "otl": null
-      },
-      "away": {
-        "id": 183,
-        "tournament": "NFL",
-        "teamId": "lar",
-        "division": "NFC West",
-        "longName": "Los Angeles",
-        "fullName": "Los Angeles Rams",
-        "rankInDivision": "1st in NFC West",
-        "record": "8-0, 4-0 Away",
-        "urlTeam": "http://www.espn.com/nfl/team/_/name/lar/los-angeles-rams",
-        "shortName": "Rams",
-        "points": null,
-        "winner": false,
-        "score": 14,
-        "lineScores": [
-          7,
-          7
-        ],
-        "gb": null,
-        "win": null,
-        "lose": null,
-        "rank": null,
-        "vote": null,
-        "trend": null,
-        "otl": null
-      },
-      "startDate": "2018-11-04T21:25:00Z",
-      "displayClock": "3:30 - 2nd"
-    }
-  },
-  {
-    "id": 401030858,
-    "sportId": 1001,
-    "tournament": "NFL",
-    "startDate": "2018-11-05T01:20:00Z",
-    "links": [
-      {
-        "id": 14583,
-        "name": "YouTube RedZone",
-        "src": "http://www.dofustream.com/external.html?url=U2FsdGVkX19o9ymyh4L67LxPlblFaBbAUku2Jf6dlslGw75wV2K89RJp+SzCSVx33DHfWd84fcH09gbkvXLujQ==",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 14546,
-        "name": "MX Player RedZone",
-        "src": "http://nfl4-redirect.cfapps.io/api/nfl/m3u8/https://neuclnlds222.akamaized.net/nlds/nfl/nflxrz/as/live/nflxrz_hd_3000_pc.m3u8?hdntl=exp=1541438899~acl=/*~data=hdntl~hmac=03b260239aece312101697cebc74a2af48836e18faf3f99b2edc2b24d73c7ec2",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      }
-    ],
-    "eventDTO": {
-      "eventId": 401030858,
-      "home": {
-        "id": 42,
-        "tournament": "NFL",
-        "teamId": "ne",
-        "division": "AFC East",
-        "longName": "New England",
-        "fullName": "New England Patriots",
-        "rankInDivision": "1st in AFC East",
-        "record": "6-2, 4-0 Home",
-        "urlTeam": "http://www.espn.com/nfl/team/_/name/ne/new-england-patriots",
-        "shortName": "Patriots",
-        "points": null,
-        "winner": null,
-        "score": null,
-        "lineScores": null,
-        "gb": null,
-        "win": null,
-        "lose": null,
-        "rank": null,
-        "vote": null,
-        "trend": null,
-        "otl": null
-      },
-      "away": {
-        "id": 3,
-        "tournament": "NFL",
-        "teamId": "gb",
-        "division": "NFC North",
-        "longName": "Green Bay",
-        "fullName": "Green Bay Packers",
-        "rankInDivision": "1st in NFC North",
-        "record": "3-3-1, 0-3 Away",
-        "urlTeam": "http://www.espn.com/nfl/team/_/name/gb/green-bay-packers",
-        "shortName": "Packers",
-        "points": null,
-        "winner": null,
-        "score": null,
-        "lineScores": null,
-        "gb": null,
-        "win": null,
-        "lose": null,
-        "rank": null,
-        "vote": null,
-        "trend": null,
-        "otl": null
-      },
-      "startDate": "2018-11-05T01:20:00Z",
-      "network": "NBC"
-    }
-  },
-  {
-    "id": 401030862,
-    "sportId": 1001,
-    "tournament": "NFL",
-    "startDate": "2018-11-06T01:15:00Z",
-    "links": [],
-    "eventDTO": {
-      "eventId": 401030862,
-      "home": {
-        "id": 143,
-        "tournament": "NFL",
-        "teamId": "dal",
-        "division": "NFC East",
-        "longName": "Dallas",
-        "fullName": "Dallas Cowboys",
-        "rankInDivision": "1st in NFC East",
-        "record": "3-4, 3-0 Home",
-        "urlTeam": "http://www.espn.com/nfl/team/_/name/dal/dallas-cowboys",
-        "shortName": "Cowboys",
-        "points": null,
-        "winner": null,
-        "score": null,
-        "lineScores": null,
-        "gb": null,
-        "win": null,
-        "lose": null,
-        "rank": null,
-        "vote": null,
-        "trend": null,
-        "otl": null
-      },
-      "away": {
-        "id": 249,
-        "tournament": "NFL",
-        "teamId": "ten",
-        "division": "AFC South",
-        "longName": "Tennessee",
-        "fullName": "Tennessee Titans",
-        "rankInDivision": "1st in AFC South",
-        "record": "3-4, 1-3 Away",
-        "urlTeam": "http://www.espn.com/nfl/team/_/name/ten/tennessee-titans",
-        "shortName": "Titans",
-        "points": null,
-        "winner": null,
-        "score": null,
-        "lineScores": null,
-        "gb": null,
-        "win": null,
-        "lose": null,
-        "rank": null,
-        "vote": null,
-        "trend": null,
-        "otl": null
-      },
-      "startDate": "2018-11-06T01:15:00Z",
-      "network": "ESPN"
-    }
-  }
 ]
