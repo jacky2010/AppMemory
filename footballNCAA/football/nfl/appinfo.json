@@ -8,7 +8,7 @@
   "message": "-Sorry we are under attack from one or few users.I fixed it. Sorry everyone\n Fix bug crash ",
   "msgUpdate": "Update",
   "msgCancel": "Cancel",
-  "changeUrl": false,
+  "changeUrl": true,
   "timeStart": 30,
   "timeDelay": 180,
   "data": [
