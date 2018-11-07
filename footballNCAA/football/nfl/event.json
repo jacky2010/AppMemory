@@ -1,7 +1,22 @@
-{
-    "tournament": "NFL",
-    "events": [
-        {
+[
+    {
+        "id": 401030729,
+        "sportId": 1001,
+        "tournament": "NFL",
+        "startDate": "2018-11-09T01:20:00Z",
+        "links": [
+            {
+                "id": 15016,
+                "name": "NFL Network",
+                "src": "http://m.ok.ru/live/1901860429395?my_app=true",
+                "platform": "MOBILE",
+                "type": "URL",
+                "isExternal": true,
+                "isCrawler": false,
+                "external": true
+            }
+        ],
+        "eventDTO": {
             "eventId": 401030729,
             "home": {
                 "id": 100,
@@ -11,13 +26,13 @@
                 "longName": "Pittsburgh",
                 "fullName": "Pittsburgh Steelers",
                 "rankInDivision": "1st in AFC North",
-                "record": "(5-2-1)",
+                "record": "5-2-1, 2-2 Home",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers",
                 "shortName": "Steelers",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -34,13 +49,13 @@
                 "longName": "Carolina",
                 "fullName": "Carolina Panthers",
                 "rankInDivision": "1st in NFC South",
-                "record": "(6-2)",
+                "record": "6-2, 1-2 Away",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/car/carolina-panthers",
                 "shortName": "Panthers",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -50,62 +65,16 @@
                 "otl": null
             },
             "startDate": "2018-11-09T01:20:00Z",
-            "status": "pre",
-            "network": "FOX"
-        },
-        {
-            "eventId": 401030810,
-            "home": {
-                "id": 159,
-                "tournament": "NFL",
-                "teamId": "chi",
-                "division": "NFC North",
-                "longName": "Chicago",
-                "fullName": "Chicago Bears",
-                "rankInDivision": "1st in NFC North",
-                "record": "(5-3)",
-                "urlTeam": "http://www.espn.com/nfl/team/_/name/chi/chicago-bears",
-                "shortName": "Bears",
-                "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": [],
-                "gb": null,
-                "win": null,
-                "lose": null,
-                "rank": null,
-                "vote": null,
-                "trend": null,
-                "otl": null
-            },
-            "away": {
-                "id": 71,
-                "tournament": "NFL",
-                "teamId": "det",
-                "division": "NFC North",
-                "longName": "Detroit",
-                "fullName": "Detroit Lions",
-                "rankInDivision": "1st in NFC North",
-                "record": "(3-5)",
-                "urlTeam": "http://www.espn.com/nfl/team/_/name/det/detroit-lions",
-                "shortName": "Lions",
-                "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": [],
-                "gb": null,
-                "win": null,
-                "lose": null,
-                "rank": null,
-                "vote": null,
-                "trend": null,
-                "otl": null
-            },
-            "startDate": "2018-11-11T18:00:00Z",
-            "status": "pre",
-            "network": "FOX"
-        },
-        {
+            "network": "FOX/NFL"
+        }
+    },
+    {
+        "id": 401030752,
+        "sportId": 1001,
+        "tournament": "NFL",
+        "startDate": "2018-11-11T18:00:00Z",
+        "links": [],
+        "eventDTO": {
             "eventId": 401030752,
             "home": {
                 "id": 252,
@@ -115,13 +84,13 @@
                 "longName": "Cincinnati",
                 "fullName": "Cincinnati Bengals",
                 "rankInDivision": "1st in AFC North",
-                "record": "(5-3)",
+                "record": "5-3, 3-1 Home",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals",
                 "shortName": "Bengals",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -138,13 +107,13 @@
                 "longName": "New Orleans",
                 "fullName": "New Orleans Saints",
                 "rankInDivision": "1st in NFC South",
-                "record": "(7-1)",
+                "record": "7-1, 4-0 Away",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/no/new-orleans-saints",
                 "shortName": "Saints",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -154,10 +123,16 @@
                 "otl": null
             },
             "startDate": "2018-11-11T18:00:00Z",
-            "status": "pre",
             "network": "FOX"
-        },
-        {
+        }
+    },
+    {
+        "id": 401030754,
+        "sportId": 1001,
+        "tournament": "NFL",
+        "startDate": "2018-11-11T18:00:00Z",
+        "links": [],
+        "eventDTO": {
             "eventId": 401030754,
             "home": {
                 "id": 151,
@@ -167,13 +142,13 @@
                 "longName": "Cleveland",
                 "fullName": "Cleveland Browns",
                 "rankInDivision": "1st in AFC North",
-                "record": "(2-6-1)",
+                "record": "2-6-1, 2-2-1 Home",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/cle/cleveland-browns",
                 "shortName": "Browns",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -190,13 +165,13 @@
                 "longName": "Atlanta",
                 "fullName": "Atlanta Falcons",
                 "rankInDivision": "1st in NFC South",
-                "record": "(4-4)",
+                "record": "4-4, 1-2 Away",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/atl/atlanta-falcons",
                 "shortName": "Falcons",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -206,62 +181,16 @@
                 "otl": null
             },
             "startDate": "2018-11-11T18:00:00Z",
-            "status": "pre",
             "network": "FOX"
-        },
-        {
-            "eventId": 401030821,
-            "home": {
-                "id": 249,
-                "tournament": "NFL",
-                "teamId": "ten",
-                "division": "AFC South",
-                "longName": "Tennessee",
-                "fullName": "Tennessee Titans",
-                "rankInDivision": "1st in AFC South",
-                "record": "(4-4)",
-                "urlTeam": "http://www.espn.com/nfl/team/_/name/ten/tennessee-titans",
-                "shortName": "Titans",
-                "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": [],
-                "gb": null,
-                "win": null,
-                "lose": null,
-                "rank": null,
-                "vote": null,
-                "trend": null,
-                "otl": null
-            },
-            "away": {
-                "id": 42,
-                "tournament": "NFL",
-                "teamId": "ne",
-                "division": "AFC East",
-                "longName": "New England",
-                "fullName": "New England Patriots",
-                "rankInDivision": "1st in AFC East",
-                "record": "(7-2)",
-                "urlTeam": "http://www.espn.com/nfl/team/_/name/ne/new-england-patriots",
-                "shortName": "Patriots",
-                "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": [],
-                "gb": null,
-                "win": null,
-                "lose": null,
-                "rank": null,
-                "vote": null,
-                "trend": null,
-                "otl": null
-            },
-            "startDate": "2018-11-11T18:00:00Z",
-            "status": "pre",
-            "network": "CBS"
-        },
-        {
+        }
+    },
+    {
+        "id": 401030766,
+        "sportId": 1001,
+        "tournament": "NFL",
+        "startDate": "2018-11-11T18:00:00Z",
+        "links": [],
+        "eventDTO": {
             "eventId": 401030766,
             "home": {
                 "id": 65,
@@ -271,13 +200,13 @@
                 "longName": "Indianapolis",
                 "fullName": "Indianapolis Colts",
                 "rankInDivision": "1st in AFC South",
-                "record": "(3-5)",
+                "record": "3-5, 1-2 Home",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/ind/indianapolis-colts",
                 "shortName": "Colts",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -294,13 +223,13 @@
                 "longName": "Jacksonville",
                 "fullName": "Jacksonville Jaguars",
                 "rankInDivision": "1st in AFC South",
-                "record": "(3-5)",
+                "record": "3-5, 1-2 Away",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars",
                 "shortName": "Jaguars",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -310,10 +239,74 @@
                 "otl": null
             },
             "startDate": "2018-11-11T18:00:00Z",
-            "status": "pre",
             "network": "CBS"
-        },
-        {
+        }
+    },
+    {
+        "id": 401030810,
+        "sportId": 1001,
+        "tournament": "NFL",
+        "startDate": "2018-11-11T18:00:00Z",
+        "links": [],
+        "eventDTO": {
+            "eventId": 401030810,
+            "home": {
+                "id": 159,
+                "tournament": "NFL",
+                "teamId": "chi",
+                "division": "NFC North",
+                "longName": "Chicago",
+                "fullName": "Chicago Bears",
+                "rankInDivision": "1st in NFC North",
+                "record": "5-3, 3-1 Home",
+                "urlTeam": "http://www.espn.com/nfl/team/_/name/chi/chicago-bears",
+                "shortName": "Bears",
+                "points": null,
+                "winner": null,
+                "score": null,
+                "lineScores": null,
+                "gb": null,
+                "win": null,
+                "lose": null,
+                "rank": null,
+                "vote": null,
+                "trend": null,
+                "otl": null
+            },
+            "away": {
+                "id": 71,
+                "tournament": "NFL",
+                "teamId": "det",
+                "division": "NFC North",
+                "longName": "Detroit",
+                "fullName": "Detroit Lions",
+                "rankInDivision": "1st in NFC North",
+                "record": "3-5, 1-3 Away",
+                "urlTeam": "http://www.espn.com/nfl/team/_/name/det/detroit-lions",
+                "shortName": "Lions",
+                "points": null,
+                "winner": null,
+                "score": null,
+                "lineScores": null,
+                "gb": null,
+                "win": null,
+                "lose": null,
+                "rank": null,
+                "vote": null,
+                "trend": null,
+                "otl": null
+            },
+            "startDate": "2018-11-11T18:00:00Z",
+            "network": "FOX"
+        }
+    },
+    {
+        "id": 401030815,
+        "sportId": 1001,
+        "tournament": "NFL",
+        "startDate": "2018-11-11T18:00:00Z",
+        "links": [],
+        "eventDTO": {
             "eventId": 401030815,
             "home": {
                 "id": 111,
@@ -323,13 +316,13 @@
                 "longName": "Kansas City",
                 "fullName": "Kansas City Chiefs",
                 "rankInDivision": "1st in AFC West",
-                "record": "(8-1)",
+                "record": "8-1, 4-0 Home",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/kc/kansas-city-chiefs",
                 "shortName": "Chiefs",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -346,13 +339,13 @@
                 "longName": "Arizona",
                 "fullName": "Arizona Cardinals",
                 "rankInDivision": "1st in NFC West",
-                "record": "(2-6)",
+                "record": "2-6, 1-2 Away",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/ari/arizona-cardinals",
                 "shortName": "Cardinals",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -362,26 +355,32 @@
                 "otl": null
             },
             "startDate": "2018-11-11T18:00:00Z",
-            "status": "pre",
             "network": "FOX"
-        },
-        {
-            "eventId": 401030853,
+        }
+    },
+    {
+        "id": 401030821,
+        "sportId": 1001,
+        "tournament": "NFL",
+        "startDate": "2018-11-11T18:00:00Z",
+        "links": [],
+        "eventDTO": {
+            "eventId": 401030821,
             "home": {
-                "id": 176,
+                "id": 249,
                 "tournament": "NFL",
-                "teamId": "nyj",
-                "division": "AFC East",
-                "longName": "New York",
-                "fullName": "New York Jets",
-                "rankInDivision": "1st in AFC East",
-                "record": "(3-6)",
-                "urlTeam": "http://www.espn.com/nfl/team/_/name/nyj/new-york-jets",
-                "shortName": "Jets",
+                "teamId": "ten",
+                "division": "AFC South",
+                "longName": "Tennessee",
+                "fullName": "Tennessee Titans",
+                "rankInDivision": "1st in AFC South",
+                "record": "4-4, 2-1 Home",
+                "urlTeam": "http://www.espn.com/nfl/team/_/name/ten/tennessee-titans",
+                "shortName": "Titans",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -391,20 +390,20 @@
                 "otl": null
             },
             "away": {
-                "id": 1,
+                "id": 42,
                 "tournament": "NFL",
-                "teamId": "buf",
+                "teamId": "ne",
                 "division": "AFC East",
-                "longName": "Buffalo",
-                "fullName": "Buffalo Bills",
+                "longName": "New England",
+                "fullName": "New England Patriots",
                 "rankInDivision": "1st in AFC East",
-                "record": "(2-7)",
-                "urlTeam": "http://www.espn.com/nfl/team/_/name/buf/buffalo-bills",
-                "shortName": "Bills",
+                "record": "7-2, 2-2 Away",
+                "urlTeam": "http://www.espn.com/nfl/team/_/name/ne/new-england-patriots",
+                "shortName": "Patriots",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -414,10 +413,16 @@
                 "otl": null
             },
             "startDate": "2018-11-11T18:00:00Z",
-            "status": "pre",
             "network": "CBS"
-        },
-        {
+        }
+    },
+    {
+        "id": 401030828,
+        "sportId": 1001,
+        "tournament": "NFL",
+        "startDate": "2018-11-11T18:00:00Z",
+        "links": [],
+        "eventDTO": {
             "eventId": 401030828,
             "home": {
                 "id": 87,
@@ -427,13 +432,13 @@
                 "longName": "Tampa Bay",
                 "fullName": "Tampa Bay Buccaneers",
                 "rankInDivision": "1st in NFC South",
-                "record": "(3-5)",
+                "record": "3-5, 2-1 Home",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/tb/tampa-bay-buccaneers",
                 "shortName": "Buccaneers",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -450,13 +455,13 @@
                 "longName": "Washington",
                 "fullName": "Washington Redskins",
                 "rankInDivision": "1st in NFC East",
-                "record": "(5-3)",
+                "record": "5-3, 2-1 Away",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/wsh/washington-redskins",
                 "shortName": "Redskins",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -466,10 +471,74 @@
                 "otl": null
             },
             "startDate": "2018-11-11T18:00:00Z",
-            "status": "pre",
             "network": "FOX"
-        },
-        {
+        }
+    },
+    {
+        "id": 401030853,
+        "sportId": 1001,
+        "tournament": "NFL",
+        "startDate": "2018-11-11T18:00:00Z",
+        "links": [],
+        "eventDTO": {
+            "eventId": 401030853,
+            "home": {
+                "id": 176,
+                "tournament": "NFL",
+                "teamId": "nyj",
+                "division": "AFC East",
+                "longName": "New York",
+                "fullName": "New York Jets",
+                "rankInDivision": "1st in AFC East",
+                "record": "3-6, 2-2 Home",
+                "urlTeam": "http://www.espn.com/nfl/team/_/name/nyj/new-york-jets",
+                "shortName": "Jets",
+                "points": null,
+                "winner": null,
+                "score": null,
+                "lineScores": null,
+                "gb": null,
+                "win": null,
+                "lose": null,
+                "rank": null,
+                "vote": null,
+                "trend": null,
+                "otl": null
+            },
+            "away": {
+                "id": 1,
+                "tournament": "NFL",
+                "teamId": "buf",
+                "division": "AFC East",
+                "longName": "Buffalo",
+                "fullName": "Buffalo Bills",
+                "rankInDivision": "1st in AFC East",
+                "record": "2-7, 1-4 Away",
+                "urlTeam": "http://www.espn.com/nfl/team/_/name/buf/buffalo-bills",
+                "shortName": "Bills",
+                "points": null,
+                "winner": null,
+                "score": null,
+                "lineScores": null,
+                "gb": null,
+                "win": null,
+                "lose": null,
+                "rank": null,
+                "vote": null,
+                "trend": null,
+                "otl": null
+            },
+            "startDate": "2018-11-11T18:00:00Z",
+            "network": "CBS"
+        }
+    },
+    {
+        "id": 401030859,
+        "sportId": 1001,
+        "tournament": "NFL",
+        "startDate": "2018-11-11T21:05:00Z",
+        "links": [],
+        "eventDTO": {
             "eventId": 401030859,
             "home": {
                 "id": 267,
@@ -479,13 +548,13 @@
                 "longName": "Oakland",
                 "fullName": "Oakland Raiders",
                 "rankInDivision": "1st in AFC West",
-                "record": "(1-7)",
+                "record": "1-7, 1-3 Home",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/oak/oakland-raiders",
                 "shortName": "Raiders",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -502,13 +571,13 @@
                 "longName": "Los Angeles",
                 "fullName": "Los Angeles Chargers",
                 "rankInDivision": "1st in AFC West",
-                "record": "(6-2)",
+                "record": "6-2, 3-1 Away",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/lac/los-angeles-chargers",
                 "shortName": "Chargers",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -518,10 +587,16 @@
                 "otl": null
             },
             "startDate": "2018-11-11T21:05:00Z",
-            "status": "pre",
             "network": "FOX"
-        },
-        {
+        }
+    },
+    {
+        "id": 401030756,
+        "sportId": 1001,
+        "tournament": "NFL",
+        "startDate": "2018-11-11T21:25:00Z",
+        "links": [],
+        "eventDTO": {
             "eventId": 401030756,
             "home": {
                 "id": 3,
@@ -531,13 +606,13 @@
                 "longName": "Green Bay",
                 "fullName": "Green Bay Packers",
                 "rankInDivision": "1st in NFC North",
-                "record": "(3-4-1)",
+                "record": "3-4-1, 3-0-1 Home",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/gb/green-bay-packers",
                 "shortName": "Packers",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -554,13 +629,13 @@
                 "longName": "Miami",
                 "fullName": "Miami Dolphins",
                 "rankInDivision": "1st in AFC East",
-                "record": "(5-4)",
+                "record": "5-4, 1-3 Away",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/mia/miami-dolphins",
                 "shortName": "Dolphins",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -570,10 +645,16 @@
                 "otl": null
             },
             "startDate": "2018-11-11T21:25:00Z",
-            "status": "pre",
             "network": "CBS"
-        },
-        {
+        }
+    },
+    {
+        "id": 401030865,
+        "sportId": 1001,
+        "tournament": "NFL",
+        "startDate": "2018-11-11T21:25:00Z",
+        "links": [],
+        "eventDTO": {
             "eventId": 401030865,
             "home": {
                 "id": 183,
@@ -583,13 +664,13 @@
                 "longName": "Los Angeles",
                 "fullName": "Los Angeles Rams",
                 "rankInDivision": "1st in NFC West",
-                "record": "(8-1)",
+                "record": "8-1, 4-0 Home",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/lar/los-angeles-rams",
                 "shortName": "Rams",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -606,13 +687,13 @@
                 "longName": "Seattle",
                 "fullName": "Seattle Seahawks",
                 "rankInDivision": "1st in NFC West",
-                "record": "(4-4)",
+                "record": "4-4, 3-2 Away",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/sea/seattle-seahawks",
                 "shortName": "Seahawks",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -622,10 +703,16 @@
                 "otl": null
             },
             "startDate": "2018-11-11T21:25:00Z",
-            "status": "pre",
             "network": "CBS"
-        },
-        {
+        }
+    },
+    {
+        "id": 401030869,
+        "sportId": 1001,
+        "tournament": "NFL",
+        "startDate": "2018-11-12T01:20:00Z",
+        "links": [],
+        "eventDTO": {
             "eventId": 401030869,
             "home": {
                 "id": 122,
@@ -635,13 +722,13 @@
                 "longName": "Philadelphia",
                 "fullName": "Philadelphia Eagles",
                 "rankInDivision": "1st in NFC East",
-                "record": "(4-4)",
+                "record": "4-4, 2-2 Home",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
                 "shortName": "Eagles",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -658,13 +745,13 @@
                 "longName": "Dallas",
                 "fullName": "Dallas Cowboys",
                 "rankInDivision": "1st in NFC East",
-                "record": "(3-5)",
+                "record": "3-5, 0-4 Away",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/dal/dallas-cowboys",
                 "shortName": "Cowboys",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -674,10 +761,16 @@
                 "otl": null
             },
             "startDate": "2018-11-12T01:20:00Z",
-            "status": "pre",
             "network": "NBC"
-        },
-        {
+        }
+    },
+    {
+        "id": 401030873,
+        "sportId": 1001,
+        "tournament": "NFL",
+        "startDate": "2018-11-13T01:15:00Z",
+        "links": [],
+        "eventDTO": {
             "eventId": 401030873,
             "home": {
                 "id": 350,
@@ -687,13 +780,13 @@
                 "longName": "San Francisco",
                 "fullName": "San Francisco 49ers",
                 "rankInDivision": "1st in NFC West",
-                "record": "(2-7)",
+                "record": "2-7, 2-2 Home",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers",
                 "shortName": "49ers",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -710,13 +803,13 @@
                 "longName": "New York",
                 "fullName": "New York Giants",
                 "rankInDivision": "1st in NFC East",
-                "record": "(1-7)",
+                "record": "1-7, 1-3 Away",
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/nyg/new-york-giants",
                 "shortName": "Giants",
                 "points": null,
                 "winner": null,
                 "score": null,
-                "lineScores": [],
+                "lineScores": null,
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -726,211 +819,7 @@
                 "otl": null
             },
             "startDate": "2018-11-13T01:15:00Z",
-            "status": "pre",
             "network": "ESPN"
         }
-    ],
-    "year": 2018,
-    "type": 2,
-    "week": 10,
-    "filters": [
-        {
-            "year": 2018,
-            "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/10",
-            "weeks": [
-                {
-                    "name": "Hall of Fame Weekend",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/1/week/1"
-                },
-                {
-                    "name": "Preseason Week 1",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/1/week/2"
-                },
-                {
-                    "name": "Preseason Week 2",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/1/week/3"
-                },
-                {
-                    "name": "Preseason Week 3",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/1/week/4"
-                },
-                {
-                    "name": "Preseason Week 4",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/1/week/5"
-                },
-                {
-                    "name": "Week 1",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/1"
-                },
-                {
-                    "name": "Week 2",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/2"
-                },
-                {
-                    "name": "Week 3",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/3"
-                },
-                {
-                    "name": "Week 4",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/4"
-                },
-                {
-                    "name": "Week 5",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/5"
-                },
-                {
-                    "name": "Week 6",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/6"
-                },
-                {
-                    "name": "Week 7",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/7"
-                },
-                {
-                    "name": "Week 8",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/8"
-                },
-                {
-                    "name": "Week 9",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/9"
-                },
-                {
-                    "name": "Week 10",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/10"
-                },
-                {
-                    "name": "Week 11",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/11"
-                },
-                {
-                    "name": "Week 12",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/12"
-                },
-                {
-                    "name": "Week 13",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/13"
-                },
-                {
-                    "name": "Week 14",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/14"
-                },
-                {
-                    "name": "Week 15",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/15"
-                },
-                {
-                    "name": "Week 16",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/16"
-                },
-                {
-                    "name": "Week 17",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/2/week/17"
-                },
-                {
-                    "name": "Wild Card",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/3/week/1"
-                },
-                {
-                    "name": "Divisional Round",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/3/week/2"
-                },
-                {
-                    "name": "Conference Championships",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/3/week/3"
-                },
-                {
-                    "name": "Pro Bowl",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/3/week/4"
-                },
-                {
-                    "name": "Super Bowl",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/3/week/5"
-                },
-                {
-                    "name": "Week 1",
-                    "url": "http://www.espn.com/nfl/scoreboard/_/year/2018/seasontype/4/week/1"
-                }
-            ]
-        },
-        {
-            "year": 2017,
-            "url": "http://www.espn.com/nfl/scoreboard/_/year/2017/seasontype/2/week/10",
-            "weeks": []
-        },
-        {
-            "year": 2016,
-            "url": "http://www.espn.com/nfl/scoreboard/_/year/2016/seasontype/2/week/10",
-            "weeks": []
-        },
-        {
-            "year": 2015,
-            "url": "http://www.espn.com/nfl/scoreboard/_/year/2015/seasontype/2/week/10",
-            "weeks": []
-        },
-        {
-            "year": 2014,
-            "url": "http://www.espn.com/nfl/scoreboard/_/year/2014/seasontype/2/week/10",
-            "weeks": []
-        },
-        {
-            "year": 2013,
-            "url": "http://www.espn.com/nfl/scoreboard/_/year/2013/seasontype/2/week/10",
-            "weeks": []
-        },
-        {
-            "year": 2012,
-            "url": "http://www.espn.com/nfl/scoreboard/_/year/2012/seasontype/2/week/10",
-            "weeks": []
-        },
-        {
-            "year": 2011,
-            "url": "http://www.espn.com/nfl/scoreboard/_/year/2011/seasontype/2/week/10",
-            "weeks": []
-        },
-        {
-            "year": 2010,
-            "url": "http://www.espn.com/nfl/scoreboard/_/year/2010/seasontype/2/week/10",
-            "weeks": []
-        },
-        {
-            "year": 2009,
-            "url": "http://www.espn.com/nfl/scoreboard/_/year/2009/seasontype/2/week/10",
-            "weeks": []
-        },
-        {
-            "year": 2008,
-            "url": "http://www.espn.com/nfl/scoreboard/_/year/2008/seasontype/2/week/10",
-            "weeks": []
-        },
-        {
-            "year": 2007,
-            "url": "http://www.espn.com/nfl/scoreboard/_/year/2007/seasontype/2/week/10",
-            "weeks": []
-        },
-        {
-            "year": 2006,
-            "url": "http://www.espn.com/nfl/scoreboard/_/year/2006/seasontype/2/week/10",
-            "weeks": []
-        },
-        {
-            "year": 2005,
-            "url": "http://www.espn.com/nfl/scoreboard/_/year/2005/seasontype/2/week/10",
-            "weeks": []
-        },
-        {
-            "year": 2004,
-            "url": "http://www.espn.com/nfl/scoreboard/_/year/2004/seasontype/2/week/10",
-            "weeks": []
-        },
-        {
-            "year": 2003,
-            "url": "http://www.espn.com/nfl/scoreboard/_/year/2003/seasontype/2/week/10",
-            "weeks": []
-        },
-        {
-            "year": 2002,
-            "url": "http://www.espn.com/nfl/scoreboard/_/year/2002/seasontype/2/week/10",
-            "weeks": []
-        }
-    ]
-}
+    }
+]
