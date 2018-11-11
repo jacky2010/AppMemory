@@ -52,9 +52,10 @@
         "points": null,
         "winner": true,
         "score": 3,
-        "lineScores": [
-          3
-        ],
+                "lineScores": [
+                    3,
+                    0
+                ],
         "gb": null,
         "win": null,
         "lose": null,
@@ -76,10 +77,11 @@
         "shortName": "Chargers",
         "points": null,
         "winner": false,
-        "score": 0,
-        "lineScores": [
-          0
-        ],
+       "score": 0,
+                "lineScores": [
+                    0,
+                    0
+                ],
         "gb": null,
         "win": null,
         "lose": null,
@@ -144,10 +146,10 @@
         "shortName": "Packers",
         "points": null,
         "winner": false,
-        "score": 0,
-        "lineScores": [
-          0
-        ],
+         "score": 7,
+                "lineScores": [
+                    7
+                ],
         "gb": null,
         "win": null,
         "lose": null,
@@ -237,9 +239,9 @@
         "shortName": "Rams",
         "points": null,
         "winner": false,
-        "score": 0,
+        "score": 7,
         "lineScores": [
-          0
+          7
         ],
         "gb": null,
         "win": null,
@@ -262,9 +264,9 @@
         "shortName": "Seahawks",
         "points": null,
         "winner": true,
-        "score": 7,
+        "score": 14,
         "lineScores": [
-          7
+          14
         ],
         "gb": null,
         "win": null,
