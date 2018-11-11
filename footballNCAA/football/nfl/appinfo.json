@@ -3,7 +3,7 @@
   "versionCode": 6,
   "update": "",
   "isShowWatch": false,
-  "showAds": true,
+  "showAds": false,
   "title": "Release new version fix bugs",
   "message": "-Sorry we are under attack from one or few users.I fixed it. Sorry everyone\n Fix bug crash ",
   "msgUpdate": "Update",
