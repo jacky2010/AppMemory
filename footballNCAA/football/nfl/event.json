@@ -220,6 +220,16 @@
                 "isExternal": true,
                 "isCrawler": false,
                 "external": true
+            },
+            {
+                "id": 3232,
+                "name": "US onLy",
+                "src": "http://nfl5-redirect.cfapps.io/api/nfl/m3u8/https://neuclnlds229.akamaized.net/nlds/nfl/bears/as/live/bears_hd_3000_pc.m3u8?hdntl=exp=1542044302~acl=/*~data=hdntl~hmac=3123709e751f7db390413faf1e18e1b7931c8a9f345c0517d4a7707f47a401ed&my_app=true",
+                "platform": "ALL",
+                "type": "URL",
+                "isExternal": true,
+                "isCrawler": false,
+                "external": true
             }
         ],
         "eventDTO": {
