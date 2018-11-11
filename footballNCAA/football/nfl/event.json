@@ -1,14 +1,14 @@
 [
     {
-        "id": 401030729,
+        "id": 401030752,
         "sportId": 1001,
         "tournament": "NFL",
-        "startDate": "2018-11-09T01:20:00Z",
+        "startDate": "2018-11-11T18:00:00Z",
         "links": [
             {
-                "id": 15016,
-                "name": "NFL Network",
-                "src": "http://m.ok.ru/live/1901860429395?my_app=true",
+                "id": 15635,
+                "name": "NFL",
+                "src": "http://m.ok.ru/live/1894105620051?my_app=true",
                 "platform": "MOBILE",
                 "type": "URL",
                 "isExternal": true,
@@ -16,64 +16,6 @@
                 "external": true
             }
         ],
-        "eventDTO": {
-            "eventId": 401030729,
-            "home": {
-                "id": 100,
-                "tournament": "NFL",
-                "teamId": "pit",
-                "division": "AFC North",
-                "longName": "Pittsburgh",
-                "fullName": "Pittsburgh Steelers",
-                "rankInDivision": "1st in AFC North",
-                "record": "5-2-1, 2-2 Home",
-                "urlTeam": "http://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers",
-                "shortName": "Steelers",
-                "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
-                "gb": null,
-                "win": null,
-                "lose": null,
-                "rank": null,
-                "vote": null,
-                "trend": null,
-                "otl": null
-            },
-            "away": {
-                "id": 26,
-                "tournament": "NFL",
-                "teamId": "car",
-                "division": "NFC South",
-                "longName": "Carolina",
-                "fullName": "Carolina Panthers",
-                "rankInDivision": "1st in NFC South",
-                "record": "6-2, 1-2 Away",
-                "urlTeam": "http://www.espn.com/nfl/team/_/name/car/carolina-panthers",
-                "shortName": "Panthers",
-                "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
-                "gb": null,
-                "win": null,
-                "lose": null,
-                "rank": null,
-                "vote": null,
-                "trend": null,
-                "otl": null
-            },
-            "startDate": "2018-11-09T01:20:00Z",
-            "network": "FOX/NFL"
-        }
-    },
-    {
-        "id": 401030752,
-        "sportId": 1001,
-        "tournament": "NFL",
-        "startDate": "2018-11-11T18:00:00Z",
-        "links": [],
         "eventDTO": {
             "eventId": 401030752,
             "home": {
