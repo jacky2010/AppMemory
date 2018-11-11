@@ -230,6 +230,8 @@
         ],
         "eventDTO": {
             "eventId": 401030766,
+           "eventDTO": {
+            "eventId": 401030766,
             "home": {
                 "id": 65,
                 "tournament": "NFL",
@@ -243,8 +245,9 @@
                 "shortName": "Colts",
                 "points": null,
                 "winner": true,
-                "score": 7,
+                "score": 21,
                 "lineScores": [
+                    14,
                     7
                 ],
                 "gb": null,
@@ -268,9 +271,10 @@
                 "shortName": "Jaguars",
                 "points": null,
                 "winner": false,
-                "score": 0,
+                "score": 13,
                 "lineScores": [
-                    0
+                    7,
+                    6
                 ],
                 "gb": null,
                 "win": null,
