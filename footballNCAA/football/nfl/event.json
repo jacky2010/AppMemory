@@ -200,6 +200,28 @@
         "sportId": 1001,
         "tournament": "NFL",
         "startDate": "2018-11-11T18:00:00Z",
+         "links": [
+            {
+                "id": 1636,
+                "name": "720p",
+                "src": "http://bankai.stream/nba2.php?my_app=true",
+                "platform": "ALL",
+                "type": "URL",
+                "isExternal": true,
+                "isCrawler": false,
+                "external": true
+            },
+            {
+                "id": 1549,
+                "name": "US onLy",
+                "src": "http://ripple.is/live/nfl3.html?my_app=true",
+                "platform": "ALL",
+                "type": "URL",
+                "isExternal": true,
+                "isCrawler": false,
+                "external": true
+            }
+        ],
         "eventDTO": {
             "eventId": 401030766,
             "home": {
