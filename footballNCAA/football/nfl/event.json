@@ -34,6 +34,16 @@
                 "isExternal": true,
                 "isCrawler": false,
                 "external": true
+            },
+            {
+                "id": 15657,
+                "name": "HD1",
+                "src": "http://www.dofustream.com/player.html?u=http://test900.gcdn.co/e/pl/l34748512.m3u8&my_app=true&my_app=true",
+                "platform": "MOBILE",
+                "type": "URL",
+                "isExternal": true,
+                "isCrawler": false,
+                "external": true
             }
         ],
         "eventDTO": {
@@ -97,6 +107,38 @@
         "sportId": 1001,
         "tournament": "NFL",
         "startDate": "2018-11-11T18:00:00Z",
+         "links": [
+            {
+                "id": 15636,
+                "name": "HD1",
+                "src": "http://bankai.stream/nba5.php?my_app=true&my_app=true",
+                "platform": "ALL",
+                "type": "URL",
+                "isExternal": true,
+                "isCrawler": false,
+                "external": true
+            },
+            {
+                "id": 15649,
+                "name": "US onLy",
+                "src": "http://ripple.is/live/nfl1.html?my_app=true",
+                "platform": "ALL",
+                "type": "URL",
+                "isExternal": true,
+                "isCrawler": false,
+                "external": true
+            },
+            {
+                "id": 15658,
+                "name": "Ma Player1",
+                "src": "http://nfl5-redirect.cfapps.io/api/nfl/m3u8/https://neuclnlds226.akamaized.net/nlds/nfl/browns/as/live/browns_hd_3000_pc.m3u8?hdntl=exp=1542044244~acl=/*~data=hdntl~hmac=1f649f010ad7824f2b6065f6d2cdb0708ce7ac3ae594c5e174443695f133e0f0&my_app=true",
+                "platform": "MOBILE",
+                "type": "URL",
+                "isExternal": true,
+                "isCrawler": false,
+                "external": true
+            }
+        ],
         "eventDTO": {
             "eventId": 401030754,
             "home": {
