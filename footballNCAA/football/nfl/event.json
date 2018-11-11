@@ -6,9 +6,29 @@
         "startDate": "2018-11-11T18:00:00Z",
         "links": [
             {
-                "id": 15635,
-                "name": "NFL",
-                "src": "http://m.ok.ru/live/1894105620051?my_app=true",
+                "id": 15661,
+                "name": "720p",
+                "src": "http://bankai.stream/nba6.php?my_app=true",
+                "platform": "ALL",
+                "type": "URL",
+                "isExternal": true,
+                "isCrawler": false,
+                "external": true
+            },
+            {
+                "id": 15650,
+                "name": "Us only",
+                "src": "http://ripple.is/live/nfl4.html?my_app=true",
+                "platform": "ALL",
+                "type": "URL",
+                "isExternal": true,
+                "isCrawler": false,
+                "external": true
+            },
+            {
+                "id": 15653,
+                "name": "Mx Player",
+                "src": "http://nfl5-redirect.cfapps.io/api/nfl/m3u8/https://neuclnlds222.akamaized.net/nlds/nfl/nflxrz/as/live/nflxrz_hd_3000_pc.m3u8?hdntl=exp=1542044510~acl=/*~data=hdntl~hmac=60db185aa3ff41d277e1fd85fe55f6d301d67b8c22968b120943482782a6a8d6&my_app=true",
                 "platform": "MOBILE",
                 "type": "URL",
                 "isExternal": true,
@@ -30,9 +50,11 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals",
                 "shortName": "Bengals",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": false,
+                "score": 0,
+                "lineScores": [
+                    0
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -53,9 +75,11 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/no/new-orleans-saints",
                 "shortName": "Saints",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": false,
+                "score": 0,
+                "lineScores": [
+                    0
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -65,7 +89,7 @@
                 "otl": null
             },
             "startDate": "2018-11-11T18:00:00Z",
-            "network": "FOX"
+            "displayClock": "13:54 - 1st"
         }
     },
     {
@@ -73,7 +97,6 @@
         "sportId": 1001,
         "tournament": "NFL",
         "startDate": "2018-11-11T18:00:00Z",
-        "links": [],
         "eventDTO": {
             "eventId": 401030754,
             "home": {
@@ -88,9 +111,11 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/cle/cleveland-browns",
                 "shortName": "Browns",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": false,
+                "score": 0,
+                "lineScores": [
+                    0
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -111,9 +136,11 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/atl/atlanta-falcons",
                 "shortName": "Falcons",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": false,
+                "score": 0,
+                "lineScores": [
+                    0
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -123,7 +150,7 @@
                 "otl": null
             },
             "startDate": "2018-11-11T18:00:00Z",
-            "network": "FOX"
+            "displayClock": "12:07 - 1st"
         }
     },
     {
@@ -131,7 +158,6 @@
         "sportId": 1001,
         "tournament": "NFL",
         "startDate": "2018-11-11T18:00:00Z",
-        "links": [],
         "eventDTO": {
             "eventId": 401030766,
             "home": {
@@ -146,9 +172,11 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/ind/indianapolis-colts",
                 "shortName": "Colts",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": true,
+                "score": 7,
+                "lineScores": [
+                    7
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -169,9 +197,11 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars",
                 "shortName": "Jaguars",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": false,
+                "score": 0,
+                "lineScores": [
+                    0
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -181,7 +211,7 @@
                 "otl": null
             },
             "startDate": "2018-11-11T18:00:00Z",
-            "network": "CBS"
+            "displayClock": "11:26 - 1st"
         }
     },
     {
@@ -189,7 +219,6 @@
         "sportId": 1001,
         "tournament": "NFL",
         "startDate": "2018-11-11T18:00:00Z",
-        "links": [],
         "eventDTO": {
             "eventId": 401030810,
             "home": {
@@ -204,9 +233,11 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/chi/chicago-bears",
                 "shortName": "Bears",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": true,
+                "score": 6,
+                "lineScores": [
+                    6
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -227,9 +258,11 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/det/detroit-lions",
                 "shortName": "Lions",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": false,
+                "score": 0,
+                "lineScores": [
+                    0
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -239,7 +272,7 @@
                 "otl": null
             },
             "startDate": "2018-11-11T18:00:00Z",
-            "network": "FOX"
+            "displayClock": "11:22 - 1st"
         }
     },
     {
@@ -247,7 +280,6 @@
         "sportId": 1001,
         "tournament": "NFL",
         "startDate": "2018-11-11T18:00:00Z",
-        "links": [],
         "eventDTO": {
             "eventId": 401030815,
             "home": {
@@ -262,9 +294,11 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/kc/kansas-city-chiefs",
                 "shortName": "Chiefs",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": true,
+                "score": 7,
+                "lineScores": [
+                    7
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -285,9 +319,11 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/ari/arizona-cardinals",
                 "shortName": "Cardinals",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": false,
+                "score": 0,
+                "lineScores": [
+                    0
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -297,7 +333,7 @@
                 "otl": null
             },
             "startDate": "2018-11-11T18:00:00Z",
-            "network": "FOX"
+            "displayClock": "14:04 - 1st"
         }
     },
     {
@@ -305,7 +341,6 @@
         "sportId": 1001,
         "tournament": "NFL",
         "startDate": "2018-11-11T18:00:00Z",
-        "links": [],
         "eventDTO": {
             "eventId": 401030821,
             "home": {
@@ -320,9 +355,11 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/ten/tennessee-titans",
                 "shortName": "Titans",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": true,
+                "score": 6,
+                "lineScores": [
+                    6
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -343,9 +380,11 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/ne/new-england-patriots",
                 "shortName": "Patriots",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": false,
+                "score": 0,
+                "lineScores": [
+                    0
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -355,7 +394,7 @@
                 "otl": null
             },
             "startDate": "2018-11-11T18:00:00Z",
-            "network": "CBS"
+            "displayClock": "11:36 - 1st"
         }
     },
     {
@@ -363,7 +402,6 @@
         "sportId": 1001,
         "tournament": "NFL",
         "startDate": "2018-11-11T18:00:00Z",
-        "links": [],
         "eventDTO": {
             "eventId": 401030828,
             "home": {
@@ -378,9 +416,11 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/tb/tampa-bay-buccaneers",
                 "shortName": "Buccaneers",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": false,
+                "score": 0,
+                "lineScores": [
+                    0
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -401,9 +441,11 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/wsh/washington-redskins",
                 "shortName": "Redskins",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": false,
+                "score": 0,
+                "lineScores": [
+                    0
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -413,7 +455,7 @@
                 "otl": null
             },
             "startDate": "2018-11-11T18:00:00Z",
-            "network": "FOX"
+            "displayClock": "11:26 - 1st"
         }
     },
     {
@@ -421,7 +463,6 @@
         "sportId": 1001,
         "tournament": "NFL",
         "startDate": "2018-11-11T18:00:00Z",
-        "links": [],
         "eventDTO": {
             "eventId": 401030853,
             "home": {
@@ -436,9 +477,11 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/nyj/new-york-jets",
                 "shortName": "Jets",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": false,
+                "score": 0,
+                "lineScores": [
+                    0
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -459,9 +502,11 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/buf/buffalo-bills",
                 "shortName": "Bills",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": true,
+                "score": 7,
+                "lineScores": [
+                    7
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -471,7 +516,7 @@
                 "otl": null
             },
             "startDate": "2018-11-11T18:00:00Z",
-            "network": "CBS"
+            "displayClock": "14:11 - 1st"
         }
     },
     {
@@ -537,7 +582,6 @@
         "sportId": 1001,
         "tournament": "NFL",
         "startDate": "2018-11-11T21:25:00Z",
-        "links": [],
         "eventDTO": {
             "eventId": 401030756,
             "home": {
