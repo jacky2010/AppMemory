@@ -31,10 +31,10 @@
                 "shortName": "Eagles",
                 "points": null,
                 "winner": false,
-                "score": 0,
+                "score": 3,
                 "lineScores": [
-                     0,
-                     0
+                    0,
+                    3
                 ],
                 "gb": null,
                 "win": null,
@@ -57,10 +57,10 @@
                 "shortName": "Cowboys",
                 "points": null,
                 "winner": true,
-                "score": 3,
+                "score": 13,
                 "lineScores": [
                     3,
-                    0
+                    10
                 ],
                 "gb": null,
                 "win": null,
