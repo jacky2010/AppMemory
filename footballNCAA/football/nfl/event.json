@@ -33,7 +33,8 @@
                 "winner": false,
                 "score": 0,
                 "lineScores": [
-                    0
+                     0,
+                     0
                 ],
                 "gb": null,
                 "win": null,
@@ -58,7 +59,8 @@
                 "winner": true,
                 "score": 3,
                 "lineScores": [
-                    3
+                    3,
+                    0
                 ],
                 "gb": null,
                 "win": null,
