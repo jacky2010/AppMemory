@@ -4,7 +4,18 @@
         "sportId": 1001,
         "tournament": "NFL",
         "startDate": "2018-11-13T01:15:00Z",
-        "links": [],
+        "links": [
+            {
+                "id": 15755,
+                "name": "NFL Network",
+                "src": "https://ok.ru/live/1894105620051?my_app=true",
+                "platform": "MOBILE",
+                "type": "URL",
+                "isExternal": true,
+                "isCrawler": false,
+                "external": true
+            }
+        ],
         "eventDTO": {
             "eventId": 401030873,
             "home": {
