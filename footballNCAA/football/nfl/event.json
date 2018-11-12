@@ -1,136 +1,9 @@
 [
   {
-    "id": 401030859,
-    "sportId": 1001,
-    "tournament": "NFL",
-    "startDate": "2018-11-11T21:05:00Z",
-    "links": [
-      {
-        "id": 15688,
-        "name": "MX Player",
-        "src": "http://nfl5-redirect.cfapps.io/api/nfl/m3u8/https://neuclnlds62dal.akamaized.net/nlds/nfl/raiders/as/live/raiders_hd_3000_pc.m3u8?hdntl=exp=1542056197~acl=/*~data=hdntl~hmac=e90d11454c24e0e72210c838d12816505a215826f60ebb3dafde08667666c023&my_app=true",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 15689,
-        "name": "HD1",
-        "src": "http://bankai.stream/nba10.php?my_app=true",
-        "platform": "ALL",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 15690,
-        "name": "US Only",
-        "src": "http://ripple.is/live/nfl9.html?my_app=true",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      }
-    ],
-    "eventDTO": {
-      "eventId": 401030859,
-      "home": {
-        "id": 267,
-        "tournament": "NFL",
-        "teamId": "oak",
-        "division": "AFC West",
-        "longName": "Oakland",
-        "fullName": "Oakland Raiders",
-        "rankInDivision": "1st in AFC West",
-        "record": "1-7, 1-3 Home",
-        "urlTeam": "http://www.espn.com/nfl/team/_/name/oak/oakland-raiders",
-        "shortName": "Raiders",
-        "points": null,
-        "winner": true,
-        "score": 3,
-                "lineScores": [
-                    3,
-                    0
-                ],
-        "gb": null,
-        "win": null,
-        "lose": null,
-        "rank": null,
-        "vote": null,
-        "trend": null,
-        "otl": null
-      },
-      "away": {
-        "id": 172,
-        "tournament": "NFL",
-        "teamId": "lac",
-        "division": "AFC West",
-        "longName": "Los Angeles",
-        "fullName": "Los Angeles Chargers",
-        "rankInDivision": "1st in AFC West",
-        "record": "6-2, 3-1 Away",
-        "urlTeam": "http://www.espn.com/nfl/team/_/name/lac/los-angeles-chargers",
-        "shortName": "Chargers",
-        "points": null,
-        "winner": false,
-       "score": 0,
-                "lineScores": [
-                    0,
-                    0
-                ],
-        "gb": null,
-        "win": null,
-        "lose": null,
-        "rank": null,
-        "vote": null,
-        "trend": null,
-        "otl": null
-      },
-      "startDate": "2018-11-11T21:05:00Z",
-      "displayClock": "2:51 - 1st"
-    }
-  },
-  {
     "id": 401030756,
     "sportId": 1001,
     "tournament": "NFL",
     "startDate": "2018-11-11T21:25:00Z",
-    "links": [
-      {
-        "id": 15675,
-        "name": "MX Player RedZone",
-        "src": "http://nfl5-redirect.cfapps.io/api/nfl/m3u8/https://neuclnlds222.akamaized.net/nlds/nfl/nflxrz/as/live/nflxrz_hd_3000_pc.m3u8?hdntl=exp=1542044510~acl=/*~data=hdntl~hmac=60db185aa3ff41d277e1fd85fe55f6d301d67b8c22968b120943482782a6a8d6&my_app=true",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 15699,
-        "name": "MX Player",
-        "src": "http://nfl5-redirect.cfapps.io/api/nfl/m3u8/https://neuclnlds72dal.akamaized.net/nlds/nfl/packers/as/live/packers_hd_3000_pc.m3u8?hdntl=exp=1542056257~acl=/*~data=hdntl~hmac=cfc74bfdd7fadcc2352ccd3e3cd092f9b50faf416f53a26428d35b1cee9f33ff&my_app=true",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 15695,
-        "name": "HD1",
-        "src": "http://ripple.is/live/nfl10.html?my_app=true",
-        "platform": "ALL",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      }
-    ],
     "eventDTO": {
       "eventId": 401030756,
       "home": {
@@ -145,11 +18,14 @@
         "urlTeam": "http://www.espn.com/nfl/team/_/name/gb/green-bay-packers",
         "shortName": "Packers",
         "points": null,
-        "winner": false,
-         "score": 7,
-                "lineScores": [
-                    7
-                ],
+        "winner": true,
+        "score": 31,
+        "lineScores": [
+          7,
+          7,
+          14,
+          3
+        ],
         "gb": null,
         "win": null,
         "lose": null,
@@ -171,8 +47,11 @@
         "shortName": "Dolphins",
         "points": null,
         "winner": false,
-        "score": 0,
+        "score": 12,
         "lineScores": [
+          3,
+          6,
+          3,
           0
         ],
         "gb": null,
@@ -184,7 +63,7 @@
         "otl": null
       },
       "startDate": "2018-11-11T21:25:00Z",
-      "displayClock": "10:56 - 1st"
+      "displayClock": "Final"
     }
   },
   {
@@ -192,38 +71,6 @@
     "sportId": 1001,
     "tournament": "NFL",
     "startDate": "2018-11-11T21:25:00Z",
-    "links": [
-      {
-        "id": 15693,
-        "name": "MX Player",
-        "src": "http://nfl5-redirect.cfapps.io/api/nfl/m3u8/https://neuclnlds84dal.akamaized.net/nlds/nfl/rams/as/live/rams_hd_3000_pc.m3u8?hdntl=exp=1542056286~acl=/*~data=hdntl~hmac=7f7868e33bdae801da2622af003c125dd433707f7289c123b60a7aad16b6b6f4&my_app=true",
-        "platform": "ALL",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 15694,
-        "name": "HD1",
-        "src": "http://ripple.is/live/nfl11.html?my_app=true",
-        "platform": "MOBILE",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      },
-      {
-        "id": 15697,
-        "name": "Us Only",
-        "src": "http://bankai.stream/nba3.php?my_app=true",
-        "platform": "ALL",
-        "type": "URL",
-        "isExternal": true,
-        "isCrawler": false,
-        "external": true
-      }
-    ],
     "eventDTO": {
       "eventId": 401030865,
       "home": {
@@ -238,10 +85,13 @@
         "urlTeam": "http://www.espn.com/nfl/team/_/name/lar/los-angeles-rams",
         "shortName": "Rams",
         "points": null,
-        "winner": false,
-        "score": 7,
+        "winner": true,
+        "score": 36,
         "lineScores": [
-          7
+          7,
+          10,
+          3,
+          16
         ],
         "gb": null,
         "win": null,
@@ -263,10 +113,13 @@
         "urlTeam": "http://www.espn.com/nfl/team/_/name/sea/seattle-seahawks",
         "shortName": "Seahawks",
         "points": null,
-        "winner": true,
-        "score": 14,
+        "winner": false,
+        "score": 31,
         "lineScores": [
-          14
+          14,
+          0,
+          7,
+          10
         ],
         "gb": null,
         "win": null,
@@ -277,7 +130,7 @@
         "otl": null
       },
       "startDate": "2018-11-11T21:25:00Z",
-      "displayClock": "11:16 - 1st"
+      "displayClock": "1:56 - 4th"
     }
   },
   {
