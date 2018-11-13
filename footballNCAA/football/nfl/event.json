@@ -14,6 +14,24 @@
                 "isExternal": true,
                 "isCrawler": false,
                 "external": true
+            }, {
+                "id": 15455,
+                "name": "m3u8 1",
+                "src": "http://d3kilab16rpfm.cloudfront.net/nfl/49ers.m3u8?my_app=true",
+                "platform": "MOBILE",
+                "type": "URL",
+                "isExternal": true,
+                "isCrawler": false,
+                "external": true
+            }, {
+                "id": 157355,
+                "name": "m3u8 2",
+                "src": "http://dsbilz2ta1id4.cloudfront.net/nfl/49ers.m3u8?my_app=true",
+                "platform": "MOBILE",
+                "type": "URL",
+                "isExternal": true,
+                "isCrawler": false,
+                "external": true
             }
         ],
         "eventDTO": {
