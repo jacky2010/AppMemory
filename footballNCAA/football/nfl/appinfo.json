@@ -1,11 +1,11 @@
 {
   "isAction": true,
-  "versionCode": 11,
+  "versionCode": 12,
   "update": "",
   "isShowWatch": false,
   "showAds": true,
   "title": "Release new version fix bugs",
-  "message": "-Sorry we are under attack from one or few users.I fixed it. Sorry everyone\n Fix bug crash ",
+  "message": "-Update Image event \n Fix bug crash \n Update link load data\n Update Redtime",
   "msgUpdate": "Update",
   "msgCancel": "Cancel",
   "changeUrl": true,
