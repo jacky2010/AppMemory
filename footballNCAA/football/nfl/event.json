@@ -16,8 +16,8 @@
                 "external": true
             }, {
                 "id": 15455,
-                "name": "m3u8 1",
-                "src": "http://d3kilab16rpfm.cloudfront.net/nfl/49ers.m3u8?my_app=true",
+                "name": "mx player",
+                "src": "http://nfl5-redirect.cfapps.io/api/nfl/m3u8/https://neuclnlds225.akamaized.net/nlds/nfl/49ers/as/live/49ers_hd_3000_pc.m3u8?hdntl=exp=1542156628~acl=/*~data=hdntl~hmac=f8979942f944128644c72d40ac3c4b52f6236279914344d7bc24dd07d04a375d&my_app=true&my_app=true",
                 "platform": "MOBILE",
                 "type": "URL",
                 "isExternal": true,
