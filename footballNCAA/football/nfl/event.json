@@ -48,9 +48,12 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers",
                 "shortName": "49ers",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": true,
+                "score": 10,
+                "lineScores": [
+                    3,
+                    7
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -71,9 +74,12 @@
                 "urlTeam": "http://www.espn.com/nfl/team/_/name/nyg/new-york-giants",
                 "shortName": "Giants",
                 "points": null,
-                "winner": null,
-                "score": null,
-                "lineScores": null,
+                "winner": false,
+                "score": 7,
+                "lineScores": [
+                    7,
+                    0
+                ],
                 "gb": null,
                 "win": null,
                 "lose": null,
@@ -83,7 +89,7 @@
                 "otl": null
             },
             "startDate": "2018-11-13T01:15:00Z",
-            "network": "ESPN"
+            "displayClock": "8:35 - 2nd"
         }
     },
   {
